@@ -1,0 +1,1402 @@
+[
+    {
+        "question": "What is a more efficient thinking process?",
+        "answer": "I'm a bit of a perfectionist and strive to make the best move every game. As a result I think I expend too much brain power throughout the game and get burned out or overwhelmed by the possibilites, for example in the opening I would try consider all my opponents responses of which there are many in the opening, sometimes I feel habits such as these are unnecessary and are just a waste of energy. What is the most correct way to expend your mental energy in a chess game?"
+    },
+    {
+        "question": "Q+N in attacking K",
+        "answer": "I've always been told that Q and N are very strong in attacking K. Could someone show me some real GM games where Q+N attack decides the game? (where at the end of the aggression, the attacking side gets decisive advantage)"
+    },
+    {
+        "question": "Exercises for positional evaluation",
+        "answer": "I would like to improve my position evaluation skills. And as we all know - there are tons of tactical exercises , endgames studies, etc. But when it comes to exercises for positional evaluation - well - things are getting complicated.So far I know these sources:\n- 'How to Reassess Your Chess' workbook\n- Aagard 'Positional Play' contains some exercises\n- Khmelnicky 100-exercises test book (but it contains all kinds of puzzles)I've read Dan Heisemann idea to work with complicated middlegame position and then process it with an engine. But IMHO it lacks clear plan presentation and overall view of what is going on the board. So my question is - can anyone point me to specialised book or webpage that contain more of position evaluation exercises with long descriptive answers?"
+    },
+    {
+        "question": "The a2-g8 diagonal in the Dutch Defense",
+        "answer": "I've been playing the Dutch defense, mainly the Leningrad, although sometimes I'll delay the fianchetto, starting off in more of a Hort-Antoshin Dutch. My biggest trouble has been when white avoids the main lines and plays an early Bc4 or Qb3, making it impossible to castle without e6, or d5, which completely changes the nature of the opening.I'm referring to positions like the following:rnbqkb1r/ppp1p1pp/3p1n2/5p2/3P4/1QP2N2/PP2PPPP/RNB1KB1R b KQkq - 1 4orrnbqkb1r/ppp1p1pp/3p1n2/5p2/2BP4/4PN2/PPP2PPP/RNBQK2R b KQkq - 1 4What can I do to counter this?"
+    },
+    {
+        "question": "Scotch opening 5.Nf3",
+        "answer": "Yesterday Anish Giri played the scotch opening at the Tata Steel Tournament with the strange looking move(to me) 5.Nf3.[fen \"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1\"]\n\n1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qf6 5.Nf3What is the idea/plan behind this move after retreating the knight immediately.\nFrom my point of view i would assume the knight is better placed on d4 than on f3.Can white even hope to have an opening advantage after this move?"
+    },
+    {
+        "question": "48 pieces on one board",
+        "answer": "I saw this picture on the Internet.I am wondering if there is any way to play on this board. Does anyone know what the rules are for this type of chess?"
+    },
+    {
+        "question": "Chess study methods / memorisation techniques from before the computer-based SRS era",
+        "answer": "Some of the other questions on SE discuss the use of spaced repetition systems such as Anki and Mnemosyne to learn tactics, openings and other aspects of chess (see especiallyEffectiveness of a spaced repetition system (SRS) for memorizing tactical patterns for long-term skill gain?). \n(I am also aware that memorisation should never be done at the cost of understanding (seeUnderstanding vs. Memorization).My question, however, is about older memorisation techniques that don't rely on current SRS software. So far, I have found only one example of spaced repetition that does not rely on a computer. It comes from Hans Bouwmeester's bookSchaken als vak: brug naar het professionele schaak(1976; English:Chess as a profession: bridge towards professional chess). (Bouwmeester coached people likeJan Timman,Gert LigterinkandPaul van der Sterren.)At the end of a chapter about building up a card index or filing system for opening theory, he briefly describes a method for memorising opening variations (pp. 96-97). Assuming that you can subdivide your opening repertoire into 16 groups, you can review it in the following way (with 1.5 to 2 hours of study per day):Day  1:     1\nDay  2:     2   1\nDay  3:     3   2\nDay  4:     4   3   1\nDay  5:     5   4   2\nDay  6:     6   5   3\nDay  7:     7   6   4\nDay  8:     8   7   5   1\nDay  9:     9   8   6   2\nDay 10:     10  9   7   3\nDay 11:     11  10  8   4\nDay 12:     12  11  9   5\nDay 13:     13  12  10  6\nDay 14:     14  13  11  7\nDay 15:     15  14  12  8\nDay 16:     16  15  13  9   1\nDay 17:     1   16  14  10  2\nDay 18:     2   1   15  11  3\nDay 19:     3   2   16  12  4\nDay 20:     4   3   1   13  5\nDay 21:     5   4   2   14  6\nDay 22:     6   5   3   15  7\nDay 23:     7   6   4   16  8So, every day, you take a \"new\" group, you review the group from the day before, the group from 3 days earlier, the group from 1 week earlier and the group that was new 15 days earlier.Bouwmeester implies that there are other methods, but he does not mention any. Is anybody aware of other methods (possibly from other chess books)? Have Dvoretsky, Jusupov or Aagaard written anything about this in their books?"
+    },
+    {
+        "question": "Simple mate in 2?",
+        "answer": "I used to be a problem composer and the thing I loved most about creating and solving chess problems is that you can't just rely on simple patterns. You need to think outside the box. This is one of my earlier chess problems. Can you solve it?White to move and mate in 2[fen \"3BB1N1/QKp3pb/7p/5R1R/3br1k1/7N/4P2P/6n1 w - - 0 1\"]Good luck!"
+    },
+    {
+        "question": "Is it still possible to develop new openings?",
+        "answer": "I have been using this opening that I accidentally started using a lot and then got good results in Blitz games. I'm almost sure it won't last a chance in standard games but it made me curious about a bigger question:If I can't find an opening variation (and it really is an opening, say it starts after 3-4 moves from the beginning of the game, not after 20!) in databases, does it mean that it hasn't been good enough to become famous? In other words, is the age of opening theory over with all the stronger ones already being developed and analysed?"
+    },
+    {
+        "question": "Is this position lost for White?",
+        "answer": "8/8/8/5kp1/p7/P4K2/1P6/8 b - - 0 1White just played Kf3, thereby gaining the opposition.If there were no queenside pawns, what is on the kingside would be a \"book\" draw. That's because the White king can maneuver himself into a stalemate position on his first rank.But in this position, if the White king can't move, White has to move the b pawn to b3, or to b4 via b3. In either event, Black's a pawn takes it, queens, and wins for Black.Or does it?"
+    },
+    {
+        "question": "Open source Chess engines under MIT license?",
+        "answer": "What are some of the open source Chess engines under the MIT license?The purpose of the search is to find a suitable strong engine to be used in our chess hardware/software product. Thanks."
+    },
+    {
+        "question": "A tactic on the Chekhover variation of the Sicilian?",
+        "answer": "Recently I found the gameTal vs. Byrne (1976), that opens withChekhover Variation of the Sicilian Defense. What got my attention in this variation was move7, for, just like Tal did, every engine says that the best move is7. Nc3, but for some reason I like how7. Ng5looks:[FEN \"\"]\n1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Ng5!? (7. Ng5 e5 8. Qc4 Qd7)Stockfish 6 says it is slightly better for black (-0.8 at depth=22 to be precise), but the main idea is simply to explore the weakness of the f7 pawn. The main line I was thinking was7... e5 8. Qc4, the natural urge to punish the white queen at the center creates the threat of mate on f7, so black is somewhat obligated to lift the queen to the 7th rank. Anyway, if this \"trick\" fails, for example after8... Qd7, there is no immediate advantage for white, and it seems that the only difference from Tal's 1976 variation is that here white is behind in development (and ready to be punished!).I couldn't find any game with the move7. Ng5in chessgames.com, but I still think that it is a natural looking move that seems to have a possible tactic behind it, even if I wasn't able to find. So my question is:Is7. Ng5reallyonlya bad move? The downside is that obvious? Or there is a possible tactic behind it? (besides the threat of mate on f7 after7... e5 8. Qc4)"
+    },
+    {
+        "question": "Strategic challenge #1 - C.Hansen - J.Hellsten",
+        "answer": "This is the first of a series of strategic challenges. The answers are supposed to provide a move (or sequence of moves) and the right plan for the corresponding player. In this occasion we have the following diagram:[fen \"r3kb1r/1p2qp1p/p1p1npp1/2P5/3P4/4BN2/PP3PPP/R2Q1RK1 w - - 0 1\"]I took this position fromMastering Chess Strategyby Johan Hellsten. This position arose in a game between Curt Hansen and the author in 1996. The author says about the position:Black just need a few moves like Rd8, Bg7 and 0-0 to achieve safety. However, it is White to move ...What is the right move and plan for White in this position?"
+    },
+    {
+        "question": "Both flags fallen: Draw?",
+        "answer": "Suppose both players have 0 seconds left on the clock, but the clock indicates that the flag of player B has fallen first, which is claimed by Player A. Player A has enough material to mate his opponent (but also no time left, that is the point!) \u2013 has he just won the game?The rulestell us (emphasisis by me):(6.11) If both flags have fallen andit is impossible to establish which flag fell firstthen:The game shall continue if this occurs in any period of the game except the last period.the game is drawn if this occurs in the period of a game in which all remaining moves must be completed.Therefore IthinkPlayer A has won. Sadly enough the rules do not explicitly tell what happens if is possible to establish which flag fell first (or at least I was unable to find that paragraph)."
+    },
+    {
+        "question": "In what cases is it good to play the Maroczy Bind in the Symmetrical English?",
+        "answer": "I'm thinking about playing the Maroczy Bind with White in the Symmetrical English (1. Nf3 c5 2. c4 - notice that I start with 1. Nf3).But I don't know exactly in what cases I should play it.So I would like to know if these four sentences are true or not:The Maroczy Bind is good for White if White places his King's Bishop\non e2.The Maroczy Bind is not good for White if White fianchettoes his King's Bishop on g2.The Maroczy Bind is not good for White if Black places his King's Bishop on e7.The Maroczy Bind is good for White if Black fianchettoes his King's Bishop on g7."
+    },
+    {
+        "question": "How to know when it is time to trade down to an endgame? [duplicate]",
+        "answer": "This question already has an answer here:When to transition into an ending(1 answer)Closed9 years ago.Sirs,After considerable endgame study (i.e. Jeremy Silman's complete endgame course), I am finding that there is a wealth of information about how to win endgames.  However, I am noticing that there isn't as much information about knowing/judging when it is time to \"trade down\" to an endgame.I'm not at all confused by the most basic principles such as \"trade down to an endgame when you are a knight-ahead or better\".  However, I would love to see an outline (or a link to some kind of equivalent knowledge) addressing more detailed situations such as:--a.)  trading down to an endgame when white has two passed pawns on opposite sides of the board vs. black's poorly guarded pawn on the 7th rank.--b.)  win/lose/draw analysis of bishop only endgames when bishop are of same color, or Knight vs. bishop endgame success?\netc, etc.Does anyone know of a website, book, or resource addressing this niche subject of judging whether or not to trade down to an endgame?Regards,Brent"
+    },
+    {
+        "question": "Eyestrain - Anyone experiencing eyestrain when playing OTB?",
+        "answer": "As the title says. When playing blitz (3 to 5-minute games), I experience eyestrain after 10 or more games. After that, I start to blunder. I get tired too fast.In our area, it seems to be only me who has this issue because my opponents can play a whole day without signs of exhaustion. Their plays don't change while my play changes after few blitz games. It is like starting from Elo 1850 then after few games it seems that I am playing like in Elo 1500-1600 while my opponent's strength and any other players' strengths in our area are the same the whole day.By the way, I work online for at least 10 hours each day Monday to Friday. I play only on weekends. I have computer eyestrain too (a different case, not OTB chess eyestrain). But on weekends I still get eyestrain even when playing OTB only and not using a computer. I get enough sleep on Saturday, so I should not get eyestrain on Sunday when playing OTB, but it still happens.How do I solve this issue?"
+    },
+    {
+        "question": "ChessCafe.com RIP?",
+        "answer": "The latest ChessCafe.com article -https://chesscafe.com/the-skittles-room/on-hiatus/- has this to say:We would like to thank those who have supported ChessCafe with a\n  purchase of product and subsequent membership. However, subscriptions\n  have fallen just shy of what is needed to maintain our stable of great\n  columnists. Therefore, we are taking a three-month hiatus from posting\n  new contentI suspect \"just shy\" is a euphemism.Does anybody have better information on when / whether ChessCafe.com is going to come back to life?"
+    },
+    {
+        "question": "Must chess pieces be within a square?",
+        "answer": "In lightning chess. must pieces be moved so they are completely within a square? If not then how much overlap is allowed? If my opponent breaks this rule do I stop the clock and call the DOP?"
+    },
+    {
+        "question": "What's the best continuation for white here?",
+        "answer": "Here's what I do when someone tries to copy my moves:[Date \"????.??.??\"]\n[Result \"*\"]\n[FEN \"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1\"]\n\n1.e4 e5 2.Nf3 Nf6 3.Nxe5 Nxe4 4.Qe2 Qe7 5.Qxe4 d6 \n*But then my opponent playsd6, and I don't know what should I do. What's the best continuation for white afterd6?"
+    },
+    {
+        "question": "Black plans in Taimanov/Kan Sicillian?",
+        "answer": "So anyways, I decided to take up learning Taimanov and Kan Sicillian so I was wondering if someone could just tell me what are the basic plans of this opening, what I've seen from my brief analysis is that black's black squares are going to get exposed since his attack on the c3 square seems inevitable, b5 and Bb7 looks quite tempting as a plan, and how afraid should I be of white's attack on the queenside? \nAlso what are some good books to study for these variations?"
+    },
+    {
+        "question": "What is the power of team captain in team tournaments?",
+        "answer": "To what extent is the power of team captain in team tournaments (like Olympiad)?Can the team captain decide which board he wants to offer draw even though the position is winning without the consent of team players?Can the captain decide which player is not playing if there is a substitute player?"
+    },
+    {
+        "question": "What are some common statistical analyses we can run on many games (~20k games)?",
+        "answer": "I have a list of around 20k games played on a popular online website. I would like to run some statistical analyses on these games. I'm not talking about analysing specific games, but rather finding common patterns that arise.I've looked at some popular sites on the internet that provide such statistics, but I'm wondering if there might be any more. So far I've got:Popular openings grouped by ECO.Most common endgames.Average rating difference between opponents.Frequent players.Longest streak (rematch count).What other kinds of statistics might reveal something about the community, players, tendencies and more?Thanks.EDIT:Thanks for the suggestions so far. I apologize if I wasn't very clear with the question, so let me clarify some things: I would like to avoid analysing all the games (such as finding the point at which its +-2, or finding recurring tactical motifs, as these require going through each game and running it by an engine). I'm more interested in getting information and statistics about that particular collection of games, so having access to more games isn't necessarily a better thing. I hope this can steer the answers in the intended direction.Thank you."
+    },
+    {
+        "question": "Is there a comprehensive coverage for Lasker variation of the Scandinavian defense?",
+        "answer": "Recently I was trying to improve Scandinavian defense in a way that I can reach \"Viking\" setup (...0-0-0 + ...Nc6 + ...Bg4vsd4). I am trying out various move orders, and have stumbled upon one that I believe would suit me the best:[Title \"Scandinavian defense, B01\"]\n[fen \"\"]\n\n1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 Bg4If White plays6.Bc4then I can reach my desired setup, which seems to give Black good play according to GMEric Pri\u00e9. Unfortunately, I can't afford subscription for theChess Publishingand the article is dated.My main interest is about positions with6.h3!since they can become very hard for Black, forcing him to play \"only\" moves. In order for answers to this question not to be to broad I am asking for comprehensive resources on the line with6.h3only. If space allows, I would appreciate if the answerer could list resources for other moves as well ( like6.Bc4).To repeat, is there a thorough coverage of the following line:[Title \"Scandinavian defense, B01\"]\n[fen \"\"]\n\n1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 Bg4 6.h3!"
+    },
+    {
+        "question": "Can you recommend a closed opening for black against 1.e4?",
+        "answer": "What is a good opening system for black that leads to closed play against 1.e4?E.G. - against 1.d4 I like to play the Slav & am looking into the Czech Benoni.  I am looking for something similar against e4.  I currently use the Caro-Kann, and briefly used the French, but am wanting to look at some other options.In particular, an off-beat line that doesn't have a ton of theory would be nice.Thanks in advance for your replies!"
+    },
+    {
+        "question": "Setting up a game between two computers",
+        "answer": "I was hoping that this would be a simple exercise but I have spent the last two days looking into this and can not find an answer (easy or otherwise). What I want to do is have my iMac play my Ubuntu laptop in chess over a LAN.I know I can do this by manually entering the moves but my hope was to automate the process. And eventually play many games alternating parameter such and length of time per move etc.Has any one done this or any ideas on how to achieve this?"
+    },
+    {
+        "question": "Weak and strong squares",
+        "answer": "I somewhat understand the concept of attacking the king and pieces, but \"attacking\" squares is a bit of a vague concept for me.What are weak and strong squares? When do you use them? How do you create them?"
+    },
+    {
+        "question": "What does a team captain in chess do?",
+        "answer": "I was made the \"team captain\" of the chess club I am a member of for a match with a chess club in a different city.I want to know all the requirements for being a team captain.All I did was choose the team members based on the highest rating."
+    },
+    {
+        "question": "How are the ECO codes for chess openings assigned?",
+        "answer": "As an example, I will use theRuy Lopez.C60is defined as1.e4 e5 2.Nf3 Nc6 3.Bb5as well as host of otherRuy Lopezvariations.C60is also theRuy Lopez - Cozio Defence, Paulsen Variationwhich is defined by the moves1.e4 e5 2.Nf3 Nc6 3.Bb5 Nge7 4.Nc3 g6C66is the 'Ruy Lopez - Closed Berlin Defence, Chigorin Variationwhich is defined by the moves1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O d6 5.d4 Nd7`How do these codes get assigned?  In the case of theRuy Lopez, are the codes differentiated after the move3.Bb5?"
+    },
+    {
+        "question": "Why isn't the active color allowed to be in check in a FEN legal position?",
+        "answer": "The title says it. Reading up on how to describe the position of a board, all of the requirements make sense (like two kings not being on adjacent squares and so on) except for the active color being in check. Why isn't that allowed? What is the rationale behind this?"
+    },
+    {
+        "question": "When to call out a cheat?",
+        "answer": "Played a 900 ELO friend on chess.com with no time limit, and was doing very well in the first half.  However from move 40 to his win on 73, he played perfectly by stockfish suggestions, and was given an estimated skill level of 1500.At what point do you pass from judging your opponent as suspiciously good to an obvious cheat?  Are there online tools that can detect this sort of thing more deeply than manually flipping through moves?  Maybe they just had a really good mid to end game?Don't mean to be salty... but this person has been known to cheat in other games."
+    },
+    {
+        "question": "What is the shortest game that has never been played?",
+        "answer": "In the publicly available databases (at all levels of play, including Lichess), what is the shortest unique sequence of moves from the opening which has never occurred? (That is, if it were played, it would be a novelty.)Are there, for instance, any 2 move sequences?"
+    },
+    {
+        "question": "Are there chess variants than involve only cooperation and no competition?",
+        "answer": "One thing I've noticed is that even the most unusual chess variants tend to involve some sort of a competition.  For instance in 4 player chess teams the members of the same team cooperate with each other, however the different teams still compete against each other.  In some variants the game is something other than to trap the King, but in the ones I've read about and played it's still a competition with a winner and loser, or a draw.My question is are there any variants that involve all the players cooperating to achieve a common goal, with all players either winning together or losing together as opposed to competing with each other?"
+    },
+    {
+        "question": "What's the easiest way to hold this 4 vs 3 pawns on same side rook endgame?",
+        "answer": "After having been under tremendous pressure due to a mistake in the middle game and with only 30s on the clock, I was very relieved to find a way to liquidate into this endgame, which I knew was a theoretical draw.[FEN \"8/5pk1/R3p1p1/8/7p/7P/3r1PP1/6K1 w - - 0 34\"]Long story short: I managed to lose this endgame. Not due to my time-trouble, but because I didn't manage anything of the following: active counterplay/defence using my rook, cutting off his king, trading pawns,.... He just slowly advanced his king, shielded by his pawns and due to his active rook and restricting pawns I could never really free myself.How to hold this endgame? The engine claims that every single legal move from White (except the ones immediately losing material and g3) is -0.2 or -0.3...\nSo apparently, even though Black is more active than in other 3-vs-4-scenarios, White doesn't seem to need precision from the start.\nWhat's the defence plan / setup that White should follow to facilitate the draw?"
+    },
+    {
+        "question": "How can I draw this KPPP-KR endgame?",
+        "answer": "SeeThree (3) Pawns and a King vs King and Rook.I consider it one of the most amazing chess endgame puzzles.[Title \"White to play and draw\"]\n[fen \"8/2k5/2r5/8/4PPP1/5K2/8/8 w - - 0 1\"]Of course I tried to solve it myself... I tried different approaches. E.g., trying to promote the g pawn with the aid of my king. Unfortunately, I had little-to-no success.So how must I act in order to draw the game (assuming black has perfect play, always makes best moves and does not accept my possible draw offer)? What is the proper analysis?"
+    },
+    {
+        "question": "Who is the H\u00fcbsch gambit named after?",
+        "answer": "According toLichess, the H\u00fcbsch gambit starts with 1. d4 Nf6 2. Nc3 d5 3. e4:[FEN \"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1\"]\n\n1. d4 Nf6 2. Nc3 d5 3. e4This articlestates:Second, despite being named in honor of an unknown player, H\u00fcbsch, who achieved a spirited victory in 1922 with the White pieces over the renowned Saviely Tartakower [...]Who was this Mr(s) H\u00fcbsch, does anyone have any further information?Edit:this articleclaims that his/her name starts with \"E\".Edit:Another pageclaims that the first name starts with an \"F\".Edit: the video description ofthis videocites a book and the following text:On December 20, 1922, an unknown young man entered the chess room at the Caf\u00e9 Central, walked straight up to Grandmaster Tartakower, who was sitting idly by, and challenged him to a game of chess for a high stake. (DeepL translation)"
+    },
+    {
+        "question": "If classical is 120 minutes+ and rapid is 10-59 minutes, then what's 60-119 minutes? 'Slow rapid'?",
+        "answer": "Wikipediasays that FIDE says for tournaments with 2200+ rated players,Classical is 120 minutes+Rapid is 10-59 minutesSo what's 60-119 minutes for tournaments with 2200+ rated players? 'Slow rapid' ?"
+    },
+    {
+        "question": "What is the point of shark points?",
+        "answer": "Inthis tweetBenjamin Portheault gives this alternate scoring for the current Wijk event:Can anybody explain what is going on here beyond justSharkpoints = Waste + Points? What are they supposed to be measuring? Where do these numbers come from? If they are supposed to give a fuller (probably just different) view because just \"points\" isn't enough then they fail because \"Sharkpoints\" also fail to account for \"waste\"."
+    },
+    {
+        "question": "Winning position after move one?",
+        "answer": "Question:There are 400 possible two-ply openings; that is, positions that can arise after each player has made one move.  Which of these positions, if any, are winning (either for white or for black) with perfect play?Context:It's very likely that chess is a draw with perfect play, which would mean that there is no one-ply opening that gives white a winning position.This questionasks about theworstfirst move for white; if there is any first move so bad that black is winning with correct play, then that move (combined with black's best response) would of course be an answer to this question.On the other hand, there definitely are some three-ply openings where black is winning; for example, black has mate in one after 1. f3 e5 2. g4.My attempts:I ran Stockfish 15 on a handful of two-ply openings that seemed most likely to be winning for white, along with the two one-ply openings that seem worst for white.  The most promising lines I found were as follows (along with the depth and number of meganodes in my searches, plus the best continuation and comments on transpositions):d4 g5:  +2.95 (depth 55/68, 55298 MN; 2. Bxg5)h4 g5:  +2.87 (depth 52/72, 4894 MN; 2. hxg5)e4 g5:  +2.14 (depth 38/44, 301 MN; 2. d4, transposes to sideline of 1. d4 g5)Nc3 g5:  +2.12 (depth 39/47, 314 MN; 2. d4, transposes to sideline of 1. d4 g5)d3 g5:  +2.07 (depth 36/39, 173 MN; 2. Bxg5)e4 f5:  +2.07 (depth 41/53, 267 MN; 2. exf5)e4 b5:  +1.94 (depth 37/49, 135 MN; 2. Bxb5)Nf3 g5:  +1.80 (depth 44/59, 1020 MN; 2. Nxg5, transposes with 1. Nh3 g5 2. Nxg5)Nf3 e5:  +1.76 (depth 37/46, 177 MN; 2. Nxe5)e3 b5:  +1.76 (depth 34/41, 59 MN; 2. Bxb5)e4 f6:  +1.69 (depth 39/47, 302 MN, 2. d4, transposes with 1. d4 f6 2. e4)d4 e5:  +1.67 (depth 38/52, 200 MN; 2. dxe5)g4:  -1.55 (depth 35/48, 165 MN; 1... d5)d4 Nh6:  +1.53 (depth 35/45, 119 MN; 2. e4, transposes with 1. e4 Nh6 2. d4)Nf3 f6:  +1.52 (depth 33/40, 31 MN; 2. e4, transposes to sideline of 1. e4 f6)Nc3 f6:  +1.51 (depth 30/38, 62 MN; 2. e4, transposes to sideline of 1. e4 f6)a4 b5:  +1.50 (depth 44/61, 268 MN; 2. axb5)c4 g5:  +1.50 (depth 32/43, 34 MN; 2. d4, transposes to sideline of 1. d4 g5)e4 Na6:  +1.38 (depth 45/62, 2541 MN; 2. Nc3, transposes with 1. Nc3 Na6 2. e4)Nf3 Nh6:  +1.33 (depth 36/47, 110 MN; 2. d4, transposes to sideline of 1. d4 Nh6)Nc3 Nh6:  +1.19 (depth=41/51, 440 MN; 2. e4, transposes to sideline of 1. e4 Nh6)Nf3 Na6:  +1.16 (depth=38/49, 208 MN; 2. e4, transposes to sideline of 1. e4 Na6)Nc3 b5:  +1.14 (depth 44/57, 367 MN; 2. Nxb5, transposes with 1. Na3 b5 2. Nxb5)d4 Na6:  +1.10 (depth=37/44, 133 MN; 2. e4, transposes to sideline of 1. e4 Na6)f3:  -0.74 (depth 36/47, 114 MN; 1... e5)I realize that all of these positions are way too complicated to expect a definitive answer in either direction (forced win or forced draw)--seethis closely related question.  Instead, what I'm looking for is reasonable evidence one way or the other, for all of the most unequal two-ply openings.  For example, if white wins 90 times out of 100 when a strong engine plays itself (or when multiple strong engines play each other) from a given position, then I would regard that as strong evidence that the position is a win for white with perfect play.PSsince I know someone will say it otherwise:  this is a theoretical question, and I'm not interested in \"loophole\" answers like resigning or letting your clock run out."
+    },
+    {
+        "question": "What is going on with FIDE's latest rapid and blitz ratings? Some players are more than 500 points higher in one month!",
+        "answer": "It's the last day of September and the provisional rating list for October has been released. There are some very strange ratings changes in that ratings list.Sri Lankan IM LMST De Silvaplayed no FIDE rated rapid or blitz games in September but his rapid rating has risen from 1751 to 2416. Similarly his blitz rating has risen from 1727 to 2416.What is going on?"
+    },
+    {
+        "question": "Is attacking the kingside with White when Black kind-of plays the King Indian's defense setup a valid gameplan?",
+        "answer": "So recently I played an online blitz game with White (you can find the gamehereand the analysishere)[White \"LetMeWinPls45\"]\n[Black \"Nord1970\"]\n[FEN \"\"]\n\n1. d4 g6 2. e4 Bg7 3. c4 b6 4. Nc3 Bb7 5. Be3 Nc6 6. Qd2 Nf6 7. Bd3 O-O 8. O-O-O\ne6 9. Bh6 Ne7 10. Bxg7 Kxg7 11. f3 d6 12. g4 c5 13. d5 exd5 14. cxd5 Nc8 15. h4\nNe7 16. h5 gxh5 17. gxh5 Ng6 18. hxg6 fxg6 19. Qh6+ Kf7 20. Nh3 Rg8 21. Ng5+ Ke8\n22. Nxh7 Nxh7 23. Qxh7 Rf8 24. e5 dxe5 25. Bxg6+ Rf7 26. Qxf7# 1-0Now, this is what I'm talking about when I say \"attacking the kingside\". Trade the fianchetto bishop and storm the kingside with pawns. If I can trade the h pawn, my rook and queen can team up on h6, the knight can jump to g5 to put an eye on h7, and the bishop on e3 is always putting an eye on g6-h7I heard (though do not remember exactly) that Levy Rozman (a.k.a GothamChess) suggests this for White when Black plays this kind-of the King Indian's defense setup.But I also heard some theory saying that Black is the one who should storm the kingside and White should storm the queenside instead.So, what are the advantages and disadvantages of attacking the kingside? And is it a good game plan?"
+    },
+    {
+        "question": "At what age do master level players (2200+) reach their peak?",
+        "answer": "We are surprised that players like Boris Gelfand and Vishy Anand can/could still play with the best in the world in their 40's and 50's. Are we right to be surprised? On average at what age do strong players reach their peak according to their FIDE ratings?"
+    },
+    {
+        "question": "I can't understand this puzzle",
+        "answer": "I came across this puzzle and even after I learned the answer I couldn't quite understand what's going on. I understand that we amaterial advantage by capturing the knight with a pawn, but I can't understand why the queen has to go to d8. Can someone please explain the answer?[FEN \"r1b2rk1/1pqpbppp/p3pn2/6B1/3NP3/2N2Q2/PPP2PPP/R3R1K1 w - - 0 1\"]\n\n1. e5! Qd8 2. exf6"
+    },
+    {
+        "question": "What is the idea behind 2...e6 in some Sicilian lines?",
+        "answer": "I've learned a bit of the Taimanov and have been playing it with some decent results, although I have not gotten very deep at all into it. Still, it bothers me that even though I've looked at a couple of different books and other resources if someone asks I cannot confidently state why I even play 2...e6. Its definitely nice to have a strong center with control of d5 and an exit for my dark-squared bishop. But this can come at the price of an e5 advance that is often possible and that I find somewhat uncomfortable. Are there other benefits to it that I'm not aware of, or was it originally just about avoiding existing 2...d6 theory?"
+    },
+    {
+        "question": "Obtain information about a a position from Stockfish",
+        "answer": "I want to know from Stockfish:All possible moves in a position, a.k.a. a depth 1 analysis with no score.If the king is in check, is checkmated, or if there is a draw.The current FEN string, after a move.How can I get all of those? I tried looking in theUCI specsand there is nothing like it.  I found some answers as to the first question, but they were all in Python. I am looking for pure UCI commands as I am using C#"
+    },
+    {
+        "question": "How to exercise an opening variation with a chess engine?",
+        "answer": "I am reading an opening book in King's Gambit, and been writing down the lines to study later. But I wish there was a chess engine, that goes for those lines so I can play against them. I want to play the book lines against the engine so I don't forget them later. And the engine responds with the book lines back. Do you have any suggestions on how to make such a bot? For example a bot that looks up the favored variations and plays them otherwise plays a Stock-fish's best move."
+    },
+    {
+        "question": "What is the name or origin of this opening for Black?",
+        "answer": "I was playing online, and I noticed some players go for this opening and I don't know its name or if it's a move order to another opening for Black.[fen \"\"]\n1. d4 g6 2. c4 Bg7 3. Nc3 c6 4. e4 d6 5. f3 Nbd7Is it a sideline in the Modern, Kings Indian, Hippo, or Neo-old Benoni Defense? Or is it a new opening? In the Neo-old Benon,i Black doesn't fianchetto the bishop, and in the Hippo Black doesn't commit to c6 at an early stage like that."
+    },
+    {
+        "question": "Can I download early versions of Leela chess zero?",
+        "answer": "I want to play weaker versions of Leela. It would be good to play some really early versions of the net. Is there a repository available where I can download them?"
+    },
+    {
+        "question": "What insights have neural networks revealed about chess?",
+        "answer": "I've been interested to see an analysis of the decision making processes of an NN in determining the difference between good and bad moves. The only writings I've seen is about how NN can be applied to other fields. I've heard that grandmasters are using NNs to train for tournaments.Can anyone point me to such sources relating to this particular query?"
+    },
+    {
+        "question": "Mouse vs Touch performance for bullet chess",
+        "answer": "Though I have played chess for a long time, only picked up bullet chess very recently. And with better results than expected. However, as I play at random times I find myself playing in different settings:With a mouseWith an Ipad (touchscreen)With a smartphone (touchscreen)What surprised me is that the mouse does not significantly outperform the alternatives.Though I am struggling to analyze this numerically, I feel that the mouse is by far best when making planned moves (especially something like a4-a5-a6-a7 or Ra1-Ra2-Ra1-Ra2...) where the smartphone is faster for making unexpected/semi expected moves (typically allowing me to build up pressure in the midgame where I kind-of know what kind of moves to make but cannot commit to an exact order in advance).Now my question:Are there any evaluations on touch vs mouse speed/accuracy for 'normal people' done beyond the scale of an individual? Especially for different kind of moves?This is more a question of curiosity, but perhaps there could be practical applications. For instance, if the results are conclusive I might get some of the top players to test using a touchscreen instead, or if the switching is not to bad this could even be done for just the midgame.What have I tried:As mentioned I tried it myselfI searched online, found plenty of individuals who say one option or the other is better. Also found several statements specifically about the mouse being faster in a pre-move setting.I checked what (top) players do in chess and other games. Most of them use a mouse, however this may simply be because they cannot afford to be slower at expected moves/pre-moves.I am still thinking on how to investigate this myself. Of course chess based analysis would be the best, but perhaps it is sufficient to tap into more general research on device control."
+    },
+    {
+        "question": "Plan against pawn formation of c4, d5, e4, e3 in the Nimzowitsch defense (or similar positions in the Dunst opening)",
+        "answer": "I'm a 1700-ish player who plays opening systems starting with 1.Nc3 as white and 1. ... Nc6 as black, and generally I'm pretty happy with my results.  But there's one type of setup that I struggle forming a plan against, where my opponent trades bishops on e3 (or e6) recapturing with the f-pawn.  A typical example would be:[FEN \"\"]\n1.e4 Nc6 2.d4 e5 3.d5 Nce7 4.c4 Ng6 5.Nf3 Nf6 6.Nc3 Bc5 7. Be3 Bxe3 8.fxe3What should my strategy be as black in this position?  Usually with the dark-squared bishops off the board I would try to place my knight on f4, but that's impossible with the pawn on e3.  I usually end up trying to attack the e3 pawn (with O-O, d6, c6, Ng4, Qb6 in some order), but white has no problem defending that.  Stockfish says the position is even, but I've not scored well in these type of positions and feel kind of at sea.  Any suggestions?"
+    },
+    {
+        "question": "Stockfish draw value randomization and \"3-fold blindness\"",
+        "answer": "Inthis commit, a change was made to the way Stockfish scores board positions that are draws due to 3-fold repetition or 50-move limits. Prior to this commit, a drawn position was assigned a score of zero; afterwards, it is randomly assigned a score of +/-1 (that is, a tiny non-zero value). In the commit message, the intended result is explained:The effect is that in positions with many 3fold draw lines, different\n  lines are followed at each iteration. This keeps the search much more dynamic,\n  as opposed to being locked to one particular 3fold.An example of a position where master suffers from 3fold-blindness and this patch\n  solves quickly is the famous TCEC game 53:FEN: 3r2k1/pr6/1p3q1p/5R2/3P3p/8/5RP1/3Q2K1 b - - 0 51master doesn't see that this is a lost position (draw eval up to depth 50) as\n  Qf6-e6 d4-d5 (found by patch at depth 23) leads to a loss.I don't understand what the change actually accomplishes. Why is visiting drawn positions in different orders helpful? What is meant by \"3fold blindness\"?For reference, here's the board position mentioned in the message.[FEN \"3r2k1/pr6/1p3q1p/5R2/3P3p/8/5RP1/3Q2K1 b - - 0 51\"]"
+    },
+    {
+        "question": "Websites for online all-vs-all tournaments",
+        "answer": "We have a small chess club with about 15 people, whereof about 6 - 10 people comes every week.\nWe play a blitz tournament where everyone meets everyone.During corona, we do not meet physically, and the problem being that we don't know how to host the tournament where everyone meets everyone exactly once. Technical knowledge is very limited for some players, so managing the scoring manually is not an option.Is there any website that offers this type of tournament? All we can see is where tourneys has x rounds and swiss pairing system."
+    },
+    {
+        "question": "Does the R\u00e9ti opening continuing to evolve?",
+        "answer": "\"How to win in the chess openings\" by I.A. Horowitz states, regarding the R\u00e9ti opening, that \"there is no known way which leads to an advantage for white\" which leads to the conclusion that it should not be used. However, the book is quite old (written in 1951), and I am wondering whether or not there are any new ways of playing the opening that result in more opportunities.[FEN \"\"]\n\n 1. Nf3 d5 2. c4 {The Reti.}"
+    },
+    {
+        "question": "Guide to using a book",
+        "answer": "I am currently twenty years old. I learned the rules of chess when I was eight and played on and off for a long time. However, I did not take it seriously. Recently after joining chess.com and trying out the tactics, as well as following grandmaster games and YouTube channels, I am interested in improving my skills.As of now I am able to figure out tactics as well as calculate decently in situations where a few different permutations of exchanges or forks, 2 or 3 moves ahead, could take place. However, most text I see talk about pattern recognition and studying positions and tactics. Therefore I have obtained a copy of Susan Polgar's \"Chess Tactics For Champions\". I would like to know how I should go about using this book. I understand that it is quite comprehensive. But somethings I would like to get right the first time around are:1) Should I make a conscious effort to remember positions presented in the book?2) Should I make a conscious effort to identify patterns or relate positions other than the obvious differences? Or will I start to hone this skill automatically?3) Should I try to set up a board and play on a few moves in cases where the objective is to get an advantage?4) Should I keep in mind any trade-off between tactical advantages which may lead to immediate piece advantage versus positional advantage?"
+    },
+    {
+        "question": "In this YouTube video, the author says that 10...f6 \"leads to disaster\"...Why?",
+        "answer": "Why is that at 10:44 of the video, 10...f6 leads to a disaster?https://youtu.be/BrbChWI89ek[FEN \"\"]\n\n 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5 Qxd5 8. Nc3 Qa5 9. Nxe4 Be7 10. Bg5 f6?"
+    },
+    {
+        "question": "Did any other language than English ever use Descriptive notation? Which languages have always used Algebraic?",
+        "answer": "Descriptive notation seems to be limited to certain languages like English, and I found aWikipedia articlethat mentions Spanish and French.I have never seen a Russian book that uses Descriptive, and in fact, I can go back to the 1800's in Russian books, and they all use Algebraic.In particular, I would like to see a list of languages that used Descriptive before finally adopting Algebraic, but I would also be interested in a list that have always used Algebraic."
+    },
+    {
+        "question": "Python script to let stockfish selfplay 10 games from a given position",
+        "answer": "I would like to have Stockfish to selfplay 10 games starting from a given position. Game should end after 10 moves. From the python-chess documentation there is an example of playing only one such game, starting from the initial position. Thanks in advance.import chess\nimport chess.engine\n\nengine = chess.engine.SimpleEngine.popen_uci(\"/usr/bin/stockfish\")\n\nboard = chess.Board()\nwhile not board.is_game_over():\n    result = engine.play(board, chess.engine.Limit(time=0.1))\n    board.push(result.move)\n\nengine.quit()"
+    },
+    {
+        "question": "Position-jugdment problems simulating actual play",
+        "answer": "I'm interested in collections of chess problems \nwhere we are not told beforehand what is happening in the positions presented, \nbut we have to decide by ourselves, whether something clear exists (a winning or drawing combination, a good move or plan that keeps the initiative) or whether the position presented is still unclear. Clearly the goal is to exercise analysis, intuition and general judgment of positions, by simulating actual play.So are there collections of problems of this type, in print or online?"
+    },
+    {
+        "question": "Leela Chess PUCT Mechanism",
+        "answer": "How do we knoww_iwhich is not possible to calculate using thetree searchonly?From thelc0 slide,w_iis equal to summation of subtree ofV? How is this equivalent to winning ?"
+    },
+    {
+        "question": "How to use the Ponder option in stockfish / UCI",
+        "answer": "I'm trying to understand stockfish Ponder functionality. I'm very interested to let stockfish think when the opponent is thinking. From what I understand you can do it as follows$> uci\n$> ucinewgame\n$> position startpos moves e2e4\n$> go wtime 599999 btime 600000\n   ... // after 2 seconds\n   bestmove d8a5 ponder a2a4\n$> go ponder wtime 599999 btime 598000\n// wait for opponent --> a2a4 (ponderhit)\n$> ponderhit\n   bestmove a7a5 ponder b2b4But there is also a Ponder option$> setoption name Ponder value onNo matter what I set it too$> setoption name Ponder value 3it doesn't complain and I'm not sure what it does. The behaviour is identical, I still have to manually dogo ponder.... \nHow should I use this option and what exactly does it do?"
+    },
+    {
+        "question": "Database of chess results",
+        "answer": "I'm looking for a database or a collection of the chess results of all FIDE-rated games (standard time control). The data I'm interested in is: the white player, the black player, the result and the date for each game. I've checked theFIDE-website, however, I could only find the published rating lists.Is such a collection available? If so, where would I be able to download it? Thanks in advance!"
+    },
+    {
+        "question": "Looking for a Python chess engine",
+        "answer": "I am looking for a Python chess engine package. It must be fully contained in Python, I don't want to download separate files for the engine itself and link them up somehow.All I want it to be able to do is take a FEN and provide best move. It should obviously be a strong engine, at least 2500 rating."
+    },
+    {
+        "question": "What's so important about the h4 square in this endgame?",
+        "answer": "I'm reading John Nunn's bookGrandmaster Chess Move by Move, and it stresses the importance of the h4 square in the following endgame.8/2p2p2/5k1p/2B1p1p1/4P3/1P3P2/2n1K1PP/8 w - - 0 1\n\n1. Kd2? Nd4 2. Bxd4 exd4 3. b4 Ke5 4. Kd3 h5! 5. g3 h4Nunn writes,and [Black] is just in time to prevent h4 by White. Now White cannot make progress and the game is drawn.Using computer analysis, I see that the move 6. Kc4 loses in the resulting position, due to 6... hxg3 7. hxg3 g4! So white's best attempt is not Kc4 but rather playing f4 at the right time.Why is it advantageous for each side to occupy h4? I have some thoughts on the matter but would appreciate a more complete answer.Thoughts:If white occupies h4, he can exchange hxg5 hxg5 at the right time and liquidate the kingside, so that black can't queen with an h-pawn. This is especially important since white's plan is to push f4, capture the d4 pawn and then attack on the queenside. Better not to leave behind a black h-pawn that can queen.If black occupies h4, then he has an advanced h-pawn that can\npotentially queen, especially if white tries to break through with\nf4. (In the case of f4, black can counterattack on the kingside.)Compare the above (drawn) position with the position below which is won for white. The moves are given by Stockfish. I think this illustrates why exchanging h-pawns is advantageous for white, so that he can attack on the queenside more freely.8/2p2p2/7p/4k1p1/1P1pP2P/3K1PP1/8/8 w - - 0 1\n\n1. hxg5 hxg5 2. b5 f6 3. f4+ Ke6 4. Kxd4 Kd6 5. e5+ fxe5+ 6. fxe5+ Ke6 7. Kc5 Kxe5 8. Kc6 Ke4 9. Kxc7 Kf3 10. b6 Kxg3 11. b7 Kf2 12. b8=Q g4 13. Kc6 Kg2 14. Kd5 g3 15. Qf8 Kh2 16. Ke4 g2 17. Qf4+ Kg1What are your thoughts on the endgame? Why do you think the h4 square is important for both sides? Am I leaving something out in my analysis?"
+    },
+    {
+        "question": "Why is Fritz 16 Grandmaster Playing Weak Endgames?",
+        "answer": "I am trying to use Fritz 16 to practice endgames. Unfortunately, Grandmaster (Fritz) is playing very poorly. For example, in the diagrammed position, if I play Black, Fritz gives me a quick threefold repetition after 1 Ke4 Nc6 2 Kf5 Na7. But when I play White, Fritz resigns after 1 Ke4 Nc6 2 Kd5 Na5 3 Ke5 Kg7 4 Bd5 Kg6 5 Kd4 Kf6 6 Kc3 Kf5 7 Bh1 Ke5 8 Bg2.[title \"White to move\"]\n[fen \"7k/8/8/2P1n3/8/4KB2/8/8 w - - 0 1\"]\n\n1. Ke4 Nc6 2. Kd5 (2. Kf5 Na7) Na5 3. Ke5 Kg7 4. Bd5 Kg6 5. Kd4 Kf6 6. Kc3 Kf5 7. Bh1 Ke5 8. Bg2Why is Grandmaster (Fritz) playing this ending so poorly? Do I need to change the settings? It doesn't make sense that the engine resigns with Black, but plays a draw by repetition with White.Any ideas? Are there settings I can change? I have triple checked that I have set the engine to Grandmaster level."
+    },
+    {
+        "question": "Do chess engines really prune more than 90% of branches?",
+        "answer": "I was looking at Fritz Online (https://fritz.chessbase.com/) engine's parameters/performance. Here is screen relating to one of made moves.It means that there was a general depth equals to 15 but some branches were even explored to depth 39. Engine was analysing at average speed 530k positions per second. It lasted 5 sec. so ~2.6M nodes were evaluated.Let's consider branching factor 3 at each level. Then there are 3^15=14M leaves to evaluate (not taking into account internal nodes). As we see in case of branching factor 3 we have more nodes to analyze (14M) than it really took place (2.6M) (not even considering branches explored deeper than 15).Branching factor in chess is aproximately 35. I'm aware there are many, many sophisticated techniques to prune branches in search tree. But really from 35 to less than 3? How it's possible that more than 90% of branches are pruned?Two remarks:Provided parameters/performance come from phase between opening and middlegame. This is NOT taken from ending where branching factor is significantly lower.Depth 15 is not something unusual. In most cases program performed analysis to depth between 13 and 16 in couple of seconds."
+    },
+    {
+        "question": "Endgame analysis : white to play and..?",
+        "answer": "R3nk21B1K4/4r3/4P3/3Pb3/8/3P4/8/1B1K4 w - - 0 1White to play and ?, D.Antonini 09/2017I wouldn't qualify this position as a study, at least according to modern canons for study composition, as there are a few duals (interversion ones) and a few other defaults. I prefer to present it as a practical endgame position worth having a look at.Therefore I won't even give a specific statement : white to play, and it's up to you to figure out if they can win or only draw. I must warn you it's rather difficult to analyse this position accurately. There is one concealed idea (and programs won't be able to help much figuring it out).  But I'm sure you'll feel pretty happy once you manage to figure it all out - if you do (but with brillant chess composers like Noam Elkies around, I'm sure some of you will manage to)."
+    },
+    {
+        "question": "Where can I download gaviota endgame tables?",
+        "answer": "I am looking for a link to download all 5 pieces gaviota endgame tables (which can give me DTM values).A few links from google search (like this) lead me to thesite which does not exist."
+    },
+    {
+        "question": "What if White declines the Volga Gambit?",
+        "answer": "rnbq1rk1/p3ppbp/3p1np1/1ppP4/2P2B2/2N2N1P/PP2PPP1/R2QKB1R b KQ - 0 8In the above position, Black gets a solid initiative and easy play on the weak White queenside pawns after1.cxb5 (1. Nxb5? Ne4!).But White can decline with1.e3, intending2.Be2,3.O-O. Should Black respond with1...Nbd7, waiting for White to take the pawn?"
+    },
+    {
+        "question": "Jaenisch/Schliemann Gambit",
+        "answer": "Is the Jaenisch/Schliemann Gambit being played or it has become out of fashion?PS: I am a club player (FIDE ~1800) and occasionally use it to success."
+    },
+    {
+        "question": "Backwards Chess Program",
+        "answer": "Is there a chess program where you can create a position and the program creates a game, expecting the best possible moves to get there, or the most common?A problem I would see is some positions might require a terrible move to get there, or have really extensive games to get to that point.I feel like this could create creative attacks-Most common= most frequent move, such as how e4 is commonly responded with e5 even though stockfish rates c5 (Sicilian defense) as a higher value choice via the Aplha-Beta Pruning Algorithm.-\"Best\" move= pretty much what stockfish/Komodo/ Houdini \nWould choose as their algorithm chooses the highest value, safe move, as their programs can go deeper than our abilities"
+    },
+    {
+        "question": "Did the Danish philosopher Soren Kierkegaard play chess?",
+        "answer": "The danish existentialist philosopherSoren Kierkegaardlived from 1813 to 1855.He writes in one of hisjournals(21st of May 1839):Original DanishJeg lever i denne Tid omtrent som en Brik i Schakspil maa v\u00e6re\n  tilmode, naar Modspilleren siger: den Brik kan ikke r\u00f8res \u2013 som en\n  \u00f8rkesl\u00f8s Tilskuer, da min Tid endnu ikke er kommen.Translation by google:I live at this time just like a piece of chess must be, Allowing the opponent to say: that piece cannot be moved - like an idle\n  spectator, because my time has not yet comeAlternative translation:I feel as if I were a piece in a game of chess, when my oppenent says\n  of it:That piece cannot be moved! like a useless bystander, since my\n  time has not yet come."
+    },
+    {
+        "question": "How can I play sharp in positional openings (English, Closed Sicilian, Giuoco Pianissimo)?",
+        "answer": "Learning to trust your intuition is an important part of developing as a strong player. If you sacrifice and you are wrong, you will probably lose. On the other hand,if you do not sacrifice and you are wrong, you might be able to draw.-Mike HenebryI have realized that I am a sharp player. I benefit quickly from lines where a mistake by either side can quickly end the game.What are some lines which...give sharp middle games?are easy to transition to?lead to open lines?Lines like the Sveshnikov Sicilian that favor creative over principled play. Rules to be broken."
+    },
+    {
+        "question": "5 year old chess",
+        "answer": "My 5 year old son is showing immense interest in chess. I play with him and he has joined an after school class for chess.I was told to buy the book by Polgar. He is solving the mate in one puzzles.I just let him play and have fun. Any suggestions to help me develop his game?"
+    },
+    {
+        "question": "Bughouse sitting/stalling full strategic breakdown",
+        "answer": "We play with the rule one loses -> the team loses. My cheesy titled question is serious: let's try to wrap our heads around the Bughouse clock mechanics. When should one consider sitting/stalling? I imagine these ones:I sit because the opponent mates me in the next move.Because moving would mean giving my opponent a chance to capture a piece of mine, giving his partner a piece he needs and improves his game a lot.To wait for a piece my opponent could handle me that could give me huge advantage.Also, for stalling/sitting we always need more time that the diagonal opponent, if not, he could stall and we lose by time.Are there other reasons to sit/stall?"
+    },
+    {
+        "question": "Should beginners learn some boring drawn games first?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Can White win this knight endgame?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Does chess improve our intelligence?",
+        "answer": "This is my first question in Chess, so I hope my question is simple.I know about chess but I am not a regular player. But my friend told me that everyday play chess is good for your mind and also for improving memory power. Is this correct?And also I don't know some of the move rules. So, please give me some suggestion to improve my chess knowledge."
+    },
+    {
+        "question": "What's the best way for someone to use their time with a chess coach?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Beginners question: Controlling the center",
+        "answer": "No answer found"
+    },
+    {
+        "question": "What is the longest current tablebase mate with a unique optimal line?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Chess challenge #10: A beautiful knightmare",
+        "answer": "This time I bring you a beautiful composition. White is down material but is about to queen the d7 pawn. The only problem is the knight fork on f7 and if he doesn't act very quickly Black is going to put his bishop on a5.How does White win the game?[fen \"8/3P3k/n2K3p/2p3n1/1b4N1/2p1p1P1/8/3B4 w - - 0 1\"]\n[Title \"White to play and win (Gijs van Breukelen, 1997)\"]I stumbled upon this composition inthis blogand I found it extremely beautiful. The composer is Gijs van Breukelen."
+    },
+    {
+        "question": "How to set threads number for Stockfish?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "What's the best move against this variation in the Philidor Defense?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "What is the probability that a position has been played before?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Chess books about how to deal with time troubles",
+        "answer": "No answer found"
+    },
+    {
+        "question": "How can I open (or convert into .PGN) old Chessmaster .CMG files, without Chessmaster?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Looking for sound files from a VERY old version of Chessmaster Live",
+        "answer": "I've been searching (for a long time) for some sound files to a chess program from way, way back (early 90's).  There was an online version of Chessmaster called Chessmaster Live.  I'm sure it is a long shot, but does anyone have a copy of this program or know where I might find it so that I can get the sound files?The sound files are basically the sounds that are made as one moved a piece, captured, castled etc."
+    },
+    {
+        "question": "Do longer games better your chances of honing chess skills?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Ideas for white in closed sicilian?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "How do I change Stockfish's Engine Parameters?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Is there a Web Service available for 6-piece endgame tablebases?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Illegal swiss pairings? [closed]",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Make chess engine play a particular position",
+        "answer": "I want to be able to train my mating skills by making a chess engine play positions that others have resigned from.  Is there a way to make a chess engine play a particular position?  I am using stockfish and scid vs pc at the moment."
+    },
+    {
+        "question": "Open Ruy Lopez for Black",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Is it important to have pawns at the centre of the board?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Queen vs rook & knight with all pawns",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Does playing bughouse have any benefits on your chess game?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "What are good books for learning Queen's Gambit opening",
+        "answer": "No answer found"
+    },
+    {
+        "question": "In ChessBase 12, when viewing an Opening Tree, why do all the games always stop near move 26?",
+        "answer": "I have ChessBase 12 64Bit. To create an Opening Tree I do the following steps:I click on \"Mega Database 2014\".I filter all the 5.8 millions games like I want (for example, taking only the games where a specific player was White).Right click > Edit > Select all.Right click > Edit > Clip or unclip.File > New > Database > Save as type: Books (*.CTG)And then I drag the \"Clip Database\" to my newly created Opening Tree.The newly created Opening Tree works fine.But there is just one problem: all the games always stop near move 26 (sometimes at move 23, sometimes at move 29).Why is that? And how can I fix this?..Edit:Both of the current answers are completely incorrect.I had the confirmation from two other independant people that their opening trees in their ChessBase donotstop after a certain number of moves!They both told me that in order to make an opening tree that doesn't stop after a certain number of moves, we simply had to select \"Absolute Length\" and then input a big number (100 will work) for the \"Length\".See page n\u00b0103 of this manual:http://download.chessbase.com/download/pdf/ManualFritz13.pdfBut that's what I have always done, and it doesn't work.I have tried to input various numbers for the \"Length\": 5, 10, 15, 20, 30, 40, 50, 100, 200, 400. And surprisingly, no matter what number I put, the opening tree always stop near move 26!I also tried to pick \"ECO-Relative Length\" instead of \"Absolute Length\", and weirdly there was absolutely no difference: the opening tree still stops near move 26.This means that there really is a big problem, a bug. ChessBase is simply ignoring whether I choose \"Absolute Length\" or \"ECO-Relative Length\" and what number I put for the \"Length\"..."
+    },
+    {
+        "question": "What are good Android apps to learn chess from scratch?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Can we say for sure that Black's king has not moved?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Why was this move in a puzzle?",
+        "answer": "I was on the chess.com app this morning doing the daily puzzle and it wanted me to play Re2. This is questionable to me, because it just delays the mate, but I figured I might have missed something. Then what really perplexed me is that Black then plays Qg7. It appears to me that Black is sacrificing his queen for no reason when he has a mate in 2. I don't see how White has time to mount an attack on Black or come back to defend in time. What am I missing?[FEN \"5r1k/1pQ4p/3nB1p1/3P4/5p2/1P5P/rq5P/4R1RK w - - 0 1\"]\n\n1. Re2 Qg7 2. Qxg7+ Kxg7 3. Rxa2"
+    },
+    {
+        "question": "Why has the Petroff Defence become more popular?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "What was Black's last move?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Reasons why king and rook mate quicker than king, knight/bishop and bishop?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "About how to respond to this atypical black defense in the Ruy Lopez",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Which type of openings generally lead their users not to waste much time on the clock: sharp/aggressive/tactical or positional/solid/quiet openings?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Do the rules of blitz chess allow a draw to be claimed if the position is dead drawn?",
+        "answer": "Consider this objectively drawn position that occurred in the Fischer vs Spassky 1972 match,game 12. Suppose this position occurred in a blitz game where Black barely has few seconds remaining on his clock. Black decides to give up the f5-pawn and instead sit comfortably with his pawns on f6 and h6 as follows-[fen \"8/5p2/6kp/p4p2/2B5/1P2PK1P/8/4b3 w - - 0 1\"]\n\n   1. Kf4 f6. 2. Bd3 Bb4. 3. Bxf5+ Kg7.This position is an impenetrable fortress. Because of the presence of bishops of opposite color, there is no way White can check the Black king or even try to win a pawn by attacking it. If White marches up the e-pawn, Black can simply capture. There is no way White can win. Black simply has to keep moving his bishop safely on the a5-e1 diagonal.Now, since this is a blitz game and Black just has a few seconds left, White simply attempts to run Black out of time just by making legal moves without making any kind of progress. In such a scenario, would Black be allowed to pause the clock and claim a draw?"
+    },
+    {
+        "question": "What are the middle game principles?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "What happens in a King-Rook vs King-Bishop with a perfect play in a no pawn endgame?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Purpose of h4 on the main line of the Caro Kann",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Sorting players by FIDE blitz/rapid ratings",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Is hyperbullet or bullet more common in online gameplay?",
+        "answer": "OnLichess, the shortest form of bullet is named hyperbullet. It is essentially 30-second chess. Standard bullet is 1 to 3 minutes.It is difficult to assess popularity without invoking opinion.Instead, which time control results in more games played, or has a higher number of players?"
+    },
+    {
+        "question": "Positional chess understanding in the early game",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Why is pawn c6 is not winning here and what is the missed win for black?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Who has the advantage here?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Why is the algebraic notation not just two numbers?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Piece And Pawn Only Massacre Games",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Can a grandmaster always draw?",
+        "answer": "I was watching the Candidates recently and noticed that the commentators talking about Wesley So\u2019s last game got annoyed that he was aiming for a draw and didn\u2019t really have any fight in him.A draw was agreed after only 20 odd moves, and that got me thinking - if a top grandmaster were to aim for a draw against AlphaZero for instance, would they always manage?\nCan a Grandmaster force a draw?"
+    },
+    {
+        "question": "Does FIDE give titles to chess composers?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Can't seem to get back to winning consistently",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Why isn't this threefold repetition, forcing a draw?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "As Black, against 1. d4, what opening would you recommend me which is solid, positional, slow, strategic, quiet, closed, and similar to the Caro-Kann?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "What are some good tactical opening moves?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Is a pawn still backward if other pieces can defend it?",
+        "answer": "What exactly is a backward pawn?  Is it a pawn that can't be defended by its own pawns or if other pieces can defend it, is it still considered backwards.As an example, in the following ise5andd4backwards`.[FEN \"\"]\n1. e4 e5 2.Nf3 Nc6 3.Bb5 d6 4. d4Also, if a pawn is backwards if it can't be defended by its neighboring pawns, then doesn't this mean that every pawn starts off as backwards in the initial position of the game."
+    },
+    {
+        "question": "Why and when should one make a zwischenzug (in-between move)?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Is 2. c3 the best response against the Caro-Kann?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Move forcing opponent to checkmate in response",
+        "answer": "No answer found"
+    },
+    {
+        "question": "What can you do to slow/stop the decline in chess ability with age?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Best \"average centipawn loss\" of all times?",
+        "answer": "I've found \"average centipawn loss\" calculated for some recent World Championship games, for exampleMagnus Carlsen vs Ian Nepomniachtchi, 2021 World Chess Championship.Is there some \"acl\" calculation for other World Champions throughout chess history?Who was the best ever \"computer\", the ultimate question..."
+    },
+    {
+        "question": "\u201cRating\u201d going up too fast [closed]",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Which opening contains this trap?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "How long can a player hold off a draw by the 50-move rule?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Move comparison in this opening",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Systematic ways to approach more difficult problems",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Knight + King vs Knight + King - Loss on time",
+        "answer": "I am quite new to chess and I wonder what someone can do about the following situation:Me (white): Knight + King, 1 minute leftOpponent (black): Knight + King, 3 minutes leftBy thefollowing rule:If only one player has exceeded the time limit, but the other player\ndoes not have (theoretically) sufficient mating material, the game is\nstill a draw. Law 6.9 of the FIDE Laws of Chess states that: \"If a\nplayer does not complete the prescribed number of moves in the\nallotted time, the game is lost by the player. However, the game is\ndrawn if the position is such that the opponent cannot checkmate the\nplayer's king by any possible series of legal moves, even with the\nmost unskilled counterplay.\" For example, a player who runs out of\ntime with a sole king versus king and bishop does not lose the game.\nIt is still possible to lose on time in positions where mate is\nextremely unlikely but not theoretically impossible, as with king and\nbishop versus king and knight. (Under USCF rules, king and bishop,\nking and knight, or king and 2 knights with no pawns on the board is\nnot considered sufficient mating material, unless the opponent has a\nforced win, even though it is theoretically possible to mate (but\nextremely unlikely to happen) in situations such as K+B vs. K+N).this is no immediate draw.The opponent keeps running away until I am out of time and lose the game.A sample game can be seenhere(I blundered on move 60 here, I could have got his knight but I pre-moved everything because I had around 5 seconds time left). But we can see here that he also does not take my knight to not make it a draw so I lose on time."
+    },
+    {
+        "question": "Is there a standard system of classification of games?",
+        "answer": "Given there are practically infinite number of chess games possible, does there exist a standard system of classifying or naming games simlar to how there are rules for naming a chemical compound uniquely?  There are 10 pieces that can move initially, so I imagined there would be 10 families of games and each game's pgn would be the identity of the game and so on. But theECO classification systemis quite different than what I imagined. What I am really interested in is this-will a certain family of games would be more interesting than the other? Will certain family of games have less draws or wins with perfect play? Is there more zugzwang positions in a certain family?"
+    },
+    {
+        "question": "Why is 3. Nc3 played in mainline of the Modern Defense?",
+        "answer": "After:[FEN \"\"]\n\n1. e4 g6 2. d4 Bg7by far the most common third move is 3. Nc3. This goes against the principle of not blocking the c pawn with the knight as white, now of course principles can be broken but I can't see the benefit of doing so here.The e4 pawn does not need defending, and if the aim is to stop 3... d5 then 3. c4 achieves this as well, then Nc3 can be played later.So why is it not preferable to play 3. c4 before Nc3?"
+    },
+    {
+        "question": "Is my low blitz game drawing rate at www.chess.com an indicator that I am weak in chess?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Swiss-pairing algorithm",
+        "answer": "Is there a (simple) algorithm for setting up a swiss tournament? I've searched around a little, but can't find anything specific.Alternatively, is there any good and free software available for setting up swiss tournaments? All of those I've tried have very few options and little functionality available."
+    },
+    {
+        "question": "How can a human figure out best move in this position?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Which chess variant has the largest board?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "How do I respond to an arrogant beginner? [closed]",
+        "answer": "Closed.This question isoff-topic. It is not currently accepting answers.This question does not appear to be about chess within the scope defined in thehelp center.Closed6 years ago.Improve this questionI played a skittles game (no clocks, arbiter etc.) against a beginner who did a lot of trash talking, which I didn't rise to. Here is an example of the conversation:Beginner: I'm going to beat you easily!Bad_Bishop: I'd like to see that. I play at quite a high level. Do you want a refresher on the rules, such asen passantand castling?Beginner: No, I know all that alreadyBad_Bishop: OKBeginner: I'll take white. They always win!Bad_Bishop: Hmmm...Beginner: [Part way through the game] How do knights move again?Bad_Bishop: In an 'L' shapeBeginner: [After being checkmated] OK, you won, but I took 2 pawns and a knight!Bad_Bishop: Hmmm. Do you want to play a different game?My questions are,should I have handled this beginner's trash talk differently? How?I didn't keep a scoresheet, but this is what I remember of the opening:[FEN \"\"]\n[White \"Beginner\"]\n[Black \"Bad_Bishop\"]\n\n  1. b3             d5            \n  2. Na3            e5            \n  3. Nb1            Bc5           \n  4. d4             Bxd4          \n  5. Kd2            Bxa1          \n *"
+    },
+    {
+        "question": "Why is f4 considered as bad in the opening?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "What to do in a positionally won situation?",
+        "answer": "In the below position, White is winning because Black cannot do anything. Black's b-pawn is the last fence barring White from checkmating the king rather easily.k1r4r/1p1nppbp/2b3p1/N7/4PP2/3PB2P/P3B1P1/1RR3K1 w - - 0 1There are no immediate tactics available for white, but it is clear that white's rook should double up as that is the only thing left to do.Should the game be played on winning the b-pawn, or is there an easier way to win that I am missing? It is currently White to play. The engine Stockfish 6 doesn't show any captures on b7 happening within the next ten moves, but all play does seem to occur on the queenside.What are some good plans for White?"
+    },
+    {
+        "question": "Game databases vs. various languages/character sets",
+        "answer": "How do people use chess software in large countries like China, India or Russia, if they don't speak English, and more importantly, if they don't know Latin letters? With unicode there's not big problem to localize software for these countries, but what about names and databases? Are there special databases for these regions, using their symbols?"
+    },
+    {
+        "question": "Countering the Horowitz Defense",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Energy drinks for chess tournament",
+        "answer": "I am planning to participate in a tournament, and I was thinking about using energy drinks or caffeinated drinks to enhance my performance.Is this a good idea? I normally don't take any energy drinks. Will it be counterproductive if I suddenly take up energy drinks, or is it better since I won't develop reliance on energy drinks?If it is good, how much energy drinks should I take (in milligrams of caffeine), and when is the best time to do so?Or does energy drink has no effect on chess performance whatsoever?The only side effect I know about energy drinks is that it is diuretic, but it won't be much of a concern as the time control for the tournament is long.Thanks."
+    },
+    {
+        "question": "What rule is this?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "How many games should one play online per day or week? [closed]",
+        "answer": "Closed. This question isopinion-based. It is not currently accepting answers.Want to improve this question?Update the question so it can be answered with facts and citations byediting this post.Closed2 years ago.Improve this questionI participated in a tournament onchess.comand I have to play like 12 games, 3 days per move, although it's plenty of time, I can't concentrate, I noticed that when I play many games, I lose because I make mistakes.The thing is when you have 12 games to be played, you often find yourself, not playing at all or playing all the games simultaneously, to just get over with it, and do something else other than playing chess.So in an ideal situation, what is the best number of games to be played per day or week for average users?A side question, is it good to play such tournaments? I mean when you have many games to be played, you'll lose concentration (at least I do) so isn't it better to play live tournaments (15 or 30 min for each player) isn't that a better way to concentrate on the moves?"
+    },
+    {
+        "question": "Best White Move",
+        "answer": "No answer found"
+    },
+    {
+        "question": "A resource that shows how many ways an opening can be reached?",
+        "answer": "Is there a resource (book/online) that shows how many ways an opening can be reached?"
+    },
+    {
+        "question": "Does the Caro-Kann or the Tartakower System of the Queen's Gambit Declined help with positional skills?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Why does counterattacking lead to a more drawish and less dynamic position than defending\uff1f",
+        "answer": "After 1. e4 e5 2.Nf3, the two most common continuations are 2... Nc6 and 2... Nf6, the first move defends the e5 pawn and the second counterattacks the e4 pawn.How to explain in layman's terms why counter attacking the pawn leads to a more drawish and less dynamic position than defending the pawn\uff1f"
+    },
+    {
+        "question": "Why is the !? annotation so rare?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Threefold repetition: what's the minimum number of pieces and/or material points required?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "How do I know what the rating of a game is?",
+        "answer": "I found this game on a random scrap of paper lying on the ground. I'm not sure how strong the players are. How should I go about determining that by using a chess engine (say, the ones hosted by lichess.org)?[][FEN \"\"]\n1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Nf6 6. Nc3 Nd4 7. Nxd4 exd4 8. Ne2 Nxe4 9. Nxd4 Be7 10. O-O O-O 11. Re1 Nf6 12. Nf5 Re8 13. d4 d5 14. Bg5 c6 15. Nxe7 Rxe7 16. Rxe7 Qxe7 17. Qd2 Bf5 18. Re1 Qd6 19. c3 Ng4 20. h3 Nf6 21. Bf4 Qd7 22. Bd1 g6 23. f3 Nh5 24. Bh2 Ng7 25. g4 Be6 26. Be5 a5"
+    },
+    {
+        "question": "Only Rook endgame!",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Engine's 2nd best move",
+        "answer": "Especially for checking studies (maybe also for teaching), it would be helpful to have an engine finding the second best move and assess it (or even give refutations of all alternatives). For a tablebase position, this is trivial. Can the Lichess/Stockfish engine do that? If not, do (especially online) alternatives exist?"
+    },
+    {
+        "question": "Is there a term for when each player captures a sequence of pieces without recaptures?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Identifying principles and thought processes to use in locating a +3.2 or similar move",
+        "answer": "[Title \"indrekaavik-Swifty15, chess.com, 5/3/2021\"]\n[FEN \"\"]\n[startply \"29\"]\n\n1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. h3 c5 6. c4 Nc6 7. cxd5 exd5 8. Bb5 Qa5+ 9. Nc3 cxd4 10. Nxd4 Bd7 11. O-O Nxd4 12. Qxd4 Bxb5 13. Qxd5 a6 14. Rd1 Rd8 Qf3 Ne7 16. Bd2 Ng6 17. Qxb7 Nxe5 18. Nxb5 Rxd2 19. Qb8+ Qd8 20. Qxe5+ Be7 Rxd2 Qxd2 22. Nc7+ Kf8 23. Nd5 Qg5 24. Qb8+ Bd8 25. Rd1 g6 26. g3 Kg7 27. h4 Qh5 28. Nf4 Qxd1+ 29. Kh2 Bxh4 30. Qe5+ Bf6 31. Qe4 Qf1 32. Nh3 h5 33. Qb7 h4 Qb3 hxg3+ 35. Qxg3 Qe1 36. Kg2 Qe4+ 37. Kf1 Bxb2 38. Nf4 Qb1+ 39. Ke2 Rh1 Nd3 Qd1+ 41. Ke3 Re1+ 42. Nxe1 Qxe1+ 43. Kf4 Qb4+ 44. Kf3 Qc3+ 45. Kg2 Qxg3+ Kxg3 Bd4 47. Kf3 f5 48. a3 g5 49. a4 g4+ 50. Kf4 Be5+ 51. Kxf5 g3 52. fxg3I'd like to improve my thought process when considering a move, but I don't understand what rules/principles to apply to a particular situation where I got it wrong. This happened in the above game I played as black onchess.com.I am aware that I made plenty of mistakes before and after the move, but those I understand. I am rated 1200.I discounted the rook exchange 15... Rxd1. After the game, the engine told me I would have had a +3.2 advantage if I had made the exchange. I can't work out why it creates that advantage.I considered the exchange, but I thought I would stay disciplined and principled. I remembered GM Smirnov's rule \"to take is a mistake. I have been reading in IM Silman's '\"The Amateur Mind.\" It teaches that a simple one-move capture, attack, or check is pointless if it can be easily parried.My thinking was that exchanging rooks MIGHT be useful if I gained a tempo by sending my opponent's knight to the back rank. But I saw when that they could just recapture with their queen and take control of the d file. It didn't seem that I had anything to gain. As such, I just continued to develop my pieces.Can anyone explain why this was such a critical move, and the thought processes I could have used to identify it?"
+    },
+    {
+        "question": "Compiling Stockfish to disable own castling while allowing opponent castling",
+        "answer": "For artistic purposes, I would like to create and study engine games in which only one side is able to castle.For this, I need to compile a version of Stockfish which never castles, and doesn't consider its own castling in its calculations, whereas calculates with castling for the opponent.I have gone through thetypes.hfile and found the following:enum MoveType {\n  NORMAL,\n  PROMOTION = 1 << 14,\n  ENPASSANT = 2 << 14,\n  CASTLING  = 3 << 14\n};\n\nenum CastlingRights {\n  NO_CASTLING,\n  WHITE_OO,\n  WHITE_OOO = WHITE_OO << 1,\n  BLACK_OO  = WHITE_OO << 2,\n  BLACK_OOO = WHITE_OO << 3,\n\n  KING_SIDE      = WHITE_OO  | BLACK_OO,\n  QUEEN_SIDE     = WHITE_OOO | BLACK_OOO,\n  WHITE_CASTLING = WHITE_OO  | WHITE_OOO,\n  BLACK_CASTLING = BLACK_OO  | BLACK_OOO,\n  ANY_CASTLING   = WHITE_CASTLING | BLACK_CASTLING,\n\n  CASTLING_RIGHT_NB = 16\n};What can I do to disable castling in moves and calculations of Stockfish?"
+    },
+    {
+        "question": "How does b3 prevent e5 here?",
+        "answer": "[FEN \"rnbq1rk1/ppp1b1pp/3ppn2/5p2/2PP4/5NP1/PP2PPBP/RNBQ1RK1 w - - 0 1\"]White plan is to play b3 and then Ba3 to render the move e5. But how does it prevents e5?"
+    },
+    {
+        "question": "Unknown Women International Masters",
+        "answer": "I am interested in the history of chess and, looking at the old FIDE rankings, I am a little puzzled by the lack of information about some strong Women International Masters, with a FIDE rating above 2200.For instance,Lazic, MarinaTazhieva, LyazzatSergeeva, TatyanaUpdate:Kogan, T, she is probably not titled but over 2200 in the late '80s.Does anyone know them? \nHow old are they?  Are they still alive?N.B. I couldn't find them and they may have been married and changed their names."
+    },
+    {
+        "question": "Quickly converting board to bitboard representation using python-chess library",
+        "answer": "I would like to convert a given chess board into its bitboard representation, but my implementation is rather slow. Here is what I'm doing (using the python-chess package):board = chess.Board('rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1)\n\nw_pawn = (np.asarray(board.pieces(chess.PAWN, chess.WHITE).tolist())).astype(int)\nw_rook = (np.asarray(board.pieces(chess.ROOK, chess.WHITE).tolist())).astype(int)\nw_knight = (np.asarray(board.pieces(chess.KNIGHT, chess.WHITE).tolist())).astype(int)\nw_bishop = (np.asarray(board.pieces(chess.BISHOP, chess.WHITE).tolist())).astype(int)\nw_queen = (np.asarray(board.pieces(chess.QUEEN, chess.WHITE).tolist())).astype(int)\nw_king = (np.asarray(board.pieces(chess.KING, chess.WHITE).tolist())).astype(int)\n\nb_pawn = (np.asarray(board.pieces(chess.PAWN, chess.BLACK).tolist())).astype(int)\nb_rook = (np.asarray(board.pieces(chess.ROOK, chess.BLACK).tolist())).astype(int)\nb_knight = (np.asarray(board.pieces(chess.KNIGHT, chess.BLACK).tolist())).astype(int)\nb_bishop = (np.asarray(board.pieces(chess.BISHOP, chess.BLACK).tolist())).astype(int)\nb_queen = (np.asarray(board.pieces(chess.QUEEN, chess.BLACK).tolist())).astype(int)\nb_king = (np.asarray(board.pieces(chess.KING, chess.BLACK).tolist())).astype(int)\n\nreturn np.concatenate((w_pawn, w_rook, w_knight, w_bishop, w_queen, w_king,\n                       b_pawn, b_rook, b_knight, b_bishop, b_queen, b_king))For the starting position this function returns:[0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0\n 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0\n 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0\n 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 0 0 0\n 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0\n 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0\n 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0]Which is what I want. The only issue is the speed of this function."
+    },
+    {
+        "question": "Why is 6. Nge2 better, and 7. d5 a necessary push in this game?",
+        "answer": "I have two questions about arecent gamethat I played on Lichess.Question 1:Why is it necessary for White to push d5 now in the game, in this position, and why is Be3 a blunder?I did play d5 later in the game on move 10, but I cannot understand why, if no disruptive move such as c5 or a well timed e5 (although probably impossible here) is made, I should push d5 at all.Question 2:Why is e2 the best position for the King's knight, and not f3 in the next diagram (on move 6 by White)?There does not appear to be any annoying pin of the knight on f3 by a bishop on g4. Plus, I do not think it is disadvantageous to have doubled pawns on my position(if needed I could play Bd2 when Black plays Bb4). Lastly, and more importantly, the knight on f3 can jump to e5 if possible."
+    },
+    {
+        "question": "Longest forced win with just a Knight or Bishop",
+        "answer": "A single knight or bishop usually isn't enough to force checkmate. However, I know there are certain positions where the defending side has his king in front of a rook pawn where a win can be forced.So I have two questions related to this:What is the longest forced win where the winning side has only a knight or bishop?Are there any nontrivial (i.e., not mate in 1) forced wins that don't involve the losing side having his king trapped in front of a rook pawn?"
+    },
+    {
+        "question": "Is 1.d4 2.Nc3 3.Bf4 bad?",
+        "answer": "My usual way of opening as white is as follows, usually regardless of what my opponent plays (although there are exceptions and I do play some other openings):d4. 2. Nc3  3. Bf4However, I have been reviewing my games, and almost every game I play I find that the engine considers my 3. Bf4 move to be either an inaccuracy or just a 'good' move. I am quite confused as to why this would not be one of the best moves - much less an inaccuracy. Consider openings I've used in 2 of the games I played: (I am white in both)1st game:\n1. d4 f6 2. Nc3 Nc6 3. Bf4 e62nd game:\n1. d4 d5 2. Nc3 c6 3. Bf4 Nf6Now, in the first game I can understand that maybe it would have been better to play pawn d5 as the computer recommends, attacking his knight. However, wouldn't this be relatively easily countered by Nb4? Of course, I could go e4, but wouldn't this just make it harder for me to defend all these pawns in the future? I prefer playing safely and if it means giving up some control over the center to ensure a middle game I am in more control of, I will take it. Could anyone explain to me why this is considered an inaccuracy by engines and perhaps offer a continuation?In the second game, I am also somewhat confused as to why the computer considers this an 'ok' move and put me from a +0.55 score to a +0.33. I'm pretty sure this is a relatively big drop in the opening... I play the move in order to create threats on the bishop's diagonal, which I have found to help quite a lot in the past. I also play the move in order to get as much control over e5 as I can, which I usually find is a key square when playing my opening (I believe it is the Chigorin opening until my bishop move). Could anyone explain to me why the computer doesn't consider this a good tactic and what other, better move I could play that would lead to an endgame that is more in my favor?I'm interested in improving my opening - thanks to whoever reads this."
+    },
+    {
+        "question": "Can White win this Q+P endgame?",
+        "answer": "Can white win this queen and pawn endgame?From this position put Black queen on the best defensive square, and then it will be White's to move.[FEN \"8/1PQ3pk/6pp/8/8/8/8/3K4 w - - 0 1\"]It might look like this:[FEN \"8/1PQ3pk/6pp/8/q7/8/8/3K4 w - - 0 1\"]My computer gives +6 for White, but it doesn't seem to be able to find a winning strategy."
+    },
+    {
+        "question": "What are White's main ideas in the exchange variation of the Ruy Lopez?",
+        "answer": "I was wondering what are the main ideas for White are in the exchange variation, Ruy Lopez opening.[fen \"r1bqkbnr/1pp2ppp/p1p5/4p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 5\"]"
+    },
+    {
+        "question": "What is the percent of players in the top X that are women for different values of X?",
+        "answer": "I have already found some numbers thanks to this website:http://www.ferimex.com/icc/frl.php?list=0&country=0&title=0&sex=0&year=0&old=0&cat=0&size=9&update=yesTop 50: 0 = 0%Top 100: 2 = 2%Top 200: 2 = 1%Top 300: 3 = 1%Top 400: 4 = 1%Top 500: 6 = 1.2%Top 600: 12 = 2%Top 700: 15 = 2.14%Top 800: 16 = 2%Top 900: 19 = 2.11%Top 1000: 29 = 2.9%Top 1100: 33 = 3%Top 1200: 36 = 3%Top 1300: 43 = 3.31%Top 1400: 45 = 3.21%Top 1500: 45 = 3%Top 1600: 49 = 3.06%Top 1700: 54 = 3.18%Top 1800: 57 = 3.17%Top 1900: 61 = 3.21%Top 2000: 65 = 3.25%And I plotted the graph:It's clearly increasing.But I couldn't go higher than top 2000. I hope that someone will be able to extend the graph for higher values (for higher values the graph should be smoother because there will be less statistical fluctuations)."
+    },
+    {
+        "question": "Who wins in the game \"knight\" if both players play optimal?",
+        "answer": "The rules of \"knight\" : Player 1 puts a knight on some square. Then the players,\n beginning with Player 2, alternately move the knight. The knight cannot be\n moved to a square already visited, including the starting square. The player,\n who cannot move the knight anymore, loses.Which player has a winning strategy ?"
+    },
+    {
+        "question": "What are the hardest pawnless endgames that go over the 50-move rule?",
+        "answer": "I know two pawnless endgames that go over the 50-move rule.King and 2 Bishops vs. King and Knight = 70 moves average.King, Rook and Bishop vs. King and 2 Knights = 200 move average.What others are there?"
+    },
+    {
+        "question": "What's the best play when you're losing?",
+        "answer": "When you're down a few pieces or even in a bad position, which is better, playing offensive or defensive?"
+    },
+    {
+        "question": "Is there a name for this attack against Sicilian defense?",
+        "answer": "Sometimes against Sicilian Najdorf (or french) defense I play like this:[FEN \"\"]\n\n1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf5 Bxf5 8. exf5 d5 9. Bg5 d4 10. Ne4 Be7My plan in this opening is somehow playing like Yugoslav attack, specially by opening an open line in queen side and pushing pawns into the king side of black and going for O-O-O, but I usually fail against players with rating in my range in normal game but usually I win against player with similar rating to me in blitz game by use of this handmade opening.Question:Is there a name for this opening? Is it a very weak opening? and more important than this, if I don't want to play passive against e5 in different variation of Sicilian (e.g, when my knight is at d4) what should I do?P.S: Maybe Be3 seems to be silly, but my intention is motivating to pushing e5 (by black), to use open line of f7 by my white bishop later in the game. Many players are thinking about possible fork pawn, or they see weakness in my move and they do e5."
+    },
+    {
+        "question": "Longest path for knight",
+        "answer": "Suppose the knight is on square X and he wants to get to square Y, and in order to do that he has to move N moves. how big could N be?Could that be solved using a mathematical equation? Say Nf3 should capture Bg8, could that be solved mathematically without having to take a look and analyze it step by step? is there an equation?"
+    },
+    {
+        "question": "It is important to play e4 or d4 to 'control the center'. Myth or reality?",
+        "answer": "Well, there are two premises in the question itself: 1) That e4 or d4 'controls the center'. 2) That 'Controlling the center'is something important. It appears to me that 'controlling the center' is the least of the benefits of a move  like e4 or d4. The fact is that it becomes mandatory to play e4 or d4 if you want to develop both bishops along their long diagonals(c1-h6 diagonal or a6-f1 diagonal). This seems to be the most important benefit of e4/d4 IMO and not 'controlling the center'. So while it may turn out that 1) e4 and 1) d4 give rise to good games for white I feel it may be more due to the rapid development which these moves allow rather than because these pawns 'control the center'. Indeed, sometimes, these pawns can be an obstacle for white's own pieces.(I am looking at things from white's perspective but the same argument can be similarly posed from the black player's perspective as well.). Do post your thoughts on this."
+    },
+    {
+        "question": "Is the concept \u201cgetting out of the book\u201d outdated?",
+        "answer": "I see the phrase \u201cgetting out of the book\u201d used in a way that no longer makes sense because if I\u2019ve seen the position before then surely anyone good has seen it thousands of times, and it\u2019s still in the book in terms of not throwing anyone off.Is there some authority that holds what the opening book is and updates it with classic games every year?Or is it updated by the top positions and their win %?A side question but related, when a pro player preps their out of book moves, they aren\u2019t so much prepping out of book but things their opponent\u2019s game history has never played before, correct?"
+    },
+    {
+        "question": "Is there such a thing as a criterion-based diploma or certification in chess skills?",
+        "answer": "The vast majority of chess titles today are fundamentallycompetitive. To be a \"master\" of any kind according to bodies like FIDE is defined in terms of being able tobeat othersrather than mastering a specified body of chess knowledge, theory, or skills. In educational theory, such chess titles arenorm-based rather than criterion-based.A recentquestionestablishes that there are criterion-basedcurriculathat an aspiring chess player may self-study, but it appears that none of them lead to any sort of recognized title, certification, degree, or other formal designation.Are there criterion-based titles or other designations in the world of chess? For example, is there a \"GED\" type qualification that doesn't represent any particular competitive rating but represents basic competency in all of the basic techniques of chess? Are there specialty skill certifications, e.g. for openings or skewers, that are obtained by passing skills tests rather than by obtaining a specified tournament rating?I'm mentally comparing this somewhat to martial arts, which typically award color belts based on passing tests (criterion-based) but also have a separate system of trophies and titles that can be earned by winning tournaments (norm-based).Other common educational terms strongly associated with criterion testing are mastery learning, learning standards, competency-based education, and outcome-based education.As to the \"why\", these sorts of titles could appeal to people who see chess as more of a form of mental exercise for themselves than an opportunity to pwn noobs."
+    },
+    {
+        "question": "Why is f4 by White so rarely seen against the Dutch?",
+        "answer": "One of the more common responses to the Dutch Defense is as seen below:[FEN \"\"]\n1.d4 f5 2.c4 Nf6 3.Nc3I understand the logic behind this fairly well. White establishes a strong queenside presence and is free to bolster defenses in the center with their knight without fear of blocking their own pawns in. However, the following sequence of moves is almost never seen:[FEN \"\"]\n1.d4 f5 2.f4 Nf6 3.Nf3I understand why thisparticularversion is so rarely seen: the e5 square is given a needless amount of protection while leaving e4 defenseless. However, in general, you still never see players at the master level try to go for f4 and Nf3 against the Dutch, regardless of how the first few moves shake out. Why is this? I know anecdotally that it's good practice to put your pawns in front of your knights, but if that's the case, why do it only on the queenside and never on the kingside? In the first example up there, white usually plays Nf3 anyway, blocking their own pawn in. Why does this double standard exist?"
+    },
+    {
+        "question": "Why doesn't Black develop the light-square bishop after 1. d4 d5 2. Nf3?",
+        "answer": "After 1. d4 d5 2. Nf3 Stockfish gives the best move as 2...e6, entering a QGD position.Why does Black voluntarily block the LSB instead of develop it first with 2...Bf5?"
+    },
+    {
+        "question": "When a US tournament entry is limited based on rating, when is the rating checked?",
+        "answer": "I see that some tournaments with prizes are limited to low rated players. Given that travel requires planning, I expect entry to the tournament is processed some time before the 1st day of the tournament.So what happens if a person does very well in another tournament shortly before and hence get an increased rating?"
+    },
+    {
+        "question": "What does columns 1-24 mean?",
+        "answer": "I was readingModern Chess Openingsby Nick de Firmian, and found \"columns 1-24 deals with 2...exf4 \" in relation to a theory table. So what does \"columns 1-24\" mean?"
+    },
+    {
+        "question": "Can the pawn take the rook in this position?",
+        "answer": "I have a question regarding the way that pawns are allowed to attack. Sorry I\u2019m a beginner, but me and my friend are playing and I don\u2019t want to make this move if I\u2019m not allowed to. I have a picture of how it is. I\u2019m clear he\u2019s white, am I allowed to attack his Rook?"
+    },
+    {
+        "question": "Where does the black king stand in this specific position?",
+        "answer": "[FEN \"7r/pppppKpP/6P1/8/8/8/n7/8 w - - 0 1\"]Assume that the following position was reached in a legal game of chess. In the last 5 moves, no pawn has moved and no pieces were captured.\u00a0The Black king is invisible \u2013 on which square does it stand?"
+    },
+    {
+        "question": "Why should I expect that black moves Rxd2 after I move Bxe3 in this puzzle?",
+        "answer": "I've been playing a few puzzles for a couple of days, and I see that often the final move to chessmate is easy to spot, but earlier moves aren't (to me).In this case, for instance, why should I expect black to defend the king with the rook, rather than, say, eating it with the queen?4rk2/1bq2p1Q/3p1bp1/1p1n2N1/4PB2/2Pp3P/1P1N4/4RK1 w - - 0 2\n\n1. Bxd6 Re7 2. Qxf7"
+    },
+    {
+        "question": "Rossolimo 3.Bb5 vs open Sicilian against c5-Nc6 sicilian",
+        "answer": "Many chess players nowadays recommend the Rossolimo against c5-Nc6 Sicilian:[fen \"\"]\n1. e4 c5 2. Nf3 Nc6 3. Bb5However, I find the open sicilian to be easier to play:[fen \"\"]\n1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c4 b4 12. Nc2 a5 13. g3 O-O 14. Bg2One of the reasons of my preference is that I have control over the d5 square and black has a backward pawn on d6. Moreover, I can play moves like Qd3,a3, and play on the queenside with my rooks too.My issue with the Rossolimo is that it gives up the bishop pair for no obvious outpost for the knight like the second position in the open sicilian that I shared above.I would really appreciate it if you can tell me why the Rossolimo might offer better winning chances with White, and why top players are attracted to it, and why Black players try to avoid it in their repertoire. Also, if you can refer me to good thematic games with Rossolimo."
+    },
+    {
+        "question": "Why are chess.com opening names and notations seemingly mismatched?",
+        "answer": "I often see something like the above when playing chess online. When I played Ruy Lopez and my opponent played Classical Variation, but I transposed us to Four Knights Game Spanish Variation, I had castled in between the Classical move and the transposition (Move 4).It seems the reason the opening name says \"5. O-O\" because it one of the openings where the order of moves doesn't matter. But is this a bug in chess.com or intentional for the opening name to be mismatched with the move numbers?"
+    },
+    {
+        "question": "How should I improve my chesstempo tactics rating?",
+        "answer": "I was stuck on a chesstempo tactics rating of around1482-1509 for about 2 days. I reached my current level within 3 days. I want to improve to an 1800+ rating. How can I improve?"
+    },
+    {
+        "question": "Contemporary Alekhine Defence Players",
+        "answer": "Recently I started playing Alekhine's Defense and I really like, especially the Scandinavian Variation (the line with strong centralized queen and an annoying knight to kick it around).I want to know if any current day top players play this opening so that I can study their games for improvement. If they play the Scandinavian variation, then it will be the icing on the cake.[FEN \"\"]\n\n 1. e4 Nf6 2. Nc3 d5 {The Scandinavian variation.}"
+    },
+    {
+        "question": "Preparing for an OTB tournament: I must do well!",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Is it ethical to refer to opening book for the first few moves of a correspondence game? [duplicate]",
+        "answer": "This question already has answers here:Is it legal to use a chess database in correspondence chess?(3 answers)Closed5 years ago.I am still learning chess (been playing ~6 months steadily now and am at ~1300) and have recently been enjoying correspondence chess with a 3 day time control. I find it gives me time to really analyze each move without the pressure of time that I get with blitz games.I have been trying to learn new openings in detail, mostly using opening explorer in lichess or chess.com. As most of you probably know, it breaks down the most popular moves in the opening from games played and gives the % outcome of white wins/black wins/draw for each move. This is an amazing resource for someone like myself who doesn't have lines memorized yet, but is it unethical to refer to these resources during a daily game?I would never refer to an engine for a current game and the opening explorer is only showing the data for games that have been played, not evaluating positions, but I still wonder if it would be wrong to use.What is the general consensus of the online chess community on this?"
+    },
+    {
+        "question": "In the Dutch Defense, why does white play b3 and Ba3?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "What is a winning position in chess?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "An Interesting Idea: Pinned Pieces Stalemate",
+        "answer": "I had an idea for a type of stalemate: One side is stalemated with 8 pins in a legal position with as many pieces as possible, with all of the stalemating side\u2019s units being \u201cnecessary.\u201d\u201dNecessary\u201d is defined as either pinning a piece, blocking a piece, or covering a king\u2019s flight square. The king must be involved of course.As a bonus optional question, what is the maximum number of units in a legal position with 4 \u201cnatural\u201d pins, which means no promoted pinning pieces?"
+    },
+    {
+        "question": "Is an Arabian mate possible without the king\u2019s help?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Oscillating Stockfish Evaluation on Laptop",
+        "answer": "I'm usingstockfish-9-bmi2on my laptop to provide me move by move evaluation of games. I've set Stockfish to evaluate todepth = 25plys. I find that the evaluation provided oscillates move-on-move after a certain number of moves. Below is the plot of the evaluation:In the above plot, theply-countis on thex-axis, theevaluationfrom Stockfish is on theprimary y-axis (left), theMate-Innumber is on thesecondary y-axis (right). The Blue line with white circles is the plot of the evaluation and the red circles depict the mate-in number.However, for the same game, when I jot down the evaluation fromlichess.com's analysis board, which is also using Stockfish 9, I get a much more stable evaluation move-on-move. Lichess.com's analysis board also usesdepth = 25for most moves but can use a different number for certain moves. Below is the plot for the same:In the above plot, the Blue line depicts the evaluation. The break in the trend is because of a Mate-In-3 onply count = 63.Considering that both methods use Stockfish 9 and is set to depth = 25, can someone help me with why the results on my laptop oscillates so much?My Laptop's configuration:OS: MacOS High SierraProcessor: Intel core i7 2.2 GHzRAM:  16GBStockfish: stockfish-9-bmi2The game used is Praggnanandhaa vs Vishy Anand - Tata Steel Chess India Blitz 20181. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6\n5. Nc3 a6 6. a3 g6 7. Be2 Bg7 8. Be3 O-O\n9. Qd2 b5 10. O-O-O Bb7 11. f3 Nbd7 12. h4 Ne5\n13. Bh6 Bxh6 14. Qxh6 Rc8 15. g4 Rxc3 16. bxc3 Qa5\n17. Nf5 gxf5 18. gxf5 Qxc3 19. Rdg1+ Ng6 20. fxg6 fxg6\n21. h5 Bxe4 22. fxe4 Qa1+ 23. Kd2 Nxe4+ 24. Ke3 Qc3+\n25. Bd3 Qd2+ 26. Kxe4 Qxh6 27. hxg6 Qf4+ 28. Kd5 h6\n29. g7 Rc8 30. Ke6 d5 31. Rg6 Rc6+ 32. Kxe7 Rxg6\n33. Bxg6 Kxg7 34. Bd3 Qe5+ 35. Kd7 h5 36. Rg1+ Kf6\n37. Rg6+ Kf7 38. Rh6 a5 39. Kc6 b4 40. axb4 axb4\n41. Kd7 Kg7 42. Re6 Qd4 43. Ke8 Qg4 44. Ke7 h4\n45. Be2 Qg5+ 46. Kd6 h3 47. Re7+ Kf8 48. Re5 Qf6+\n49. Kxd5 h2P.S.: I have also tried usingstockfish-9-64instead ofstockfish-9-bmi2and the results are similar"
+    },
+    {
+        "question": "What is the time control for FIDE chess tournaments?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "To what move depth should you analyze a chess position",
+        "answer": "I'm trying to learn a chess opening and using a chess engine (stockfish8) to analyze the position but I'm wondering what move depth should I set it to (e.g., 25, 30 35 half moves)."
+    },
+    {
+        "question": "Rating effect on no-show",
+        "answer": "In a long time control (90+30) team championship game I showed up on time but wrong city and lost the game - will this affect my rating? I arrived at the wrong location and missed the game."
+    },
+    {
+        "question": "Does one need to know all popular openings if they wants to be a top-level player?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Can a KB vs. KB endgame be declared drawn if a checkmate can occur and the 50-moves-rule doesn't apply in a Blitz game?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "A mate in two problem",
+        "answer": "[FEN \"8/8/4R3/8/2kBn3/K2pQ3/8/8 w - - 0 1\"]\n\n1. Re5?With White to move, here is a mate in two problem that I couldn't figure out. My opinion is that the first move is 1. Re5, but Black still has a variety of moves. Does anyone have better ideas on how to solve it?"
+    },
+    {
+        "question": "Castling vertically problem",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Are there any opening traps that result in a windmill?",
+        "answer": "Are there any opening traps where your opponent can blunder into a windmill?"
+    },
+    {
+        "question": "Minimal number of moves before castling in Chess960",
+        "answer": "No answer found"
+    },
+    {
+        "question": "How to beat King's Fianchetto Opening Modified (White)",
+        "answer": "No answer found"
+    },
+    {
+        "question": "What did I blunder at move 23?",
+        "answer": "I played a game recently on chess.com, where the most detailed analysis identified a single blunder in the game -- 23. d6  The analysis given by the computer suggested that 23 Qd1 was better, with the line it gave then chasing the black knight around the board until it was captured, and freeing the Black queen rook in the process.Myself and my opponent both like 23. d6 (well, I liked it more than he did) as it locks out the entire Black queenside for the rest of the game.  From my perspective I'm a rook and bishop up at this point, which makes it hard to me to see this as a blunder.Could anyone perhaps point out better reasons why I should regard this move as a blunder?[fen \"\"]\n[Event \"Let's Play!\"]\n[Site \"Chess.com\"]\n[Date \"2019.02.19\"]\n[Round \"-\"]\n[White \"postmortes\"]\n[Black \"Glebbf\"]\n[Result \"1-0\"]\n[WhiteElo \"1341\"]\n[BlackElo \"859\"]\n[TimeControl \"1/86400\"]\n[EndDate \"2019.02.21\"]\n[Termination \"postmortes won by checkmate\"]\n\n1. g3 e5 2. Bg2 Nf6 3. Nc3 Bd6 4. e3 Na6 5. Nge2 O-O 6. O-O c6 7. a3 Qc7 8. b4\nRe8 9. d3 c5 10. Re1 h5 11. b5 Nb8 12. Rb1 Re6 13. Bd2 c4 14. a4 cxd3 15. cxd3\na6 16. b6 Qc5 17. d4 exd4 18. exd4 Qf5 19. Nf4 Bxf4 20. Bxf4 Nc6 21. d5 Rxe1+\n22. Qxe1 Nd4 23. d6 h4 24. Ne4 h3 25. Nxf6+ Qxf6 26. Qe8+ Kh7 27. Be4+ Nf5 28.\nQe7 Qg6 29. Qe5 Kg8 30. Bxf5 f6 31. Qd5+ Qf7 32. Qxf7+ Kxf7 33. a5 g6 34. Bxh3\nf5 35. Re1 Kf6 36. Bf1 Kf7 37. Bc4+ Kf6 38. h4 Kg7 39. Re7+ Kf8 40. Bh6# 1-0"
+    },
+    {
+        "question": "Black only has pawns: Mate in what?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Why is this gambit also known as the Maltese Falcon Gambit?",
+        "answer": "Why is the Gibbins-Wiedehagen Gambit (1.d4 Nf6 2.g4) also known as the Maltese Falcon Attack (or Gambit)? Is there any specific reason for that?"
+    },
+    {
+        "question": "Casual chess meet up in London UK",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Is there any more purpose to various openings than to get a positional advantage?",
+        "answer": "I have a grasp on tactics at this point, but when it comes to openings, I am lost. I follow the principles of developing my pieces toward the center with an eye towards castling. Beyond this, I don't understand what I am trying to accomplish if I pick a specific opening.For instance, I have been watching some YouTube lectures on various openings like the Ruy Lopez. Usually these lectures videos enumerate a bunch of variations without giving me a lot of insight into why I would choose these moves, in the moment or in the long run.Going back to the principles that I play in my own openings, it seems to me that the goal is to gain a positional advantage. That is, increase my options while decreasing my opponents. I am assuming no big blunders occur. But what does this mean beyond just trying to take control of the center? How do I connect my opening to a long-term checkmate goal? Is that even possible?"
+    },
+    {
+        "question": "Where can I find details of future tournaments?",
+        "answer": "I have never taken part in an OTB tournament (Simply put, I am not FIDE rated), and I want to. But, I can't find any tournaments to play in. I am currently resident in Sudan. Is there a website where I can find all details of a tournament (location, start date, end date, requirements, etc...)?. Please do not recommend the FIDE website; I always go there and only find finished tournaments."
+    },
+    {
+        "question": "Polyglot Opening Books vs. Chess Opening Tree",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Knights necessary to mate king on large finite board",
+        "answer": "How many knights would be necessary to mate opponent's king on large finite boards, like abillion times a billion squares?Are they fast enough to surround the opponent's king in aconstantnumber of times for various finite board sizes, or would you need somef(board size)of them, let's say millions for our board? Would there be a difference if attacking side could use it's king too?It's not clear how geometry works here, but it looks like when the king starts running, it's pretty fast and only two knights are fast enough to follow it. On the other hand, knights can build setups giving additional time for some distant colleague to join slowly. We start with king in the center and knights in one corner and 50 moves rule doesn't apply..."
+    },
+    {
+        "question": "What should the opponent do when the player knocks over pieces as he presses the clock?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Middle game and endgame principles",
+        "answer": "In the opening, it's helpful for me as a beginner to remember some basic principles: develop your pieces, castle, knights before bishops (generally), don't move the same piece twice, etc. Are there similar, very basic rules of thumb that one can typically adhere to in the middle game and endgame? Or are middlegames and endgames so numerous and distinct that it really depends on the opening, e.g., in $X$, you want to do $y$ and $z$ but in $A$ you want to do $b$ and $c$?"
+    },
+    {
+        "question": "How could I have improved my attack in this game?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Was I right to capture the pawn in this position?",
+        "answer": "I played a blitz game against a 1900 player which I won. I'm interested in this position, with me as Black to move.The computer recommended to take the bishop, but I didn't want to take it immediately, because I don't want to give their rook an open file. I thought if they want to take my rook, they better do it with the g pawn.[FEN \"r2q2k1/2p2ppp/2p2n2/p7/P2pr3/1BB2P2/1PP3PP/3Q1RK1 b - - 0 1\"]I played Rh4 to keep an eye on the pawn and if they were willing to kick it by playing g3, they'll end up with a weakened position. They replied with g3 as expected. And here I could take the bishop or the h pawn then the bishop, which is what I did.Had I followed what the computer said, I would have been up 2.5 or 3 points in computer evaluation. What I did got me half a point to 0.8, which is strange, hence I'm asking this question. The computer didn't even bother moving the rook to the h-file.In the position, what would be the best approach?"
+    },
+    {
+        "question": "Can a knight jump into a square in both an odd and even number of moves?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Ruy Lopez Open Variation",
+        "answer": "[FEN \"\"]\n1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4Why is 6. Re1 not played, prefer players 6. d4 only? Please answer with explanation and variations so that it could help all players."
+    },
+    {
+        "question": "How should I prevent the quality of my game from declining?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Moving two pieces together",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Learning chess theory",
+        "answer": "I have played a lot of chess in my childhood. And I'm quite a decent player as well. However I stopped playing for few years now. Only after I realized that there are lot of opening/middle/closing text book moves like 'kings Indian defense' etc. if I start fresh once again, how should I start learning these text book moves and implement it? There was no one to coach me in childhood so I never knew all this."
+    },
+    {
+        "question": "Which books are suited for 1500 elo?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "SCID not recognising transpositions",
+        "answer": "I like going through open variations and taking notes and saving them in my database.However I have a problem. When I get to two of the exact same board positions and same color to play, if I got there via two different variations, any future variations I make and comment will be considered separate.For example, suppose I start a game with 1.e4 e5 2.Nc3 Nf6 and add some variations with, e.g., 3.Nf3 and 3.Bc4 and make some comments.  Then, in the same database, I add a game with 1.Nc3 e5 2.e4 Nf6. This leads to exactly the same position but the variations and comments from the 1.e4 variation are not shown.How do I merge these variations or get SCID to understand that it's the same so it shows the variations after both move orders?  I don't want to write a whole new tree and branches just because I switched up one move.Or if anyone knows a different program I can use for this to save uncompleted games such as opening variations and I can write my notes that would be great."
+    },
+    {
+        "question": "B+N worth R + how many pawns?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Recommendation of a book for learning strategic concepts",
+        "answer": "I am looking for a book to help me with strategic concepts, how to exploit small advantages in the long term and long term plans in general. I would like it to have as much exercises as possible. What would be a good book for this?I am rated around 1800."
+    },
+    {
+        "question": "Why are ratings calculated by tournament instead of by game?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Chess Statistics How to?",
+        "answer": "I am a graduate student studying statistics and I play chess once in a while for fun.I was thinking (just for the fun of it) -- applying some of what I've learned in statistics to chess games: I want to perform statistical analysis of chess games.Note: My primary purpose is recreation:Tinkering aroundRe-producing earlier works -- for example how much of an advantage does white have over blackLooking at mid-game winning patternsEtc. etc.So to that:I need a large collection of chess games (historic data)I will then analyze them using R which is a statistical programming languageQuestion:I'm looking a collection of games that I can then use as my data set (I would love to get a list of open source chess databases -- commercial chess database might have restrictions on em)I'm looking for any reference material -- like seminal papers in this area.Thanks."
+    },
+    {
+        "question": "Why are doubled pawns in this case particularly devastating?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Stockfish's algorithm [duplicate]",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Can the Black still win the game? How?",
+        "answer": "It\u2019s Black to move.[FEN \"r3k2r/pppbn2p/4p1p1/8/3PNq2/2PB2P1/PP3P1P/R2QR1K1 b - - 0 1\"]Here's a picture of a groovy little portable chess set with the position above"
+    },
+    {
+        "question": "Chess games similar to Morphy versus the Duke of Brunswick and Count Isouard",
+        "answer": "No answer found"
+    },
+    {
+        "question": "How to maintain the initiative?",
+        "answer": "What are some ways one can keep the initiative?  I find in many cases I have the upper hand if I am able to keep my opponent defending instead of creating his own attack.  Are there openings or certain moves in the beginning that help keep the initiative?"
+    },
+    {
+        "question": "Chess.com: Is there a way to save a game in the middle?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Where can I find a list of all zugzwang positions with \u2264 5 pieces?",
+        "answer": "Is there a list of all zugzwangs with \u2264 5 pieces on the board? (Pawns and kings count as pieces)If there are too many, maybe there is a list of all zugzwangs with \u2264 4 on the board?"
+    },
+    {
+        "question": "How early can you resign a game?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Is there a real version of the chess puzzle from The Yiddish Policeman's Union? If not - can it be made?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Has checkmate ever been achieved by castling kingside in a high-level game?",
+        "answer": "Has checkmate ever been achieved by castling kingside in a high-level game?I asked an AI large language model, but it listed games which certainly didn't achieve checkmate with castling kingside. I also tried searching the web but didn't come across any."
+    },
+    {
+        "question": "Is there a way to get blunders, mistakes and inaccuracies using Stockfish?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "How to improve at chess by analyzing one's own games?",
+        "answer": "Analyzing one's own games can be a useful tool for improving at chess, as it allows players to identify their mistakes and learn from them. However, it can be challenging to accurately assess one's own play and find the best way to improve.What are some effective techniques for analyzing one's own chess games? How can players avoid the pitfalls of self-analysis, such as being too harsh or lenient on oneself, or overlooking important mistakes? Is it better to analyze one's own games immediately after playing, or is it better to take some time to let the emotions of the game dissipate first?"
+    },
+    {
+        "question": "What is the maximum number of moves in a position of Crazyhouse?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "How many 2200+ FIDE rated players are there?",
+        "answer": "Are there any sources for the recent numbers of players rated over 2200 byFIDE?"
+    },
+    {
+        "question": "What is the correct way to play this endgame?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "What's PlayMagnus age 10 Magnus' true elo?",
+        "answer": "I do realise that a similar question might have been asked before; however, all intel about the topic that I have managed to gather to date seems to be outdated: almost everywhere I search, it is said that PlayMagnus age 10's estimated elo is 1500-1700, but I believe him to be much stronger than that. My Rapid elo on chess.com is 1850, but in order to beat him, I need to concentrate intensely, and even then I'm more likely to draw or lose than win. There is no doubt in my mind that the bot is stronger than me - I would estimate by about 200-300 elo points.To this end, here is the question: am I simply significantly overrated, or is age 10 Magnus' true elo actually higher than what is commonly cited?"
+    },
+    {
+        "question": "How many games of optimal chess are there?",
+        "answer": "Assume that we haveweakly solved chess, in the sense that we have an algorithm that when used, allows us to force a win if possible, and if that is not possible, force a draw. Define a ply asoptimalas one made in accordance with such an algorithm, and further define a game as optimal if every ply made by both players is optimal.How many such games are there?"
+    },
+    {
+        "question": "What are some \"quick start\" openings?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Are there any official rules for Bughouse?",
+        "answer": "I came across this question -Formal rules for two-player bughouse without a clock- which asks if there is a formal way of breaking deadlock situations where one player on each side doesn't want to move, but nothing about formal or official rules. Do they exist? Has anybody tried to control this chess variant?"
+    },
+    {
+        "question": "By how much does being told what piece to move improve one's Elo?",
+        "answer": "Hereis a (rather humorous) game in which a 900 player is told by a much higher rated playeronlywhichkindof piece to move (e.g. along the lines of \"bishop\", not \"light square bishop\").Is it safe to assume that this assistance would improve the player's game, and presuming so, is there any statistical approximation (or rule of thumb) to estimate the expected improvement in someone's performance (measured by Elo) when given such an advantage?E.g. would a 900 player assisted in this way by a 2700 player become a 1500 player? (that's a wild guess for argument's sake)"
+    },
+    {
+        "question": "How to build a good opening repertoire?",
+        "answer": "I am struggling to build a good opening repertoire. I have tried a few chessable courses. None of them have worked. My opponents counter my opening pretty easily. What is the best way to build a good opening repertoire? My openings for black are the Modern and the Dutch and my opening for white is the London System?"
+    },
+    {
+        "question": "Problem with a shorter solution",
+        "answer": "I'm looking atthis problem.[Title \"White to move. Mate in three\"]\n[StartFlipped \"0\"]\n[fen \"5rb1/1p1P1pbr/1p5p/5N/PP2k/1Np3QB/6K/8 b - - 0 1\"]It requires white to mate in three. The accepted solution starts with 1. Kf1. But there seems to be a mate in 2 via 1. Ne7 and then 2. Bf5.Am I missing something? If the mate in 2 is correct, is it common/normal for a problem to request a mate in 3 when a mate in 2 is available?"
+    },
+    {
+        "question": "A book on the Lasker - Capablanca World Championship Match (1921)",
+        "answer": "Recently I've been studyingLasker - Capablanca World Championship Match (1921). Is there a book that gives the story behind the match? Also, I would appreciate the game annotations.Best wishes and thank you."
+    },
+    {
+        "question": "Meeting d4-d6 from White's perspective",
+        "answer": "How do you meet d4-d6 when your opponentdoesn\u2019tplay the Old Indian, and the setup is d6-Nbd7-e5, which is Pirc territory?[fen \"\"]\n\n1. d4 d6 2. null Nd7 3. null e5When this happens, can I play the London System, possibly with d4-Bf4, and so forth?"
+    },
+    {
+        "question": "How can I use pgn-extract to remove a game from a pgn file when there is an illegal move?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Is learning the English Opening helpful for learning the Sicilian Defence? How about vice versa?",
+        "answer": "Is learning the opening 1. c4 e5 as white helpful in learning the opening 1. e4 c5? How about vice versa?Are the ideas behind the Sicilian Defence as black very similar to the ideas behind the English Opening as white?"
+    },
+    {
+        "question": "How do I politely ask a spectator to stop watching my game?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Why play Nb5 in this line of the sicilian?",
+        "answer": "After 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 why is 5. Nb5 the best move?\nThe game usually continues 5. Nb5 d6 6. N1c3 a6 7. Na3 and it looks to me like whites knight on a3 is misplaced. What makes this line good for white?[StartPly \"8\"]\n\n      [FEN \"\"]\n      1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.N1c3 a6 7.Na3"
+    },
+    {
+        "question": "Is there a database of endgame positions with known perfect play?",
+        "answer": "Perfect play as in, it leads to checkmate in the least moves possible. Not just forced mates."
+    },
+    {
+        "question": "Team championship pairings",
+        "answer": "No answer found"
+    },
+    {
+        "question": "How can I find my performance rating?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Adjusting to longer time controls",
+        "answer": "I've played extensively online with a G/30 time control, and OTB at G/30 with a 5 second delay.  I'd like to start playing in tournaments though that have a time control of G/90 with a 30 second increment.Should I approach the game any differently?  Obviously, I'd have longer to calculate, but are there any other types of differences to be aware of?  Or, are there different ways to prepare mentally?"
+    },
+    {
+        "question": "Calculation and visualisation exercises - do they work?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "How do people 'see' the position in blindfolded games?",
+        "answer": "How do most people play blindfolded chess? Is it akin to a live video feed in their mind where they can see all of the pieces, or do they just remember what moves have been made so far and go from there?"
+    },
+    {
+        "question": "What is the name of chess format in which one player has only pawns, no king?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Difficulty of attaining USCF rating in different states.",
+        "answer": "USCF is the chess federation for all of the United States. My question is if there is difference in a rating given in one state and another. For example, is a 1900 rated player in California on average better or worse than a 1900 in Indiana? I'd be interested in people's insights and/or data which draws you to your conclusion."
+    },
+    {
+        "question": "English opening against Dutch defense",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Is it worth it to transition into more open lines when one is used to closed, positional games?",
+        "answer": "I've played the French and Queen's Gambit, which tend to lead to more closed, positional play.  I've played these openings consistently for roughly 25+ years now, with no set opening before then really.  I did try to learn both the Center counter, or Scandinavian, and the Danish early but eventually gave up and played random moves (I was quite young).  After that it was Petrov for a year, then on to closed games.  I'm currently 38 and have been at closed positions now for 25+ years.  By consistent I mean every single game I've played since then.  If it is relevant my USCF is around 1500, with a peak of 1620."
+    },
+    {
+        "question": "Why go for stalemate here?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Two Knights Defense 4. Ng5 - Strategy?",
+        "answer": "I've been trying do some research on the defence against4. Ng5, since it has been a really big thorn in my side for a bit of time.[FEN \"\"]\n[StartPly \"7\"]\n\n1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5I've firstly taken a look into the Traxler attack, but I'm unsure about it since it's such a 'hack' line and well, it's a bit unreliable in a really big match.I am looking at mainline withNa5andc6, but I am not quite sure how Black keeps up the initiative from there. His queenside looks a bit shattered and White seems to be fine with happily developing his queenside.Can anyone tell me some kind of plan or theory on the classical refutation against4. Ng5?\nThanks!"
+    },
+    {
+        "question": "Will going to more chess tournaments and playing the Open section make me stronger and more experienced chess player?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "How is this a winning position for white?",
+        "answer": "[FEN \"r4r1k/pbq2p1p/1p1ppPp1/8/2P3P1/PP6/R2Q2P1/1B3R1K w KQkq - 0 1\"]\n\n1. Qh6 Rg8 2. Rf4 e5 3. Rf3 Bxf3 4. gxf3This is what I got from \"ChessCademy -> Attack and Defence -> Attacking Castled King -> Combining Focal points\" lesson. \nAfter this small play, I got :Excellent! After attacking the g7 square, black is forced to close off\n  g8 as an escape square for his king. From there, you opened up the\n  h-file, resulting in a decisive attack.I don't understand how White got an advantage and there why Black did the moves he did.  Sadly, I didn't find a way to get the more in depth analysis on the website, or have variations of games that I could play. \nIt would be wonderful if someone could explain to me, or show, why White is winning and was this the best course of action? \nIs there anything else Black could have done to better himself?"
+    },
+    {
+        "question": "What are quick and easy ways to learn, and what should i focus on",
+        "answer": "No answer found"
+    },
+    {
+        "question": "What I thought was winning tactic, apparently was mistake",
+        "answer": "I was recently playing a game as black against the Ponziani when this position came up. (I recommend you flip all the boards to show from black's perspective)Here's the beginning of the game:[fen \"\"]\n1.e4 e5 2.Nf3 Nc6 3.c3 d5 4.Qa4 Bd7 5.exd5 Nd4 6.Qd1 Nxf3+ 7.Qxf3 Nf6 8.h3 e4 9.Qe3 Bd6 10.d3 O-O 11.dxe4 Nxe4 12.Bd3 f5 13.Bxe4 fxe4 14.O-O Bf5 15.c4 Qf6 16.Nc3 Rae8 17.Bd2 Be5 18.Qg5In the starting position, both sides are apparently equal (0.0)[fen \"4rrk1/ppp3pp/5q2/3PbbQ1/2P1p3/2N4P/PP1B1PP1/R4RK1 b - - 6 18\"]\n\n1... Qb6 2. Bf4 Bxf4 3. Qxf4 Bxh3After 2.Bf4 black has apparently made a blunder, putting me 90 centipawns ahead. In the game, I spent 5 minutes debating between Qxb2, h6, and Bxf4 finally choosing the last, seeing it as the simplest most effective option.Apparently, Bxh3 was a blunder on my part, putting white ahead 90 centipawns. (So this move helped white by 1.8) Only, I cannot understand why? I ended up winning the game with the following moves.[fen \"4rrk1/ppp3pp/1q6/3P4/2P1pQ2/2N4b/PP3PP1/R4RK1 w - - 0 21\"]\n\n1. Qg3 Bd7 2. b3 e3 3. fxe3 Rxf1 4. Rxf1 Rxe3 5. Qf2 Rxc3 6. Qxb6 axb6 7.Rf2 g6 8. Kh2 Bf5 9. Re2 Kf7 10. Rb2 Rc2 0-1I feel like the decision to play Bxh3 was justified and what helped me win the game. Yet the engine disagrees. Could somebody tell me what the problem with Bxh3 was?"
+    },
+    {
+        "question": "recommend a book on mid-game plan and board evaluation",
+        "answer": "No answer found"
+    },
+    {
+        "question": "What does autopilot mean in chess?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Bf5 in the Slav",
+        "answer": "I've read that it can be a tempting pitfall for Black in the Slav Defense to play an early Bf5, as this results in a weakening of the b7 square, which White might punish with Qb3.  This is apparently the rationale for Black to play dxc4, controlling the b3 square.However, in a recent game, as Black on move 4, I had this position:rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/6P1/PP2PPBP/RNBQK1NR b KQkq - 2 4I played 4...dxc4, but it seems Stockfish considers this a slight inaccuracy after 5.Nf3.  Instead, Stockfish thinks 4...Bf5 is best, and if 5.Qb3 then 5...Qb6 and Black has completely equalized.My question, broadly, is when is Bf5 a good move for Black in the Slav, and when is it dangerous without a prior dxc4?  In my game, is part of the problem with 4...dxc4 that White has fianchettoed his bishop on g2, making it dangerous for Black to try to keep the pawn on c4 with 5...b5?"
+    },
+    {
+        "question": "If 2 rooks are on the same Rank how to record the move if one rook moves towards the other?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Why is a win better than 2 draws in the tiebreaks",
+        "answer": "When I play chess tournaments and I have 5/2/2 in the tiebreaks I always lose to players with 6/3/0. So why is a win better than 2 draws? Which is the logic behind it?"
+    },
+    {
+        "question": "FIDE and USCF: If an arbiter is watching a chess game and observes that a rule has been violated, should the arbiter intervene?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Correct swiss pairings for a group of 4 players",
+        "answer": "Say we have a situation that's not super uncommon in swiss tournaments. There are four people currently tied with the most points, where #1 and #3 have just played White (for example), while #2 and #4 have just played Black. Everything else being equal, do FIDE rules say anything about what the pairings should be here? Information about any rules from individual federations is also welcome."
+    },
+    {
+        "question": "Why is f3 not as strong in some sicillian dragon?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Bishop and Rook versus Queen",
+        "answer": "Is a bishop and rook better than a queen in most endgames with pawns still on the board?I'm aware that bishop and rook is technically 1 point of material less than a queen, however, would the fact that there are two pieces versus one make up for this?"
+    },
+    {
+        "question": "Who are the top 10 youngest players to reach a FIDE standard rating of 2200?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Longest sequence of unique legal moves for one player, always in check and ending in checkmate",
+        "answer": "I recently played a bullet game, in which I thought I was in checkmate, but then realized I had one legal move, this then repeated again and again 6 times until ultimately I was in checkmate. I share this anecdote as an explanation for the seemingly arbitrary parameters.To reiterate, one player (black or white) puts the other player in check. That player has only one legal move (moving the king, blocking the check, or capturing the attacking piece) Then the other player puts them in the same circumstance of one legal move. Player one does not need to be put in check or have their moves limited, only in the sense that no positions may be repeated.The final check of the sequence is checkmate."
+    },
+    {
+        "question": "Moving a piece to a square protected by 5 opponent's pieces",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Confused about the central and side pawns - which are which?",
+        "answer": "We all know that the \"center\" comprises of the four squares that are in the very middle of the board - d4, d5, e4, e5.Keeping this in mind, which are the central pawns, exactly, apart from the ones on the d and e files? Do they include the c, d, e and f pawns? Also, if a pawn not on a central file captures a piece and comes one file closer to the center, is that pawn a central one now, too?"
+    },
+    {
+        "question": "Rules: Distracting the opponent using flashy clothes?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Why do I get two different ratings for same position (L\u00f3pez Opening: Morphy Defense, Caro Variatio) on chess.com?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Where does the name of the Guatemalan Defense come from?",
+        "answer": "I recall reading a story that the Guatemalan Defense (1. ... b6, 2. ... Ba6) is named after a game of correspondence chess that was played between (presumably some chess team representing) Guatemala and another country. I've been unable to find this back despite quite some googling, however. Does anyone have a reference or clarification?"
+    },
+    {
+        "question": "Play/learn Sveshnikov Sicilian as a beginner?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "FIDE database used for calculating current ELO",
+        "answer": "Is there somewhere the database FIDE use for calculating ELO rating of players? No need for PGN of games just game result, date, and players.\nReason: recalculate players rating by using Gliko, with the same games."
+    },
+    {
+        "question": "Why hasn't the rating of full-time chess streamers improved?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "The most often played chess game",
+        "answer": "Offhand, I say the Shepherd's Mate. But let us just consider \"serious\" tournament play. Still, the game must be rather short to be repeated extremely often. Could be a \"Will they ever learn\" opening trap or a prearranged draw line. Anyone care to research it in a megabase?Note that just because Lichess lists 187\u00d710^6 e4 vs. 100\u00d710^6 d4 doesn't mean that an e4 game will be the winner! (By playing always the most often played move on the analysis board, I landed in the Lasker Pelikan Sveshnikov.)"
+    },
+    {
+        "question": "Who is actually winning here?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "An important and interesting Bishop endgame",
+        "answer": "In a 1993 game played by Wojtkiewitz vs Khalifman, the following endgame appeared on the board. Black to move.[FEN \"5k2/1p4p1/1p2bp1p/3p4/5PP1/P3P2P/1P1K2B1/8 b - - 0 1\"]Stockfish gives +0.9 for white.Is the position a win for White or a draw?"
+    },
+    {
+        "question": "Why is Bf8 a blunder in this position?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Question about the computer's valuation",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Looking for a PDF of the British Chess Magazine, Sep. 1907",
+        "answer": "I am looking for a PDF copy of British Chess Magazine dated September 1907 which contains an analysis of a game between Neustadtl and Porges."
+    },
+    {
+        "question": "Is the following endgame position a draw or white has advantage?",
+        "answer": "Hello, this is my first question on this site. Is the above position a draw or an advantage for white? I checked a few engines at different depths, some say it is advantage for white , some say it is draw.The general strategy I guess for white would be to play Kf4 and try to win the g pawn. Black's king is temporarily unable to come to the 7th rank due to the white pawn and bishop combine. But can white win the g-pawn without letting go of his own pawn ?Thanks."
+    },
+    {
+        "question": "Do any openings result in a lost game for black?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Step-by-step guide to prepare yourself",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Can Magnus Carlsen force draw (pun-intended) himself to victory?",
+        "answer": "So farCarlsenhas a 2 game lead overAnandand there are only 4 games left.  At the strength of these players, canMagnusbasically force his opponent into draws by playing certain openings or styles?  Can he forceAnandinto drawing the rest of the games to win the world championship?"
+    },
+    {
+        "question": "Chess program that will play an opening against me?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Does a non-copyrighted scoresheeet exist that I can print out instead of purchasing pre-printed sheets?",
+        "answer": "Please provide a download link for a scoresheet for recording moves during match-play. I could format my own but why reinvent the wheel? I am happy to provide a sample as an illustration."
+    },
+    {
+        "question": "Why is Rashid Nezhmetdinov not as popular/known as Mikhail Tal? [closed]",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Where can I get a reliable and user-friendly, but not extravagant, chess clock?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "In chess notation, what are the symbols/notation for \"any legal move\" or \"all remaining legal moves\"",
+        "answer": "I've been working on solving chess puzzles, and I frequently find a situation where one side has a plethora of moves available that have no impact on the solution: for the entire set of moves (potentially all legal moves), the opponent has a single response. Is there a way to notate this?Ex:[Title \"White to move, Mate in 2 (solution spoilered for those who want to solve it themselves)\"]\n[FEN \"8/8/8/8/p4Q2/2p5/8/kbK5 w - - 0 1\"]1. Qb4\n a) ... Ba2 2. Qxc3#\n b) ... a3 2. Qxb1#\n c) ... c2 2. Qb2#\n d) ... Ka2 2. Qxa4#\n e) ... (any other move <-- what symbol here?) 2. Qa3#In variant d, black has a choice of 6 movesbishop anywhere on it's long diagonalit does not matter which black chooses, white's response is the same. What is the appropriate way to notate that?In this (extremely contrived example), white will play Qg5 Qd8# (not the only solution, this isn't meant to be a proper chess puzzle), and it does not matter at all what black plays in between:[Title \"Extremely contrived example, white to move, mate in 2\"]\n[FEN \"k7/ppp5/brrp4/8/8/8/PPPQ4/K7 w - - 0 1\"]Qg5 (literally any move at all <--  how is this notated?) 2. Qd8#"
+    },
+    {
+        "question": "Why doesn't chess.com like my 17... c5?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "What is the probability that White will play O-O or O-O-O after 1.e4 and 1.d4?",
+        "answer": "White plays O-O 80% of the time and O-O-O 9.6% of the time. I'm looking for the same statistics but after 1.e4 and after 1.d4. I'm pretty sure that O-O-O is rarer after 1.d4 than after 1.e4. But how much rarer? I want to see the numbers."
+    },
+    {
+        "question": "Phase 1 of Knight Bishop Checkmate",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Is it ever advantageous to make a trade that loses material for the sake a positional advantage?",
+        "answer": "For example, trading a bishop or a knight for a pawn for the purpose of breaking up the opponents pawn structure.  Is this sort of thing ever a good idea?  If so, could you provide some examples (or links to articles that have such examples) of when it would be a good idea and when it wouldn't, even it might appear to be at first glance?I tried Googling to find information about making unequal trades in chess, but I just found lots of forum questions about when to trade in general, not about the possible benefits of sacrificing material to gain a positional advantage.  Perhaps I was using the wrong search terms.For context, I'm a beginner to chess, been playing for around a month.  I just went through the chess.com lesson on hanging and isolated pawn structures and there was one example they gave where they said something like, \"it might look like white is just sacrificing a pawn for no reason, but look closely and you'll see that this clears the h file, making way for white's rook to attack\".  Took me a few times of rewinding the video to understand the full attack on black'a defenses in that example, but it got me thinking about whether other types of unequal trades might actually be to my advantage at times, and, if so, when."
+    },
+    {
+        "question": "Is there open source sophisticated FEN validator?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Mate in 4. Difficult. Going crazy",
+        "answer": "No answer found"
+    },
+    {
+        "question": "would a board for calculating \"non-blindfold\" help GMs in slow games?",
+        "answer": "I have often wondered, how would it be if the rules were different and you could calculate on a \"non-blindfold\" board during slow games.For example, you could picture each player in the world championship having a chess set in the small lounge they have during the game.Is it known whether GMs' accuracy would improve, or their confidence too, in that case?"
+    },
+    {
+        "question": "How Did Alireza Firouzja Qualify Over Wesley So for the 2024 Candidates Tournament?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Why was this castling move so \"brilliant\"?",
+        "answer": "[FEN \"\"]\n\n1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Ng5 Nh6 5. O-OWhy did chess.com mark this move as a brilliant move? It was quite surprising to see a simple king-side castle getting a(!!) brilliantwhich \u2014 at my level \u2014 is usually only seen for some insane sacrifice that gives you a winning advantage. For some context, my elo is in the ballpark of around 900 and I won this match with an 86% accuracy."
+    },
+    {
+        "question": "Panov-Botvinnik Attack: position analysis",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Understanding why alpha-beta cannot be naively parallelized",
+        "answer": "I have seen it suggested in various places (e.g., on Stack Overflowposts) that alpha-beta pruning cannot be \"naively\" parallelized. To me, an intuitive parallelization of alpha-beta withnthreads would be to assign each a thread to process the subtree defined by each child of the root node of the search tree. For example, in the tree below, if we hadn >= 3threads, we would assign one to process the left subtree (with root b), one to process the middle (root c) and one to process the right subtree (root d).I understand that we will not be able to pruneas manynodes with this approach, since sometimes pruning occurs based on the alpha-beta value of a previously processed subtree. However, won't we have the wait for the left subtree to finish being processed anyway if we run alpha-beta sequentially? By the time the sequential version knew it could prune part of the c and d subtrees, the parallel version will already be done processing them, right? While running alpha-beta on each subtree, we can still get the benefits of pruning for that subtree.Even if the number of children of the root is greater thann, the number of processors, why not just run alpha-beta on the leftmostnsubtrees and then use the results to define alpha and beta for  the nextnsubtrees until you have processed the whole tree?Perhaps this approach is so simple/trivial that no one discusses it, but I am confused why so many resources I have seen seem to suggest that parallelizing alpha-beta is extremely complicated or leads to worse performance."
+    },
+    {
+        "question": "Can I use Lichess to store my over-the-board games?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "How do you find the highest-rated win of a certain player?",
+        "answer": "I'm looking for a tool where I can input a name (e.g. Hans Niemann, Levy Rozman, Eric Rosen etc.) and it will tell me the highest rated player they beat in chess (FIDE rated games). I appreciate any help!"
+    },
+    {
+        "question": "How to find only-winning moves in the endgame?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "What is \"Hybrid Chess\"?",
+        "answer": "According to the latestFIDE rating regulations:2. Laws to be Followed2.1 Play shall be governed by the FIDE Laws of Chessor the Regulations for Hybrid Chess CompetitionsSo, \"hybrid chess competitions\" can now be rated for over-the-board FIDE ratings! What is hybrid chess?"
+    },
+    {
+        "question": "What is the origin of the chess pieces' movements?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "An abstract Top 1 player rating vs time",
+        "answer": "How the highest Elo rating has been changing over time? Is there such an abstract data? Preferably FIDE rating.I've been trying to find a graph or a table, but all I can find is a list ofpeak ratingsfor best players. Meanwhile I want to know the \"maximum achieved rating vs time\", regardless to a player, i.e. maximum of all players rating."
+    },
+    {
+        "question": "How is rating score calculated on Lichess?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Why this exchange",
+        "answer": "I\u2019m reading a book saying that now black Knight at b4 is under attack so need move away.However Stockfish app suggests take the white c3 Knight first using f6 Bishop , then black will Rcxc3 take the Bishop, the white can Nc6 move Knight away.So, is there some reason to do this Bishop-Knight exchange before Nc6? Or I\u2019m not using Stockfish properly?"
+    },
+    {
+        "question": "What should Black do?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Ulf Andersson vs Robert Huebner 1981 rook endgame: the mistake here is Rd8 right?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Why does Black play b6 in these lines of the King's Indian?",
+        "answer": "In this position, White is threatening to play some combo of Bxc5 / Nxe5:[FEN \"\"]\n1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 Nbd7 7.O-O e5 8.d5 Nc5 9.Qc2 a5 10. Bg5 h6 11.Be3Here11...b6is the most popular response. My question is, why notNe8/Nfd7/Nh5, since those moves simultaneously deal with White's threat while making way for the f-pawn to be pushed? Initially, I thought the reason was because it'd be somehow bad for Black if White decided to capture onc5and Black had to capture back with the d-pawn. But consider this very similar line:[FEN \"\"]\n1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 Nbd7 7.O-O e5 8.d5 Nc5 9.Qc2 a5 10. Be3 Ng4!This has an ~80% winrate for Black according to the lichess Masters database, and here he's basically saying to White \"please, go ahead and capture my knight! I'll capture back with the d-pawn and I'll be super happy with my position!\"So why is11...b6preferred to a knight move in the original position?"
+    },
+    {
+        "question": "Looking for a chess engine that instead of playing the best move randomly chooses among the best moves?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Why does FIDE classical chess have a time limit for the first 40 moves? [duplicate]",
+        "answer": "This question already has an answer here:Why is the time control for FIDE chess tournaments what it is? [duplicate](1 answer)Closed3 years ago.Fromthis answer:The FIDE-approved classical time control is: (taken from the handbook)07 Time Control There is a single time control for all major FIDE events: 90 minutes for the first 40 moves followed by 30 minutes for the rest of the game with an addition of 30 seconds per move starting from move one.Why is 40 moves special? Would the right increment handle this problem? I'm puzzled why there is a special time control for the start of the game, it seems an artificial constraint. What is the logic behind this?"
+    },
+    {
+        "question": "How to calculate corresponding squares",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Mate in 1, then No Mate in 1, then Mate in 1",
+        "answer": "Anand and Bobby both are members of their school's chess club. And while cleaning up the games room at the end of the day, they saw a board with the following position:[FEN \"rbR1B1Q1/k1n1nN1p/p1pNpBb1/PpKPRqpP/1PP1PrP1/5p2/5P2/8 w - b6 0 1\"]Then the following conversation happened:Anand claimed that if it were white to move, white has a mate in 1Bobby then pointed out that if any non-king piece is removed from the board, there is no longer mate in 1Anand agreed, and further pointed out that in fact there is exactly one combination of two non-king pieces that he can remove from the original position that would still result in a mate in 1Can you prove each of the statements above?Source: myself, inspired bymy answer to a puzzling question(spoilers in there for the first two questions)"
+    },
+    {
+        "question": "Correct definitions of chess terms",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Overcoming severe time troubles",
+        "answer": "I started playing chess 2 years ago and ever since I started, I have experienced consistent time troubles. Recently, I gathered some data from my 40 most recent rapid 10+0 games, and concluded that I am ~2.08 minutes behind my opponent at around the midpoint of the game.This is absolutely horrible ! In one game I was 6 minutes behind, compared to my opponent. While the best time advantage I have had is 1.3 minutes. Only in 4 of the 40 games I had a time advantage or equal time, so in conclusion,in ~90% of my games I am behind on clock of about ~2.1 minutes halfway through the game.As a result, I can't play blitz (3 minutes) at all, even though I wish I could, since I have to start pre-moving way before my opponent enters that stage of the game. Which further explains my rating discrepancy of 1700 in blitz while 1930 in rapid, on Chess.com...I think the main reason why I am so consistently behind on time stems frommy anxiety of missing a tacticor justblundering something. I really want to fix this problem, but it is just so hard. Has anyone experienced the same thing as me? How have you overcome this problem, and what are available resources for a player like me ?"
+    },
+    {
+        "question": "Which open source chess engine has the most positional understanding?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Legality of swapping identical pieces",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Is it legal to push the rook with the king when castling?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Which White piece moved only once?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Most recent \"best in world\" player who would be defeated by a CM",
+        "answer": "No answer found"
+    },
+    {
+        "question": "How often do grandmasters fail to mate soon when mate in five or less is possible?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Swiss system pairing algorithm stuck",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Weakness in the Stonewall setup?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Is there any hope left for Black?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Good books to learn the Ruy Lopez with",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Which endgame manual?",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Black repertoire for players who love the English Opening",
+        "answer": "No answer found"
+    },
+    {
+        "question": "Is there a method to efficiently generate moves for bishops?",
+        "answer": "No answer found"
+    }
+]
