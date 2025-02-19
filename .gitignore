@@ -1,1 +1,4 @@
 venv/
+chess-chatbot/
+fine_tuned_chess_chatbot/
+logs/
