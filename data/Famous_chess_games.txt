@@ -1,0 +1,688 @@
+Chronological list of notable chess games
+This is a dynamic list and may never be able to satisfy particular standards for completeness. You can help by adding missing items with reliable sources.
+This is a list of notable chess games sorted chronologically.
+
+
+pre-1700[edit]
+1475: Francesc de Castellví vs. Narcís de Vinyoles, Valencia 1475. The first documented chess game played with the modern queen and bishop moves; the moves were described in the poem Scachs d'amor.[1]
+1623: Greco–NN, London 1623. Gioachino Greco mates on the eighth move with a queen sacrifice.[2]
+18th century[edit]
+1788: Thomas Bowdler vs Henry Seymour Conway, London. Thomas Bowdler offers the first example of a famous double rook sacrifice.[3]
+1790: Andrew Smith vs François André Philidor, London. François-André Danican Philidor, who was quoted as saying "Pawns are the soul of chess", demonstrates the power of a superior pawn formation.[4]
+19th century[edit]
+1834: Louis Charles Mahe De La Bourdonnais vs Alexander McDonnell, 50th Match Game, London. Reuben Fine in The World's Great Chess Games describes it as the first great immortal game of chess. Alexander McDonnell sacrifices his queen for two minor pieces.[5]
+1834: La Bourdonnais–McDonnell, 62nd Match Game, London. Perhaps the most famous win of the match (considered an unofficial world championship), Louis La Bourdonnais shows how a rolling pawn mass can overwhelm all of his opponent's major pieces, winning thereby against Alexander McDonnell.[6]
+1843: Pierre de Saint Amant vs Howard Staunton, 5th Match Game, Paris. Pierre Charles Fournier de Saint-Amant resigns in this unofficial world championship match game with Howard Staunton, in which Staunton remarked, "The latter portion of this game is conducted with remarkable skill by both parties."[7]
+1844: Alexander Hoffmann vs Alexander Petrov, Warsaw. Alexander Petrov wins with a queen sacrifice and a king hunt, in a game known as "Petrov's Immortal", against Alexander Hoffmann.[8]
+1851: Adolf Anderssen vs Lionel Kieseritzky, London. "The Immortal Game" Lionel Kieseritzky neglects his development and Adolf Anderssen sacrifices his queen and both rooks for a win.[9]
+1852: Adolf Anderssen vs Jean Dufresne, Berlin. "The Evergreen Game". Adolf Anderssen mates with what Savielly Tartakower termed "[a] combination second to none in the literature of the game."[10]
+1857: Louis Paulsen vs Paul Morphy, New York. Paul Morphy gains an advantage in development and transforms it into a powerful kingside attack with a queen sacrifice.[11]
+1858: Paul Morphy vs Duke of Brunswick & Count Isouard, Paris. "The Opera Game" Morphy shows the virtue of quick development and wins by sacrificing much material, mating on the 17th move with his last two pieces.[12]
+1862: Steinitz–Mongredien, London. Wilhelm Steinitz won the tournament's brilliancy prize for this game.[13]
+1872: Carl Hamppe vs Philipp Meitner, Vienna. The "Immortal Draw" between Carl Hamppe and Philipp Meitner, involving a queen sacrifice.[14]
+1874: Victor Knorre vs Mikhail Chigorin, St. Petersburg. White's premature castling on the king side combined with an ineffective pin allows Mikhail Chigorin to strike back with a violent counterattack culminating in a brilliant queen sacrifice and subsequent checkmate.[15]
+1883: Johannes Zukertort vs Joseph Henry Blackburne, London[16]
+1889: Emanuel Lasker vs Johann Hermann Bauer, Amsterdam. This game between Emanuel Lasker and Johann Hermann Bauer was the first famous example of the double bishop sacrifice.[17]
+1895: Harry Nelson Pillsbury vs Siegbert Tarrasch, Hastings. Harry Nelson Pillsbury's kingside attack breaks through by a single tempo against Black's queenside play, against Siegbert Tarrasch, then one of the strongest players of the world.[18]
+1895: Steinitz–von Bardeleben, Hastings. This game is famous for its ten-move mating combination in the final position, which Steinitz demonstrated after the game.[19] The peculiar circumstance of the conclusion of this game has been subject of scrutiny.[20]
+1895: Harry Nelson Pillsbury vs Isidor Gunsberg, Hastings. In the final round of this prestigious tournament, Pillsbury secures overall victory by triumphing in an instructive endgame.[21]
+1896: Harry Nelson Pillsbury vs Emanuel Lasker, Saint Petersburg. Emanuel Lasker won the brilliancy prize for this game by exposing Pillsbury's king with the sacrifice of both rooks on the same square.[22]
+1900–1949[edit]
+1904: Emanuel Lasker vs William Ewart Napier, Cambridge Springs. Both players show great ingenuity. After a complicated web of tactics, Lasker simplifies into a winning endgame.[23]
+1907: Rotlewi–Rubinstein, Lodz. Akiba Rubinstein wins this game with one of the most famous combinations ever played.[24]
+1909: Akiba Rubinstein vs Emanuel Lasker, Saint Petersburg. Akiba Rubinstein's brilliant play culminates in 18.Qc1!! subsequently forcing Emanuel Lasker to enter a rook endgame down a pawn which Rubinstein wins in masterly fashion.[25]
+1912: Levitsky–Marshall, Breslau. The final move of Frank James Marshall (matched against Stefan Levitsky) places his queen en prise in three different ways. The spectators are said to have showered the board with gold coins.[26]
+1912: Edward Lasker–Thomas, London. With a queen sacrifice, Edward Lasker exposes Black's king and with a series of checks drives it all the way to the other side of the board before checkmating with an advance of his king.[27]
+1914: Emanuel Lasker vs Jose Raul Capablanca, St Petersburg. Lasker defeats José Raúl Capablanca in a positional game where his winning strategy seemed to flow right out of the opening to the end. Capablanca, himself renowned as a master of simple positions, was sufficiently rattled to lose in the next round as well, handing the tournament victory to Lasker.[28][29]
+1918: Jose Raul Capablanca vs Frank Marshall, New York. In the main line Ruy Lopez, Frank Marshall surprises José Raúl Capablanca with a bold pawn sacrifice. Capablanca accepts the challenge fully aware of the fierce attack he is about to face.[30]
+1920: Edwin Ziegler Adams vs Carlos Torre Repetto, New Orleans. Likely composed by Carlos Torre as a tribute to his benefactor E. Z. Adams, this game features the most famous back-rank mate combination in chess literature, involving six consecutive offers of the queen.[31]
+1922: Alekhine–Bogoljubov, Pistyan. This game is referred in the famous novella The Royal Game by Stefan Zweig, which inspired multiple movies, theater plays and musical performances. In the story the position after 38. d6 is being reproduced in a game between the fictional world chess champion and a group of outmatched amateur players who are on the verge of promoting their c-pawn, when an unknown spectator frantically intervenes and explains how white will beat them in 9–10 moves after 38... c1Q 39. Bxc1 Nxc1 40. d7. He proposes 38... Kh7 instead, correctly predicting that 39. h4 will follow and after 39... Rc4 he maneuvers the game for 7–8 more moves until the world champion settles for a draw.[32]
+1922: Efim Bogoljubov vs Alexander Alekhine, Hastings. Irving Chernev called this the greatest game of chess ever played, adding: "Alekhine's subtle strategy involves manoeuvres which encompass the entire chessboard as a battlefield. There are exciting plots and counterplots. There are fascinating combinations and brilliant sacrifices of Queens and Rooks. There are two remarkable promotions of Pawns and a third in the offing, before White decides to capitulate." (The Chess Companion, Chernev, Faber & Faber Ltd, 1970).[33]
+1923: Sämisch–Nimzowitsch, Copenhagen "The Immortal Zugzwang Game".[34]
+1924: Richard Réti–José Raúl Capablanca, New York. The game that ended Capablanca's eight-year run without a single loss in tournament play.[35]
+1924: Jose Raul Capablanca vs Savielly Tartakower, New York. One of the most famous and instructive endgames ever played. Capablanca sacrifices two pawns with check to support his passed pawn.[36]
+1925: Richard Reti vs Alexander Alekhine, Baden-Baden. Alekhine initiates a stunning combination and foresees the final position resulting more than 15 moves later.[37]
+1929: Glucksberg vs Miguel Najdorf, Warsaw. In this game, dubbed the 'Polish Immortal', Black sacrifices all four minor pieces for victory.[38]
+circa 1933: Einstein versus Oppenheimer, recorded game in playbooks, said to have been played between physicists Albert Einstein (or his son Hans Albert Einstein) and J. Robert Oppenheimer. No conclusive evidence supports the historical accuracy of this game.[39]
+1934: Canal–Unknown, Budapest. "The Peruvian Immortal", sees Peruvian master Esteban Canal demolish his amateur opponent with the sacrifice of two rooks and queen.[40]
+1935: Max Euwe vs Alexander Alekhine, 26th Match Game, Zandvoort. This decisive game from the 1935 match for the world championship was dubbed 'The Pearl of Zandvoort' by Tartakower.[41]
+1938: Mikhail Botvinnik vs Jose Raul Capablanca, Rotterdam. In this game from the AVRO 1938 tournament, Botvinnik obtains a strong initiative against Capablanca and brings the victory home with a long combination.[42]
+1938: Frank Parr vs George Wheatcroft, London. Irving Chernev and Fred Reinfeld described this as "one of the greatest combinative games on record!" (Fireside Book Of Chess, Simon & Schuster, 1949, pp. 392–93)[43]
+1943: B Molinari vs Luis Roux Cabral, Montevideo. This game from the 1943 Uruguayan Chess Championship, dubbed the "Uruguayan Immortal", sees Luis Roux Cabral sacrifice the exchange twice, followed by sacrifices of two minor pieces. After 33 moves, all three of his remaining pieces are en prise—and his opponent cannot stop checkmate.[44]
+1946: Gusev–Auerbach, Chelyabinsk. Not to be confused with the late centenarian grandmaster and theorician Yuri Averbakh, this game, dubbed "Gusev's Immortal", was a game contested between the relatively obscure players Yuri Gusev and E Auerbach in an equally obscure minor tournament.[45] It involved a sound positional queen sacrifice from Gusev, which was blind to chess engines for 74 years, requiring Stockfish 11 six hours and 48 minutes at Depth 73/49 to recommend the queen sacrifice in 2020; Gusev went on to win. The game has been studied extensively online.[46][47][48][49] National Master Sam Copeland ranked it the second-best game of the 1940s.[50] Grandmaster Simon Williams termed the queen sacrifice in Gusev's Immortal one of the most beautiful ideas that he had ever seen.[51]
+1950s[edit]
+1953: Efim Geller vs Max Euwe, Zurich. Geller's attack seems to be sweeping Euwe off the board but the former World Champion has everything under control, uncorking an amazing sacrifice on move 22 to begin a counterattack that wins the game in only four more moves.[52]
+1954: Mikhail Botvinnik vs Vasily Smyslov, 14th Match Game, Moscow. Smyslov sacrifices his queen for three minor pieces and coordinates them superbly to force Botvinnik's capitulation.[53]
+1956: Donald Byrne vs Bobby Fischer, New York, "Game of the Century". Donald Byrne makes a seemingly minor mistake on move 11, losing a tempo by moving the same piece twice. Bobby Fischer uses accurate sacrificial play, culminating in a queen sacrifice. After the maneuver, Fischer has a winning material advantage – a rook and two bishops for a queen, and coordinates them to force checkmate. Fischer was 13 years old; his opponent was 26.[54]
+1957: Bogdan Sliwa vs David Bronstein, Gotha. "The Immortal losing game" between Bogdan Sliwa and David Bronstein. Black has a lost game but sets some elegant traps in attempting to snatch victory from the jaws of defeat.[55]
+1958: Lev Polugaevsky vs Rashid Nezhmetdinov, Sochi. In one of the most celebrated games of all time, Nezhmetdinov sacrifices his queen on move 24, and goes on to win the game with a king hunt.[56]
+1959: Mikhail Tal vs Vasily Smyslov, Bled. Tal initiates complications early in this game and obtains a strong attack. Smyslov defends well, but eventually stumbles with one erroneous move and Tal delivers the winning tactical blow.[57]
+1959: Bobby Fischer vs Tigran Petrosian, Zagreb. The only prominent game in which four queens were on board for seven moves. Match ends with draw by agreement.[58]
+1960s[edit]
+1960: Boris Spassky vs David Bronstein, Leningrad, "The Blue Bird Game". Boris Spassky plays the King's Gambit and defeats David Bronstein with a sacrificial attack.[59]
+1960: Mikhail Tal vs Mikhail Botvinnik, 1st Match Game, Moscow. Tal's critics said his daring, complicated style couldn't possibly work against the ironclad logic of the Father of Soviet Chess, but it did and Tal became the youngest World Champion ever.[60]
+1961: Milunka Lazarevic vs Nona Gaprindashvili, Candidates Tournament, Vrnjacka Banja. On her way to a 16-year reign as Women's World Champion, the future queen of women's chess constructs a mating net with, appropriately, her king and queen.[61]
+1962: Eduard Gufeld vs Ljubomir Kavalek, Marianske Lazne. Kavalek sacrifices a piece, then one exchange, then the other exchange to push his avalanche of pawns down the board. By the end of the game he has lost all seven of his pieces but kept all eight of his pawns, which roll over White's remaining rook.[62]
+1963: Robert Eugene Byrne vs Bobby Fischer, New York. Fischer executes a deep sacrificial attack to win in this miniature. Many of the players in the press room thought Fischer's position was hopeless and were surprised when they heard Byrne had resigned.[63]
+1965: Efim Geller vs Vasily Smyslov, 5th Match Game, Moscow. Though he never managed to play for the World Championship, Efim Geller had a lifetime plus score in over 200 games against World Champions, here crushing Smyslov with a queen sacrifice that the former champion can't accept.[64]
+1966: Tigran Petrosian vs Boris Spassky, 10th Match Game, Moscow. Petrosian, the master of the exchange sacrifice, does it twice in one game with the World Championship on the line.[65]
+1968: Poole versus HAL 9000. A fictional game from the movie 2001: A Space Odyssey, based on a tournament game between A. Roesch and W. Schlage, Hamburg 1910. Astronaut Dr. Frank Poole plays against the supercomputer HAL 9000. The computer executes a strong sacrificial attack and wins in 15 moves.
+1969: Boris Spassky vs Tigran Petrosian, 19th Match Game, Moscow. Having fought his way to a World Championship rematch with Petrosian, Boris Spassky wins the match decisively.[66]
+1970s[edit]
+1970: Bent Larsen vs Boris Spassky, Belgrade. Spassky finds immediate punishment for Larsen's opening experiments, sacrificing a knight and a rook to create a passed pawn, winning the game in just 17 moves.[67]
+1971: Bruce Harper vs Bob Zuk, Burnaby. The famous "Tomb Game" sees Black exploit two pins to drive his opponent's pieces into a corner and toward a position where White's only legal move will help Black to checkmate him.[68]
+1972: Bobby Fischer vs Boris Spassky, 6th Match Game, Reykjavik. Game 6 of the highly publicized World Championship Match. Bobby Fischer surprises by opening with 1.c4 instead of his favorite 1.e4. Boris Spassky joined the audience in applauding Fischer's win and called it the best game of the World Chess Championship 1972.[69]
+1972: Boris Spassky vs Bobby Fischer, 11th Match Game, Reykjavik. In Game 11 of the highly publicized World Championship Match, Boris Spassky destroys Bobby Fischer's Najdorf, giving Fischer his only loss in the poisoned pawn variation.[70]
+1972: Boris Spassky vs Bobby Fischer, 13th Match Game, Reykjavik. Game 13 of the highly publicized World Championship Match. Bobby Fischer wins this complex contest, defeating Boris Spassky.[71]
+1973: David Bronstein vs Ljubomir Ljubojevic, Petropolis Interzonal. Bronstein, who played a match for the World Championship before his grandmaster opponent could walk, turns back the clock, sacrifices both rooks and wins through sheer sorcery.[72]
+1974: Anatoly Karpov vs Boris Spassky, 9th Match Game, Leningrad. Former World Champion Boris Spassky can't cope with future World Champion Anatoly Karpov's subtle, seemingly effortless positional mastery.[73]
+1977: Stefano Tatai vs Anatoly Karpov, Las Palmas. World Champion Karpov dominated tournament chess in the 1970s with his signature style of elegant positional play crowned by crisp tactics, like in this game where he places his queen en prise to a pawn.[74]
+1978: Liu Wenzhe vs Jan Hein Donner, Buenos Aires. "The Chinese Immortal"; at China's first olympiad, the little known Liu Wenzhe defeats the experienced Dutch grandmaster Jan Hein Donner in 20 moves with a spectacular king's side attack.[75]
+1979: Igor Ivanov vs Anatoly Karpov, Moscow. A literally life-changing game: This spectacular victory over the World Champion earned Igor Ivanov the opportunity to play in an international tournament. On the way back, he seized a chance to defect from the USSR and start a new life in Canada.[76]
+1980s[edit]
+1980: Anatoly Karpov vs Tony Miles, European Team Championship, Skara. England's iconoclastic first grandmaster uses a provocative opening to score his most famous win.[77]
+1981: Garry Kasparov vs Viktor Gavrikov, USSR Championship, Frunze. One of Garry Kasparov's dynamic, attacking wins from his first Soviet Championship victory at age 18 that heralded the arrival of a new contender for the World Chess Championship.[78]
+1982: Lubomir Kavalek vs Garry Kasparov, Bugojno. By 1982 Kasparov was already ranked #2 in the world and was dominating the world's best players, winning 15 consecutive tournaments between 1981 and 1990.[79]
+1983: Anatoly Karpov vs Efim Geller, USSR Championship, Moscow. Although Kasparov's star was rising in the early 1980s, World Champion Karpov was still at the top of his form, here using a queen sacrifice to checkmate a veteran grandmaster on the way to his second Soviet Championship title.[80]
+1984: Lajos Portisch vs Jozsef Pinter, Hungarian Championship, Budapest. Jozsef Pinter plays the game of his life against his famous opponent, sacrificing a piece in a queenless middlegame to draw Lajos Portisch's king into a deadly crossfire.[81]
+1985: Anatoly Karpov vs Garry Kasparov, 16th Match Game, Moscow. Garry Kasparov employs a daring gambit and obtains a dominating position for his knight, stifling Anatoly Karpov's forces and finishing off with a mating attack.[82]
+1986: Garry Kasparov vs Anatoly Karpov, 16th Match Game, Leningrad. The most spectacular game of their third World Championship match hangs in the balance until Garry Kasparov's diabolical 37th move blows Karpov's defence away.[83]
+1987: Garry Kasparov vs Anatoly Karpov, 24th Match Game, Seville. Trailing by a point before the final game of their fourth World Championship match, Garry Kasparov surprises Karpov by beginning quietly in Anatoly Karpov's own style. With Karpov running low on time, Kasparov ratchets up the tension by sacrificing a pawn for an attack. Karpov fails to find the best defence and is finally forced to resign, leaving Kasparov the champion for another three years.[84]
+1988: Carsten Hoi vs Boris Gulko, Thessaloniki Olympiad. Representing Denmark at the biennial Chess Olympiad, Hoi fulfils the dream of every unknown player by crushing a former Soviet and future US Champion with a beautiful mating attack.[85]
+1989: Jeroen Piket vs Garry Kasparov, Tilburg. A typically devastating performance by Garry Kasparov, whose dominance of super-tournaments in 1989 increased his rating to 2800, the first to reach that number.[86]
+1990s[edit]
+1990: Anatoly Karpov vs Garry Kasparov, World Chess Championship, Lyon, 23rd Match Game. The 5th World Championship match between the two dominant players of the 1980s ends with Karpov winning the last decisive game but Kasparov winning the match to remain World Champion.[87]
+1991: Vassily Ivanchuk vs Artur Yusupov, Brussels, 9th Match Game. Yusupov sacrifices his knight in his quest for the attack and breaks through after Ivanchuk's inaccuracies. In 1996, a jury of grandmasters and readers, voting in the Chess Informant, chose this game as the best game played in the years 1966–96.[88][89]
+1992: Mikhail Tal vs Joel Lautier, Barcelona. In his final tournament before his death at age 55, the Magician from Riga produces one last masterpiece against a Grandmaster from the next generation.[90]
+1992: Vasyl Ivanchuk vs Viswanathan Anand, Linares, 1st Match Game. Anand breaks all principles of positional chess by getting doubled pawns, trading his good bishop only to reveal the deep idea later in the game, managing to create 2 passed pawns and eventually winning the game .[91][92]
+1993: Nigel Short vs Garry Kasparov, PCA World Championship, London, 8th Match Game. Although the match was one-sided, the games were hard fought. In this game Short exposes Kasparov's king with a shower of sacrifices but can't land the knockout blow.[93]
+1994: Alexey Shirov vs. Judit Polgar, Buenos Aires. The attacking prowess of the strongest woman chessplayer of all time is on full display as she rips White's position apart with her pawns and routs his army with her knights.[94]
+1995: Roberto Cifuentes Parada vs Vadim Zvjaginsev, Wijk aan Zee. Black wins with a series of sacrifices that force White's king up to the 6th rank. Known as "The Pearl of Wijk aan Zee".[95]
+1995: Veselin Topalov vs Vladimir Kramnik, Belgrade. Foreshadowing their bitter rivalry a decade later, two future World Champions refuse to draw and throw everything at each other until only one is left standing.[96]
+1996: Deep Blue versus Kasparov, 1996, Game 1, the first game in which a chess-playing computer defeated a reigning world champion using classical time controls.
+1997: Deep Blue versus Kasparov, 1997, Game 6, the last game of the 1997 rematch. Deep Blue won, making it the first computer to defeat a world champion in a match.
+1998: Veselin Topalov vs Alexey Shirov, Linares. Though known for his attacking play, Alexey Shirov produces "The best move of all time"[97] on move 47 of a quiet endgame to score a seemingly impossible win.[98] Tim Krabbe ranked Shirov's bishop-h3 move as the 2nd greatest move in chess, only being behind Spassky's knight-c6 against Averbakh in 1956.[99]
+1999: Kasparov–Topalov, Wijk aan Zee 1999. "Kasparov's Immortal" features a rook sacrifice with a sacrificial combination lasting over 15 moves. One of the most commented chess games ever, with extensive press coverage.[100][101]
+1999: Kasparov versus the World, in which Garry Kasparov, the reigning world champion, faced a group of players in consultation, who decided moves by vote. This group included 50,000 individuals from more than 75 countries. Kasparov won.
+2000s[edit]
+2000: Kasparov–Kramnik, Classical World Chess Championship 2000, 3rd Match Game, London. Vladimir Kramnik revives the Berlin Defense to the Ruy Lopez (which had fallen out of favor), in which the queens are exchanged on move 8. The queenless endgame is difficult for Kramnik to defend but limits Garry Kasparov's options, and the game ends in draw by agreement.[102]
+2004: Vladimir Kramnik vs Peter Leko, Classical World Chess Championship 2004, 14th Match Game, Brissago. Needing only a draw to win the World Championship, Peter Leko plays too passively and pays the price.[103]
+2005: Viswanathan Anand vs Veselin Topalov, Sofia. Amazing in its complexity, this game finally ended in a hard-fought draw and was called "23rd-century chess" by Kramnik.[104][105]
+2006: Sergey Karjakin vs Viswanathan Anand, Corus chess tournament, Round 1, Wijk aan zee. Viswanathan Anand played a brilliant combination against Sergey Karjakin, beginning with the sacrifice of a knight followed by sacrifice of a bishop and finally a rook mating with just a rook and a queen.[106][107]
+2006: Vladimir Kramnik vs Veselin Topalov, World Chess Championship 2006, 16th Match Game, Elista. After 13 years of a divided World Chess Championship, the reunification match comes down to a final tiebreak game.[108]
+2010s[edit]
+2013: Anand's Immortal. In this game reigning world champion Viswanathan Anand exhibits a combination with a rook sacrifice and two more offered sacrifices to beat Levon Aronian, then ranked No. 3 in the world. ChessBase wrote that "[it] might surely go down as the game of the year",[109] and The New York Times described it as "a game for the ages".[110][111]
+2013: Anand–Carlsen, World Championship 2013, Game 9, Chennai. Two games down with only three to go in the match, Viswanathan Anand develops a dangerous kingside attack only to make a fatal blunder on move 28. One game later, Magnus Carlsen becomes the 16th undisputed World Chess Champion.[112]
+2015: Wei Yi–Bruzon, Danzhou. In this game, chess prodigy Wei Yi plays a rook sacrifice that forces Black to take a king walk. Several quiet moves eventually force Black to concede defeat. This game has been compared to Kasparov's Immortal and the Game of the Century, and described as the "21st-century Immortal".[113][114]
+2016: Carlsen–Karjakin, World Championship 2016, Game 16, New York. Magnus Carlsen retains his title with the most beautiful move ever to end a World Chess Championship match.[115]
+2017: Bai Jinshi–Ding Liren. Ding Liren creates a stunning tactical crush of his young compatriot Bai Jinshi in just 32 moves with the black pieces, sacrificing his queen and culminating in a spectacular king hunt.[116][117]
+2019: Alireza Firouzja–Murali Karthikeyan. Karthikeyan sacrifices his queen on move 9 in a known position for a knight and a bishop against prodigious Alireza Firouzja, leaving the latter's pieces uncoordinated and without decent squares.[118][119]
+2020s[edit]
+2021: Carlsen versus Nepomniachtchi, World Chess Championship 2021, Game 6. In this game, reigning world champion Magnus Carlsen (as White) exchanged his queen for two rooks to enter into an unbalanced endgame—which was drawn, according to the endgame tablebases, after only seven pieces remained on the board—but challenger Ian Nepomniachtchi (as Black) committed a decisive mistake on move 130 and resigned after Carlsen's 136th move.[120] It was the first decisive classical game in a World Chess Championship in more than five years, ending the longest-ever streak of 19 draws in consecutive World Chess Championship classical games,[121] and the 136-move game became the longest in the history of the World Chess Championship.[122]
+2023: Nepomniachtchi–Ding, World Chess Championship 2023, Game 18. In a winner-take-all tiebreak game, Ding Liren avoids a draw with a risky self-pin on move 46. Both players make errors in the subsequent play but Nepomniachtchi makes the last one as Ding breaks through to become the 17th undisputed World Chess Champion.[123]
+See also[edit]
+
+Chess portal
+List of chess games between Anand and Kramnik
+List of chess games between Kasparov and Kramnik
+References[edit]
+
+
+^ "Francesco di Castellvi vs Narciso Vinyoles (1475) "Old in Chess"". www.chessgames.com.
+
+^ "Gioachino Greco vs NN (1623)". www.chessgames.com.
+
+^ "Thomas Bowdler vs Henry Seymour Conway (1788) "Bowdlerized"". www.chessgames.com.
+
+^ "Andrew Smith vs François André Philidor (1790)". www.chessgames.com.
+
+^ "Louis Charles Mahe De La Bourdonnais vs Alexander McDonnell (1834) "Big Mac and French Fries"". www.chessgames.com.
+
+^ "Alexander McDonnell vs Louis Charles Mahe De La Bourdonnais (1834) "Labourdonnais Picnic"". www.chessgames.com.
+
+^ "Pierre Charles Fournier de Saint Amant vs Howard Staunton (1843)". www.chessgames.com.
+
+^ "F Alexander Hoffmann vs Alexander Petrov (1844) "Petrov's Immortal"". www.chessgames.com.
+
+^ "Adolf Anderssen vs Lionel Adalbert Bagration Felix Kieseritzky (1851) "The Immortal Game"". www.chessgames.com.
+
+^ "Adolf Anderssen vs Jean Dufresne (1852) "The Evergreen Partie"". www.chessgames.com.
+
+^ "Louis Paulsen vs Paul Morphy (1857) "Morphy Us"". www.chessgames.com.
+
+^ "Paul Morphy vs Duke Karl / Count Isouard (1858) "A Night at the Opera"". www.chessgames.com.
+
+^ "Steinitz vs Mongredien (1862) "Winner of the tournament's brilliancy price"". www.chessgames.com.
+
+^ "Carl Hamppe vs Philipp Meitner (1872) "The Immortal Draw"". www.chessgames.com.
+
+^ "Victor Knorre vs Mikhail Chigorin (1874) "Ineffective Pin"". www.chessgames.com.
+
+^ "Johannes Zukertort vs Joseph Henry Blackburne (1883) "Zukertort's Immortal"". www.chessgames.com.
+
+^ "Emanuel Lasker vs Johann Hermann Bauer (1889) "Emanuel Labor"". www.chessgames.com.
+
+^ "Harry Nelson Pillsbury vs Siegbert Tarrasch (1895) "A Bitter Pill to Swallow"". www.chessgames.com.
+
+^ "Wilhelm Steinitz vs Curt von Bardeleben (1895) "The Battle of Hastings"". www.chessgames.com.
+
+^ "Edward Winter: Steinitz v von Bardeleben". www.chesshistory.com.
+
+^ "Harry Nelson Pillsbury vs Isidor Gunsberg (1895) "Have Guns, Pill Travel"". www.chessgames.com.
+
+^ "Harry Nelson Pillsbury vs Emanuel Lasker (1896) "Pillsbury d'oh!"". www.chessgames.com.
+
+^ "Emanuel Lasker vs William Ewart Napier (1904) "Pawnslaught"". www.chessgames.com.
+
+^ "Georg Rotlewi vs Akiba Rubinstein (1907) "Rubinstein's Immortal"". www.chessgames.com.
+
+^ "Akiba Rubinstein vs Emanuel Lasker (1909) "First Meeting"". www.chessgames.com.
+
+^ "Stefan Levitsky vs Frank James Marshall (1912) "The Gold Coin Game"". www.chessgames.com.
+
+^ "Edward Lasker vs George Alan Thomas (1912) "Fatal Attraction"". www.chessgames.com.
+
+^ "St Petersburg 1914: Chess on the brink of war". Retrieved 1 March 2017.
+
+^ "Emanuel Lasker vs Jose Raul Capablanca (1914) "Rage Against the Machine"". www.chessgames.com.
+
+^ "Jose Raul Capablanca vs Frank Marshall, (1918) "Marshall Attack"". www.chessgames.com.
+
+^ "Edwin Ziegler Adams vs Carlos Torre Repetto (1920) "Take my wife. Please!"". www.chessgames.com.
+
+^ "Efim Bogoljubov vs Alexander Alekhine (1922)". www.chessgames.com.
+
+^ "Efim Bogoljubov vs Alexander Alekhine (1922) "The Triple Queen Sacrifice"". www.chessgames.com.
+
+^ "Friedrich Saemisch vs Aron Nimzowitsch (1923) "The Immortal Zugzwang Game"". www.chessgames.com.
+
+^ "Richard Reti vs Jose Raul Capablanca (1924) "A Knight in Capablanca"". www.chessgames.com.
+
+^ "Jose Raul Capablanca vs Savielly Tartakower (1924) "Rook Before you Leap"". www.chessgames.com.
+
+^ "Richard Reti vs Alexander Alekhine (1925) "Roughin' Reti"". www.chessgames.com.
+
+^ "Glucksberg vs Miguel Najdorf (1929) "The Polish Immortal"". www.chessgames.com.
+
+^ "Edward Winter presents: Unsolved Chess Mysteries (7)". Chess News. 2007-06-02. Retrieved 2023-11-12.
+
+^ "Esteban Canal vs NN (1934) "A Man, a Plan, a Canal"". www.chessgames.com.
+
+^ "Max Euwe vs Alexander Alekhine (1935) "The Pearl of Zandvoort"". www.chessgames.com.
+
+^ "Mikhail Botvinnik vs Jose Raul Capablanca (1938) "A Thing of the Passed"". www.chessgames.com.
+
+^ "Frank Parr vs George Shorrock Ashcombe Wheatcroft (1938) "Under Parr"". www.chessgames.com.
+
+^ "B Molinari vs Luis Roux Cabral (1943) "The Uruguayan Immortal"". www.chessgames.com.
+
+^ Copeland (SamCopeland), Sam (30 April 2021). "The Spectacular Winning Queen Sacrifice Chess Computers Don't Understand - Gusev vs. Auerbach, 1946". Chess.com. Retrieved 2022-06-30.
+
+^ Queen Sacrifice Made 74 Years Ago Is Still A Headache For Stockfish And Leela Chess Zero, 20 August 2020, retrieved 2022-06-30
+
+^ Copeland (SamCopeland), Sam (30 April 2021). "The Spectacular Winning Queen Sacrifice Chess Computers Don't Understand - Gusev vs. Auerbach, 1946". Chess.com. Retrieved 2022-06-30.
+
+^ Brilliant Chess Game: Positional Queen Sacrifice! - Gusev vs Averbakh - Moscow 1946 (Chessworld.net), 23 September 2012, retrieved 2022-06-30
+
+^ "Yuri Gusev vs E Auerbach (1946) Gusev's Immortal". 2022-02-20. Archived from the original on 2022-02-20. Retrieved 2022-06-30.
+
+^ The Spectacular Winning Queen Sacrifice Chess Computers Don't Understand - Gusev vs. Auerbach, 1946, 28 April 2021, retrieved 2022-06-30
+
+^ James, Andrew. "The Craziest Game of Chess Ever? - GingerGM Simon Williams". www.ichess.net. Retrieved 2022-06-30.
+
+^ "Efim Geller vs Max Euwe (1953) "Game Euwe"". www.chessgames.com.
+
+^ "Mikhail Botvinnik vs Vasily Smyslov (1954) "The Peasant's Revolt"". www.chessgames.com.
+
+^ "Donald Byrne vs Robert James Fischer (1956) "The Game of the Century"". www.chessgames.com.
+
+^ "Bogdan Sliwa vs David Bronstein (1957) "The Immortal Losing Game"". www.chessgames.com.
+
+^ "Lev Polugaevsky vs Rashid Gibiatovich Nezhmetdinov (1958) "Nezhmet Kismet"". www.chessgames.com.
+
+^ "Mikhail Tal vs Vasily Smyslov (1959) "Tal Tales"". www.chessgames.com.
+
+^ "Robert James Fischer vs Tigran Vartanovich Petrosian (1959) "Four Queens"". www.chessgames.com.
+
+^ "Boris Spassky vs David Bronstein (1960) "The SMERSH Gambit"". www.chessgames.com.
+
+^ "Mikhail Tal vs Mikhail Botvinnik (1960) "Winawer Winnowed"". www.chessgames.com.
+
+^ "Milunka Lazarevic vs Nona Gaprindashvili (1961) "Lazarevic's Tomb"". www.chessgames.com.
+
+^ "Eduard Gufeld vs Ljubomir Kavalek (1962) "Kavalanche"". www.chessgames.com.
+
+^ "Robert Eugene Byrne vs Robert James Fischer (1963) "The Brilliancy Prize"". www.chessgames.com.
+
+^ "Efim Geller vs Vasily Smyslov (1965) "G Force"". www.chessgames.com.
+
+^ "Tigran Petrosian vs Boris Spassky (1966) "Boris Bad and Off"". www.chessgames.com.
+
+^ "Boris Spassky vs Tigran Petrosian (1969) "Taming the Tiger"". www.chessgames.com.
+
+^ "Bent Larsen vs Boris Spassky (1970) "When Pawns Attack"". www.chessgames.com.
+
+^ "Bruce Harper vs Bob Zuk (1971) "The Tomb Game"". www.chessgames.com.
+
+^ "Robert James Fischer vs Boris Spassky (1972) "Best by Protest"". www.chessgames.com.
+
+^ "Boris Spassky vs Robert James Fischer (1972) "Crime and Punishment"". www.chessgames.com.
+
+^ "Boris Spassky vs Robert James Fischer (1972) "Fischer King"". www.chessgames.com.
+
+^ "David Bronstein vs Ljubomir Ljubojevic (1973) "The Sorcerer's Apprentice"". www.chessgames.com.
+
+^ "Anatoly Karpov vs Boris Spassky (1974) "AK-74"". www.chessgames.com.
+
+^ "Stefano Tatai vs Anatoly Karpov (1977) "Tête-à-Tatai"". www.chessgames.com.
+
+^ "Liu Wenzhe vs Jan Hein Donner (1978) "The Chinese Immortal"". www.chessgames.com.
+
+^ "Igor Ivanov vs Anatoly Karpov (1979)". www.chessgames.com.
+
+^ "Anatoly Karpov vs Tony Miles (1980) "The Incorrect Opening"". www.chessgames.com.
+
+^ "Garry Kasparov vs Viktor Gavrikov (1981)". www.chessgames.com.
+
+^ "Lubomir Kavalek vs Garry Kasparov (1982)". www.chessgames.com.
+
+^ "Anatoly Karpov vs Efim Geller (1983)". www.chessgames.com.
+
+^ "Lajos Portisch vs Jozsef Pinter (1984) "Queenless Attack"". www.chessgames.com.
+
+^ "Anatoly Karpov vs Garry Kasparov (1985) "The Brisbane Bombshell"". www.chessgames.com.
+
+^ "Garry Kasparov vs Anatoly Karpov (1986) "Tossed on the Flohr"". www.chessgames.com.
+
+^ "Anatoly Karpov vs Garry Kasparov (1987) "Crisis in Seville"". www.chessgames.com.
+
+^ "Carsten Hoi vs Boris Gulko (1988) "Høi Ploy"". www.chessgames.com.
+
+^ "Jeroen Piket vs Garry Kasparov (1989) "Crossing the Piket Line"". www.chessgames.com.
+
+^ "Anatoly Karpov vs Garry Kasparov (1990)". www.chessgames.com.
+
+^ "The Time Limits They Are a-Changin'..." (TXT). Arbitri.lombardiascacchi.com. Retrieved 26 November 2014.
+
+^ "Vassily Ivanchuk vs Artur Yusupov (1991) "Brussels Routs"". www.chessgames.com.
+
+^ "Mikhail Tal vs Joel Lautier (1992) "And for my final trick..."". www.chessgames.com.
+
+^ "Anand's Positional Chess Masterpiece? Ivanchuk vs. Anand, 1992". www.chess.com. 21 January 2019.
+
+^ "Vasyl Ivanchuk vs Viswanathan Anand (1992) "Double Vision"". www.chessgames.com.
+
+^ "Nigel Short vs Garry Kasparov (1993) "Came Up Short"". www.chessgames.com.
+
+^ "Alexey Shirov vs. Judit Polgar (1994) "She Loves Me, Shirov Me Not"". www.chessgames.com.
+
+^ "Roberto Cifuentes Parada vs Vadim Zvjaginsev (1995) "The Pearl of Wijk aan Zee"". www.chessgames.com.
+
+^ "Veselin Topalov vs Vladimir Kramnik (1995) "Toppling Topalov"". www.chessgames.com.
+
+^ Content (ColinStapczynski), Director of Written (26 September 2020). "The 10 Best Chess Moves Of All Time". Chess.com.
+
+^ "Veselin Topalov vs Alexey Shirov (1998) "Troublesome Priest"". Chessgames.com.
+
+^ https://timkr.home.xs4all.nl/chess/fant100.htm#3
+
+^ Alberto Colodro, Carlos (11 March 2021). "Throwback Thursday: Kasparov's immortal". Garry Kasparov defeated Veselin Topalov in what is now known as his 'immortal game'
+
+^ "The Best Chess Games Of All Time". Chess.com. 18 August 2018. Kasparov has a long list of brilliancies to his credit, but this game is his virtually undisputed masterpiece.
+
+^ "Garry Kasparov vs Vladimir Kramnik (2000)". www.chessgames.com.
+
+^ "Vladimir Kramnik vs Peter Leko (2004) "Last Dance"". www.chessgames.com.
+
+^ "Mtel R1: Kramnik beats Ponomariov". Chess News. 13 May 2005. Retrieved 26 November 2014.
+
+^ "Viswanathan Anand vs Veselin Topalov (2005) "23rd Century Chess"". www.chessgames.com.
+
+^ "Sergey Karjakin vs Viswanathan Anand (2006) ""A Corus Line" "". www.chessgames.com.
+
+^ Byrne, Robert (19 February 2006). "The Liveliest Game at Corus? Anand Demolishing Karjakin". The New York Times.
+
+^ "Vladimir Kramnik vs Veselin Topalov (2006) "And Then There Was One"". www.chessgames.com.
+
+^ "Tata R04: Carlsen, Anand and Caruana score". Chess News. 15 January 2013. Retrieved 26 November 2014.
+
+^ "Two of the World's Best in a Game for the Ages". The New York Times. Retrieved 26 November 2014.
+
+^ "Levon Aronian vs Viswanathan Anand (2013) "Nerves of Steel"". www.chessgames.com.
+
+^ "Viswanathan Anand vs Magnus Carlsen (2013) Game of Thrones". www.chessgames.com. Retrieved 2021-01-17.
+
+^ (PeterDoggers) (3 July 2015). "Wei Yi Plays 21st-Century Immortal Game - Chess.com".
+
+^ "Wei Yi vs Lazaro Bruzon Batista (2015) "Prepare Yi the Wei"". www.chessgames.com.
+
+^ "Magnus Carlsen vs Sergey Karjakin (2016) "Navigating the Rapids"". www.chessgames.com.
+
+^ "Ding Liren Game of the Year?". Chess News. 2017-11-11. Retrieved 2018-07-15.
+
+^ "Jinshi Bai vs Ding Liren (2017) Unruly Minors". www.chessgames.com. Retrieved 2018-07-15.
+
+^ "The 10 Best Chess Games of 2019". Chess News. 2020-01-01. Retrieved 2020-01-01.
+
+^ "Alireza Firouzja vs Murali Karthikeyan(2019) "Give and You Shall Receive"". www.chessgames.com. Retrieved 2018-07-15.
+
+^ Carlos Alberto Colodro: World Championship Game 6: Carlsen wins marathon. ChessBase. 2 December 2021.
+
+^ Graham, Bryan Armen (2021-12-03). "Magnus Carlsen defeats Ian Nepomniachtchi in Game 6 of World Chess Championship – as it happened". The Guardian. ISSN 0261-3077. Retrieved 2021-12-04.
+
+^ Peter Doggers: Carlsen Wins Longest World Chess Championship Game Of All Time. Chess.com. 3 December 2021.
+
+^ "Ian Nepomniachtchi vs Ding Liren (2033) "King Liren"". www.chessgames.com.
+
+
+vteChessOutline
+Chess theory
+Chess titles
+Grandmaster
+Computer chess
+glossary
+matches
+engines
+software
+Correspondence chess
+FIDE
+Glossary
+Online chess
+Premove
+Internet chess server
+list
+Rating system
+world rankings
+norms
+Variants
+List
+World records
+Equipment
+Chess set
+chessboard
+Dubrovnik chess set
+Staunton chess set
+Chess pieces
+King
+Queen
+Rook
+Bishop
+Knight
+Pawn
+Fairy
+Chess clock
+Chess table
+Score sheets
+History
+Timeline
+Versus de scachis
+Göttingen manuscript
+Charlemagne chessmen
+Lewis chessmen
+Romantic chess
+Hypermodernism
+Soviet chess school
+Top player comparison
+Geography of chess
+Africa
+South Africa
+China
+Europe
+Armenia
+Spain
+India
+Notable games
+List of chess players
+amateurs
+female
+grandmasters
+Women in chess
+Transgender people in chess
+Chess museums
+Bobby Fischer Center
+Gökyay Association Chess Museum
+World Chess Hall of Fame
+Rules
+Castling
+Cheating in chess
+Check
+Checkmate
+Draw
+by agreement
+Fifty-move rule
+Perpetual check
+Stalemate
+Threefold repetition
+En passant
+Pawn promotion
+Time control
+Fast chess
+Touch-move rule
+White and Black
+Terms
+Blunder
+Chess notation
+algebraic
+descriptive
+PGN
+annotation symbols
+symbols in Unicode
+Fianchetto
+Gambit
+Key square
+King walk
+Open file
+Half-open file
+Outpost
+Pawns
+backward
+connected
+doubled
+isolated
+passed
+Swindle
+Tempo
+Transposition
+Trap
+Tactics
+Artificial castling
+Battery
+Alekhine's gun
+Block
+Checkmate patterns
+Combination
+Decoy
+Deflection
+Desperado
+Discovered attack
+Double check
+Fork
+Interference
+Overloading
+Pawn storm
+Pin
+Sacrifice
+Queen sacrifice
+Skewer
+Undermining
+Windmill
+X-ray
+Zwischenzug
+Strategy
+Compensation
+Exchange
+the exchange
+Initiative
+first-move advantage
+Middlegame
+Pawn structure
+Hedgehog
+Isolated Queen's Pawn
+Maróczy Bind
+Minority attack
+Piece values
+Prophylaxis
+School of chess
+OpeningsFlank opening
+Benko Opening
+Bird's Opening
+Dunst Opening
+English Opening
+Grob's Attack
+Larsen's Opening
+Zukertort Opening
+King's Indian Attack
+Réti Opening
+King's Pawn Game
+Alekhine's Defence
+Caro–Kann Defence
+French Defence
+Modern Defence
+Nimzowitsch Defence
+Open Game
+Four Knights Game
+Giuoco Piano
+Italian Game
+King's Gambit
+Petrov's Defence
+Philidor Defence
+Ponziani Opening
+Ruy Lopez
+Semi-Italian Opening
+Scotch Game
+Two Knights Defense
+Vienna Game
+Owen's Defence
+Pirc Defence
+Austrian Attack
+Scandinavian Defense
+Sicilian Defence
+Alapin
+Dragon/Accelerated Dragon
+Najdorf
+Scheveningen
+Queen's Pawn Game
+Budapest Gambit
+Colle System
+Dutch Defence
+English Defence]]
+Indian Defence
+Benoni Defence
+Modern Benoni
+Bogo-Indian Defence
+Catalan Opening
+Grünfeld Defence
+King's Indian Defence
+Nimzo-Indian Defence
+Old Indian Defense
+Queen's Indian Defence
+London System
+Richter–Veresov Attack
+Queen's Gambit
+Accepted
+Declined
+Slav Defence
+Semi-Slav Defence
+Chigorin Defense
+Torre Attack
+Trompowsky Attack
+Other
+List of openings
+theory table
+List of chess gambits
+Irregular
+Bongcloud Attack
+Fool's mate
+Scholar's mate
+Endgames
+Bishop and knight checkmate
+King and pawn vs. king
+Opposite-coloured bishops
+Pawnless endgame
+Queen and pawn vs. queen
+Queen vs. pawn
+Queen vs. rook
+Rook and bishop vs. rook
+Rook and pawn vs. rook
+Lucena position
+Philidor position
+Strategy
+fortress
+opposition
+Tarrasch rule
+triangulation
+Zugzwang
+Study
+Tablebase
+Two knights endgame
+Wrong bishop
+Wrong rook pawn
+Tournaments
+List of strong chess tournaments
+Chess Olympiad
+Women
+World Chess Championship
+List
+Candidates Tournament
+Chess World Cup
+FIDE Grand Prix
+Other world championships
+Women
+Team
+Rapid
+Blitz
+Junior
+Youth
+Senior
+Amateur
+Chess composition
+Solving
+Computer chess championships
+CCC
+CSVN
+North American
+TCEC
+WCCC
+WCSCC
+Art and media
+Caïssa
+Chess aesthetics
+Chess in the arts
+early literature
+film
+novels
+paintings
+poetry
+short stories
+Chess books
+opening books
+endgame literature
+Oxford Companion
+Chess libraries
+Chess newspaper columns
+Chess periodicals
+Related
+Arbiter
+Chess boxing
+Chess club
+Chess composer
+Chess engine
+AlphaZero
+Deep Blue
+Leela Chess Zero
+Stockfish
+Chess problem
+glossary
+joke chess
+Chess prodigy
+Elo rating system
+Simultaneous exhibition
+Tie-breaking in Swiss-system tournaments
+Solving chess
+
+ Chess portal
+Category
+
+
+
+

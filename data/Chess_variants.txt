@@ -1,0 +1,904 @@
+Games related to, derived from or inspired by chess
+A three-player chess variant which uses a hexagonal board
+A chess variant is a game related to, derived from, or inspired by chess.[1] Such variants can differ from chess in many different ways.
+"International" or "Western" chess itself is one of a family of games which have related origins and could be considered variants of each other. Chess developed from chaturanga, from which other members of this family, such as ouk chatrang, shatranj, Tamerlane chess,
+shogi, and xiangqi also evolved.[2]
+Many chess variants are designed to be played with the equipment of regular chess.[3] Most variants have a similar public-domain status as their parent game, but some have been made into commercial proprietary games. Just as in traditional chess, chess variants can be played over the board, by correspondence, or by computer. Some internet chess servers facilitate the play of some variants in addition to orthodox chess.
+In the context of chess problems, chess variants are called heterodox chess or fairy chess.[4][5] Fairy chess variants tend to be created for problem composition rather than actual play.
+There are thousands of known chess variants (see list of chess variants). The Classified Encyclopedia of Chess Variants catalogues around two thousand, with the preface noting that—since creating a chess variant is relatively trivial—many were considered insufficiently notable for inclusion.[6]
+
+
+Evolution of chess[edit]
+
+
+
+
+
+
+a
+
+b
+
+c
+
+d
+
+e
+
+f
+
+g
+
+h
+
+
+
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8
+
+
+7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7
+
+
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6
+
+
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5
+
+
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+a
+
+b
+
+c
+
+d
+
+e
+
+f
+
+g
+
+h
+
+
+
+
+Chaturanga starting setup.[7] Chaturanga is believed to be the origin of all games in the chess family.
+
+
+See also: History of chess
+The origins of the chess family of games can be traced to the game of chaturanga during the time of the Gupta Empire in India.[2] Over time, as the game spread geographically, modified versions of the rules became popular in different regions. In Sassanid Persia, a slightly modified form became known as shatranj. Modifications made to this game in Europe resulted in the modern game. Courier chess was a popular variant in medieval Europe, which had a significant impact on the "main" variant's development.[2]
+Other games in the chess family, such as shogi (Japan), xiangqi (China),
+and ouk chatran (Cambodian) are also developments from chaturanga made in other regions. These related games are considered chess variants[citation needed], though the majority of variants are, expressly, modifications of chess. The basic rules of chess were not standardized until the 19th century, and the history of chess before this involves many variants, with the most popular modifications spreading and eventually forming the modern game.
+
+Types of variants[edit]
+See also: List of chess variants
+While some regional variants have historical origins comparable to or even older than chess, the majority of variants are express attempts by individuals or small groups to create new games with chess as a starting point. In most cases the creators are attempting to create new games of interest to chess enthusiasts or a wider audience. Variants normally have the same public domain status as chess, though a few (such as Knightmare Chess) are proprietary, and the materials for play are released as commercial products.
+The variations from chess may be done to address a perceived issue with the standard game. For example, Chess960, which randomises the starting positions, was introduced as Fischer Random Chess by Bobby Fischer to combat what he perceived to be the detrimental dominance of opening preparation in chess.[8] Several variants introduce complications to the standard game, providing an additional challenge for experienced players, for example in Kriegspiel, where players cannot see the pieces of their opponent.
+The table below details some, but not all, of the ways in which variants can differ from the orthodox game:
+
+
+
+Some ways in which chess variants can differ from regular chess, with examples
+
+
+Difference from regular chess
+
+Example variant
+
+
+Different starting position
+
+Chess960 – starting position randomly selected from 960 possible options
+
+
+Non-standard pieces
+
+Almost chess – uses chancellors (which can move as a rook or a knight) instead of queens
+
+
+Different victory conditions
+
+Losing chess – objective is to lose all one's pieces
+
+
+Players have incomplete information regarding the game state
+
+Kriegspiel – players cannot see the pieces of their opponent, and have to deduce or guess where they are likely to be
+
+
+Elements of chance
+
+Dice chess – dice rolls determine which pieces can move on a turn
+
+
+Non-identical setup for white and black
+
+Dunsany's chess – pits a regular chess army versus a large army consisting only of pawns
+
+
+Different sized or shaped board
+
+Infinite chess – the board is unbounded
+
+
+Multiple boards
+
+Alice chess – pieces switch between the two boards when they move
+
+
+More dimensions in which pieces can move
+
+Three-dimensional chess – playing board is in three dimensions
+
+
+Board other than lattice of squares
+
+Triangular chess – playing board is 96 triangular cells
+
+
+Non-standard number of players
+
+Quatrochess – played with four players
+
+
+Different rules
+
+Crazyhouse – the captured pieces can be dropped on the board as one's own
+
+Models for the fairy chess pieces used in Capablanca chess
+Variants can themselves be developed into further sub-variants, for example Horde chess is a variation upon Dunsany's Chess.[9]
+Some variations are created for the purpose of composing interesting puzzles, rather than being intended for full games. This field of composition is known as fairy chess.
+Fairy chess gave rise to the term "fairy chess piece" which is used more broadly across writings about chess variants to describe chess pieces with movement rules other than those of the standard chess pieces. Forms of standardised notation have been devised to systematically describe the movement of these. A distinguishing feature of several chess variants is the presence of one or more fairy pieces. Physical models of common fairy pieces are sold by major chess set suppliers.[10]
+
+Notable inventors[edit]
+See also: Category:Chess variant inventors
+Several chess masters have developed variants, such as Chess960 (introduced as Fischer Random Chess) by Bobby Fischer, Capablanca Chess by José Raúl Capablanca, and Seirawan chess by Yasser Seirawan.
+Individuals notable for creating multiple chess variants include V. R. Parton (best known for Alice chess), Ralph Betza, Philip M. Cohen and George R. Dekle Sr.
+Some board game designers, notable for works across a wider range of board games, have created chess variants. These include Robert Abbott (Baroque chess) and Andy Looney (Martian chess).
+
+Play[edit]
+While chess, shogi, and xiangqi have professional circuits as well as many organised tournaments for amateurs, play of chess variants is predominately on a casual basis.
+A few variants have had significant tournaments. Several Gliński's hexagonal chess tournaments were played at the height of the variant's popularity in the 1970s and 1980s. Chess960 has also been the subject of tournaments, including in 2018 an "unofficial world championship" between reigning World Chess Champion Magnus Carlsen and fellow high-ranking Grandmaster Hikaru Nakamura.[11] Likewise Crazyhouse has seen prize-funded unofficial world championship tournaments with top grandmasters and experts of the game on chess.com and lichess.
+Several internet chess servers facilitate live play of popular variants, including Chess.com,[12] Lichess,[13] and the Free Internet Chess Server.[14] The software packages Zillions of Games and Fairy-Max have been programmed to support many chess variants.[15][16]
+Some chess engines are also able to play a handful of variants, for instance the version of Stockfish implemented on Lichess is able to play Crazyhouse, King-of-the-hill, Three-check chess, Atomic chess, Horde chess, and Racing Kings.[17] The AI included in Zillions of Games is able to play almost any variant correctly programmed within it to a reasonable standard.[16] Some variants, such as 5D Chess with Multiverse Time Travel, are implausible or even impossible to play physically and exist primarily as video games.
+
+Analysis and study[edit]
+Notation[edit]
+Play in most chess variants is sufficiently similar to chess that games can be recorded with algebraic notation, although additions to this are often required. For example, the third dimension in Millennium 3D Chess means that move notation needs to include the level number, as well as the rank and file—N2g3 means a knight move to the g3 square on the second level. When fairy chess pieces are used, notation requires assigning letters for those pieces.
+
+Scholarship and cataloguing[edit]
+Various publications have been written regarding chess variants. Variant Chess magazine was published from 1990 to 2010, being an official publication of the British Chess Variants Society from 1997. This outlined and introduced multiple variants, as well as containing in-depth analyses.[18]
+A leading figure in the field was David Pritchard, who authored several books on the topic. Most significantly, he compiled an encyclopedia of variants which outlined thousands of different games. Following Pritchard's death in 2005, the second edition of the encyclopedia was completed and published by John Beasley under the title The Classified Encyclopedia of Chess Variants.[19]
+A recent overview of historical and some modern variants was published under the title of A World of Chess in 2017.[20]
+The Chess Variant Pages website includes a constantly expanding catalogue of variants.
+
+Computer variant chess[edit]
+
+
+
+abcdef
+665544332211abcdef
+
+Final position in a Los Alamos chess game between MANIAC I (white) and a chess beginner (black). MANIAC I managed to checkmate its inexperienced opponent in the first instance of a computer defeating a human at a chess-like game.
+
+
+See also: Computer chess
+A few chess variants have been the subject of significant computational analysis. Los Alamos chess, a 6×6 variant, was created in 1956 expressly for computers, its simplicity meant that it was possible for the MANIAC I computer to play it, with a victory over a beginner player the first instance of a computer winning a chess-like game against human opposition.[21] Conversely, Arimaa was developed in 2003 to be deliberately resistant to computer analysis while easy for human players, though computers were able to comprehensively surpass human players by 2015.[22]
+While solving chess has not yet been achieved, some variants have been found to be simple enough to be solved through computer analysis. The 5×5 Gardner's Minichess variant has been weakly solved as a draw,[23] and a lengthy analysis of losing chess managed to weakly solve this as a win for white.[24]
+
+Chess variants in fiction[edit]
+Chess variants have been invented in various fiction.[25] In The Chessmen of Mars author Edgar Rice Burroughs describes Jetan which depicts a war between two races of Martian. An appendix fully defines the rules of the game. More commonly specifics of fictional variants are not detailed in the original works, though several have been codified into playable games by fans. An example of this is Tri-Dimensional Chess from Star Trek. On-screen play was not conducted to any specific rules, but a comprehensive rulebook has been since developed.[2] Another well known example of fictional chess-like game are the Star Wars holochess, or dejarik.[26]
+Chess boxing, a hybrid sport of chess and boxing, was depicted in Froid Équateur, a 1992 comic by Enki Bilal and was developed into a real sport in the early 21st century.
+Fictional chess variants can involve fantastical or dangerous elements that cannot be implemented in real life. The Chessmen of Mars describes a form of Jetan where the pieces are human beings and captures are replaced by fights to the death between them. The Doctor Who episode "The Wedding of River Song" depicts "Live Chess", which introduces potentially lethal electric currents into the game.
+
+See also[edit]
+List of chess variants
+Shogi variant
+Xiangqi variant
+Janggi variant
+References[edit]
+
+
+^ Pritchard (1994), p. vii
+
+^ a b c d "The History of Chess Variants". www.chessvariants.com. Retrieved 2018-09-18.
+
+^ "Where Can I Find Equipment or Opponents for Chess Variants?". www.chessvariants.com. Retrieved 2018-09-18. Many Chess variants, particularly those called Modest variants, can be played with a regular Chess set.
+
+^ "Chess - Chess composition". Encyclopedia Britannica. Retrieved 2018-09-21.
+
+^ "A Glossary of Basic Chess Variant Terms". www.chessvariants.com. Retrieved 2018-09-21.
+
+^ Pritchard (2007), p. 13.
+
+^ "The History Of Chess". ChessZone. Retrieved 29 March 2011.
+
+^ Seirawan, Yasser; Stefanovic, George (1992). "Sveti Stefan; First Press Conference". No Regrets • Fischer–Spassky 1992. International Chess Enterprises. p. 17. ISBN 978-1-879479-09-8.
+
+^ Pritchard (2007), p. 90.
+
+^ Duniho, Fergus. "Chess Variant Kits from the House of Staunton". www.chessvariants.com. Retrieved 2018-09-18.
+
+^ "Day 5 - Decisions, emotions, conclusions - Fischer Random 2018". Fischer Random 2018. 2018-02-15. Archived from the original on 2018-02-21. Retrieved 2018-09-18.
+
+^ "Chess Variants | 5 Amazing Examples". Chess.com. Archived from the original on 2018-07-19. Retrieved 2018-09-18.
+
+^ "Lichess variants • lichess.org". lichess.org. Retrieved 2018-09-18.
+
+^ FICS. "FICS Help: category". www.freechess.org. Retrieved 2018-09-18.
+
+^ Muller, H. G. "The Chess Variant Pages: Fairy-Max: an AI for playing user-defined Chess variants". The Chess Variant Pages. Retrieved 2018-09-19.
+
+^ a b "Review of Zillions-of-Games". www.chessvariants.com. Retrieved 2018-09-18.
+
+^ "Stockfish is learning". lichess.org. Retrieved 2018-09-14.
+
+^ "British Chess Variants Society". www.mayhematics.com. Retrieved 2018-09-18.
+
+^ Pritchard (2007).
+
+^ Cazaux & Knowlton (2017).
+
+^ Pritchard (2007), p. 112.
+
+^ "The 2015 Arimaa Challenge". arimaa.com. Retrieved 2018-09-18.
+
+^ Mhalla, Mehdi; Prost, Frederic (2013-07-26). "Gardner's Minichess Variant is solved". arXiv:1307.7118 [cs.GT].
+
+^ Watkins, Mark. "Losing Chess: 1. e3 wins for White" (PDF).
+
+^ Brown, David W. (2013-03-25). "22 Games of Chess in Fantasy and Science Fiction". Metal Floss. Retrieved 2018-09-18.
+
+^ "Star Wars' Holochess Game Was Really Thought Out". CINEMABLEND. 2018-09-22. Retrieved 2021-05-01.
+
+
+
+
+
+Wikimedia Commons has media related to Chess variants.
+
+Bibliography
+
+Cazaux, Jean-Louis; Knowlton, Rick (2017). A World of Chess: Its Development and Variations Through Centuries and Civilizations. McFarland. ISBN 978-0786494279.
+Gollon, John (1968). Chess Variations • Ancient, Regional, and Modern. Charles E. Tuttle Company Inc. LCCN 06811975.
+Pritchard, D. B. (1994). The Encyclopedia of Chess Variants. Games & Puzzles Publications. ISBN 978-0-9524142-0-9.
+Pritchard, D. B. (2000). Popular Chess Variants. Batsford Chess Books. ISBN 978-0-7134-8578-3.
+Pritchard, D. B. (2007). Beasley, John (ed.). The Classified Encyclopedia of Chess Variants (PDF). John Beasley. ISBN 978-0-9555168-0-1.
+vteChessOutline
+Chess theory
+Chess titles
+Grandmaster
+Computer chess
+glossary
+matches
+engines
+software
+Correspondence chess
+FIDE
+Glossary
+Online chess
+Premove
+Internet chess server
+list
+Rating system
+world rankings
+norms
+Variants
+List
+World records
+Equipment
+Chess set
+chessboard
+Dubrovnik chess set
+Staunton chess set
+Chess pieces
+King
+Queen
+Rook
+Bishop
+Knight
+Pawn
+Fairy
+Chess clock
+Chess table
+Score sheets
+History
+Timeline
+Versus de scachis
+Göttingen manuscript
+Charlemagne chessmen
+Lewis chessmen
+Romantic chess
+Hypermodernism
+Soviet chess school
+Top player comparison
+Geography of chess
+Africa
+South Africa
+China
+Europe
+Armenia
+Spain
+India
+Notable games
+List of chess players
+amateurs
+female
+grandmasters
+Women in chess
+Transgender people in chess
+Chess museums
+Bobby Fischer Center
+Gökyay Association Chess Museum
+World Chess Hall of Fame
+Rules
+Castling
+Cheating in chess
+Check
+Checkmate
+Draw
+by agreement
+Fifty-move rule
+Perpetual check
+Stalemate
+Threefold repetition
+En passant
+Pawn promotion
+Time control
+Fast chess
+Touch-move rule
+White and Black
+Terms
+Blunder
+Chess notation
+algebraic
+descriptive
+PGN
+annotation symbols
+symbols in Unicode
+Fianchetto
+Gambit
+Key square
+King walk
+Open file
+Half-open file
+Outpost
+Pawns
+backward
+connected
+doubled
+isolated
+passed
+Swindle
+Tempo
+Transposition
+Trap
+Tactics
+Artificial castling
+Battery
+Alekhine's gun
+Block
+Checkmate patterns
+Combination
+Decoy
+Deflection
+Desperado
+Discovered attack
+Double check
+Fork
+Interference
+Overloading
+Pawn storm
+Pin
+Sacrifice
+Queen sacrifice
+Skewer
+Undermining
+Windmill
+X-ray
+Zwischenzug
+Strategy
+Compensation
+Exchange
+the exchange
+Initiative
+first-move advantage
+Middlegame
+Pawn structure
+Hedgehog
+Isolated Queen's Pawn
+Maróczy Bind
+Minority attack
+Piece values
+Prophylaxis
+School of chess
+OpeningsFlank opening
+Benko Opening
+Bird's Opening
+Dunst Opening
+English Opening
+Grob's Attack
+Larsen's Opening
+Zukertort Opening
+King's Indian Attack
+Réti Opening
+King's Pawn Game
+Alekhine's Defence
+Caro–Kann Defence
+French Defence
+Modern Defence
+Nimzowitsch Defence
+Open Game
+Four Knights Game
+Giuoco Piano
+Italian Game
+King's Gambit
+Petrov's Defence
+Philidor Defence
+Ponziani Opening
+Ruy Lopez
+Semi-Italian Opening
+Scotch Game
+Two Knights Defense
+Vienna Game
+Owen's Defence
+Pirc Defence
+Austrian Attack
+Scandinavian Defense
+Sicilian Defence
+Alapin
+Dragon/Accelerated Dragon
+Najdorf
+Scheveningen
+Queen's Pawn Game
+Budapest Gambit
+Colle System
+Dutch Defence
+English Defence]]
+Indian Defence
+Benoni Defence
+Modern Benoni
+Bogo-Indian Defence
+Catalan Opening
+Grünfeld Defence
+King's Indian Defence
+Nimzo-Indian Defence
+Old Indian Defense
+Queen's Indian Defence
+London System
+Richter–Veresov Attack
+Queen's Gambit
+Accepted
+Declined
+Slav Defence
+Semi-Slav Defence
+Chigorin Defense
+Torre Attack
+Trompowsky Attack
+Other
+List of openings
+theory table
+List of chess gambits
+Irregular
+Bongcloud Attack
+Fool's mate
+Scholar's mate
+Endgames
+Bishop and knight checkmate
+King and pawn vs. king
+Opposite-coloured bishops
+Pawnless endgame
+Queen and pawn vs. queen
+Queen vs. pawn
+Queen vs. rook
+Rook and bishop vs. rook
+Rook and pawn vs. rook
+Lucena position
+Philidor position
+Strategy
+fortress
+opposition
+Tarrasch rule
+triangulation
+Zugzwang
+Study
+Tablebase
+Two knights endgame
+Wrong bishop
+Wrong rook pawn
+Tournaments
+List of strong chess tournaments
+Chess Olympiad
+Women
+World Chess Championship
+List
+Candidates Tournament
+Chess World Cup
+FIDE Grand Prix
+Other world championships
+Women
+Team
+Rapid
+Blitz
+Junior
+Youth
+Senior
+Amateur
+Chess composition
+Solving
+Computer chess championships
+CCC
+CSVN
+North American
+TCEC
+WCCC
+WCSCC
+Art and media
+Caïssa
+Chess aesthetics
+Chess in the arts
+early literature
+film
+novels
+paintings
+poetry
+short stories
+Chess books
+opening books
+endgame literature
+Oxford Companion
+Chess libraries
+Chess newspaper columns
+Chess periodicals
+Related
+Arbiter
+Chess boxing
+Chess club
+Chess composer
+Chess engine
+AlphaZero
+Deep Blue
+Leela Chess Zero
+Stockfish
+Chess problem
+glossary
+joke chess
+Chess prodigy
+Elo rating system
+Simultaneous exhibition
+Tie-breaking in Swiss-system tournaments
+Solving chess
+
+ Chess portal
+Category
+
+vteChess variants (list)Orthodox rulesDifferent starting position
+Fischer random chess
+Displacement chess
+Transcendental chess
+Different number of pieces
+Dunsany's chess
+Handicap
+Unorthodox board
+Balbo's game
+Circular chess
+Cylinder chess
+Double chess
+Grid chess
+Hexagonal chess (Cross chess, Masonic chess)
+Infinite chess
+Millennium 3D chess
+Minichess (Los Alamos chess)
+Rhombic chess
+Spherical chess
+Three-dimensional chess
+Triangular chess
+Unorthodoxrules withtraditionalpiecesStandard8×8 board
+Andernach chess
+Atomic chess
+Beirut chess
+Checkless chess
+Chessplus
+Circe chess
+Crazyhouse
+Cubic chess
+Dynamo chess
+Extinction chess
+Hostage chess
+Knight relay chess
+Legan chess
+Losing chess
+Madrasi chess
+Monochromatic chess
+Patrol chess
+PlunderChess
+Portal chess
+Progressive chess
+Three-check chess
+Way of the Knight
+Multimove variants
+Avalanche chess
+Kung-Fu Chess
+Marseillais chess
+Monster chess
+Progressive chess
+Elements of chance
+Dark chess
+Dice chess
+Knightmare Chess
+Kriegspiel
+Penultima
+Unorthodox rules onan unorthodox board
+Alice chess
+Apocalypse
+Chad
+Chessence
+Congo
+Diplomat chess
+Dragonfly
+Jeson Mor
+Parallel worlds chess
+Rollerball
+5D Chess with Multiverse Time Travel
+Unorthodoxrules usingnon-traditionalpiecesStandard 8×8 board
+Baroque
+Berolina
+Chakra
+Chess with different armies
+Duell
+Falcon–hunter chess
+Grasshopper chess
+Musketeer chess
+Pocket mutation chess
+Cheskers
+Compound pieces
+Almost chess
+Capablanca chess
+Capablanca random chess
+Chancellor chess
+Embassy chess
+Grand Chess
+Janus Chess
+Maharajah and the Sepoys
+Modern chess
+Seirawan chess
+Tutti-frutti chess
+Unorthodoxboards and pieces
+Chesquerque
+Chess on a really big board
+Courier-Spiel
+Dragonchess
+Gess
+Omega Chess
+Stratomic
+Dekle's triangular chess
+2000 A.D.
+Wildebeest chess
+Wolf chess
+Multiplayer
+Bosworth
+Bughouse chess
+Business chess
+Djambi
+Duchess
+Enochian chess
+Forchess
+Fortress chess
+Four Fronts
+Four-player chess
+Gala
+Hand and brain
+Quatrochess
+Three-man chess
+Three-player chess
+Tri-chess
+Inspired games
+Arimaa
+Jetan
+Martian chess
+Navia Dratp
+The Duke
+Chess-relatedgamesHistorical
+Chadarangam
+Chaturaji
+Chaturanga
+Courier chess
+Grant Acedrex
+Shatranj
+Short assize
+Tamerlane chess
+Regional
+Janggi
+variants
+Makruk
+Senterej
+Shatar
+Shogi
+Chu shogi
+Dai shogi
+Other variants
+Sittuyin
+Xiangqi
+Jungle
+Banqi
+Manchu chess
+Game of the Three Kingdoms
+Game of the Three Friends
+Game of the Seven Kingdoms
+Other variants
+Software
+ChessV
+Fairy-Max
+XBoard
+Zillions of Games
+Related
+Correspondence chess
+Fairy chess
+Fairy chess piece
+Fairy Chess Review
+The Chess Variant Pages
+
+
+
+

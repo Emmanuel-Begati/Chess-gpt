@@ -1,0 +1,522 @@
+Aspect of chess play concerned with long-term goals and positioning
+Chess strategy is the aspect of chess play concerned with evaluation of chess positions and setting goals and long-term plans for future play. While evaluating a position strategically, a player must take into account such factors as the relative value of the pieces on the board, pawn structure, king safety, position of pieces, and control of key squares and groups of squares (e.g. diagonals and open files). Chess strategy is distinguished from chess tactics, which is the aspect of play concerned with move-by-move threats and defenses. Some authors distinguish static strategic imbalances (e.g. having more valuable pieces or better pawn structure), which tend to persist for many moves, from dynamic imbalances (such as one player having an advantage in piece development), which are temporary.[1] This distinction affects the immediacy with which a sought-after plan should take effect. Until players reach Master-level chess skill, chess tactics tend to ultimately decide the outcomes of games more often than strategy. Many chess coaches thus emphasize the study of tactics as the most efficient way to improve one's results in serious chess play.
+The most basic way to evaluate one's position is to count the total value of pieces on both sides. The point values used for this purpose are based on experience. Usually pawns are considered to be worth one point, knights and bishops three points each, rooks five points, and queens nine points. The fighting value of the king in the endgame is approximately four points. These basic values are modified by other factors such as the position of the pieces (e.g. advanced pawns are usually more valuable than those on their starting squares), coordination between pieces (e.g. a bishop pair usually coordinates better than a bishop plus a knight), and the type of position (knights are generally better in closed positions with many pawns, while bishops are more powerful in open positions).
+Another important factor in the evaluation of chess positions is the pawn structure or pawn skeleton. Since pawns are the most immobile and least valuable of the pieces, the pawn structure is relatively static and largely determines the strategic nature of the position. Weaknesses in the pawn structure, such as isolated, doubled, or backward pawns and holes, once created, are usually permanent. Care must therefore be taken to avoid them unless they are compensated by another valuable asset, such as the possibility to develop an attack.
+
+
+
+This article uses algebraic notation to describe chess moves.
+
+Basic concepts of board evaluation[edit]
+Main article: Chess piece relative value
+A material advantage applies both strategically and tactically. Generally more pieces or an aggregate of more powerful pieces means greater chances of winning. A fundamental strategic and tactical rule is to capture opponent pieces while preserving one's own.
+Bishops and knights are called minor pieces. A knight is about as valuable as a bishop, but less valuable than a rook. Rooks and the queen are called major pieces. Bishops are usually considered slightly better than knights in open positions, such as toward the end of the game when many of the pieces have been captured, whereas knights have an advantage in closed positions. Having two bishops (the bishop pair) is a particularly powerful weapon, especially if the opposing player lacks one or both of their bishops.
+Three pawns are likely to be more useful than a knight in the endgame, but in the middlegame, a knight is often more powerful. Two minor pieces are stronger than a single rook, and two rooks are slightly stronger than a queen. The bishop on squares of the same color as the opponent's king is slightly more valuable in the opening as it can attack the vulnerable square f7 (for White) or f2 (for Black). A rook is more valuable when doubled with another rook or queen; consequently, doubled rooks are worth more than two unconnected rooks.
+One commonly used simple scoring system is:
+
+
+
+Piece
+Value
+
+
+Pawn
+1
+
+
+Knight
+3
+
+
+Bishop
+3
+
+
+Rook
+5
+
+
+Queen
+9
+
+Under a system like this, giving up a knight or bishop to win a rook ("winning the exchange") is advantageous and is worth about two pawns. This ignores complications such as the current position and freedom of the pieces involved, but it is a good starting point. In an open position, bishops are more valuable than knights (a bishop pair can easily be worth seven points or more in some situations); conversely, in a closed position, bishops are less valuable than knights. A knight in the center of the board that cannot be taken, however, is known as a knight outpost and threatens several fork instances. In such a case, a knight is worth far more than a bishop. Also, many pieces have a partner. By doubling up two knights, two rooks, rook and queen, or bishop and queen, the pieces can get stronger than the sum of the individual pieces alone. When a piece loses its partner, its value slightly decreases. The king is priceless since its capture results in the defeat of that player and ends that game. However, especially in the endgame, the king can also be a fighting piece, and is sometimes given a fighting value of three-and-a-half points.
+
+Space[edit]
+Other things being equal, the side that controls more space on the board has an advantage.[2] More space means more options, which can be exploited both tactically and strategically. A player who has all pieces developed and no tactical tricks or promising long-term plan should try to find a move that enlarges their influence, particularly in the center. In some openings, however, one player accepts less space for a time, to set up a counterattack in the middlegame. This is one of the concepts behind hypermodern play.
+The easiest way to gain space is to push the pawn skeleton forward. One must be careful not to over stretch, however. If the opponent succeeds in getting a protected piece behind enemy lines, this piece can become such a serious problem that a piece with a higher value might have to be exchanged for it.
+
+
+abcdefgh8877665544332211abcdefghWhite has an advantage in space.[3]
+
+Larry Evans gives a method of evaluating space. The method (for each side) is to count the number of squares attacked or occupied on the opponent's side of the board. In this diagram from the Nimzo-Indian Defense, Black attacks four squares on White's side of the board (d4, e4, f4, and g4). White attacks seven squares on Black's side of the board (b5, c6, e6, f5, g5, and h6 – counting b5 twice) and occupies one square (d5). White has a space advantage of eight to four and Black is cramped.[3]
+
+Control of the center[edit]
+
+abcdefgh8877665544332211abcdefghCenter squares are marked by "X".
+
+The strategy consists of placing pieces so that they attack the central four squares of the board. A piece being placed on a central square, however, does not necessarily mean it controls the center; e.g., a knight on a central square does not attack any central squares. Conversely, a piece does not have to be on a central square to control the center. For example, the bishop can control the center from afar.
+Control of the center is generally considered important because tactical battles often take place around the central squares, from where pieces can access most of the board. Center control allows more movement and more possibility for attack and defense.
+Chess openings try to control the center while developing pieces. Hypermodern openings are those that control the center with pieces from afar (usually the side, such as with a fianchetto); the older Classical (or Modern) openings control it with pawns.
+
+
+Initiative[edit]
+Main article: Initiative (chess)
+The initiative belongs to the player who can make threats that cannot be ignored, such as checking the opponent's king. They thus put their opponent in the position of having to use their turns responding to threats rather than making their own, hindering the development of their pieces.[4] The player with the initiative is generally attacking and the other player is generally defending.
+
+Defending pieces[edit]
+It is important to defend one's pieces even if they are not directly threatened. This helps stop possible future campaigns from the opponent. If a defender must be added at a later time, this may cost a tempo or even be impossible due to a fork or discovered attack. The approach of always defending one's pieces has an antecedent in the theory of Aron Nimzowitsch who referred to it as "overprotection." Similarly, if one spots undefended enemy pieces, one should immediately take advantage of those pieces' weakness.
+Even a defended piece can be vulnerable. If the defending piece is also defending something else, it is called an overworked piece, and may not be able to fulfill its task. When there is more than one attacking piece, the number of defenders must also be increased, and their values taken into account. In addition to defending pieces, it is also often necessary to defend key squares, open files, and the back rank. These situations can easily occur if the pawn structure is weak.
+
+Exchanging pieces[edit]
+Main article: Exchange (chess)
+To exchange pieces means to capture a hostile piece and then allow a piece of the same value to be captured. As a rule of thumb, exchanging pieces eases the task of the defender who typically has less room to operate in.
+Exchanging pieces is usually desirable to a player with an existing advantage in material, since it brings the endgame closer and thereby leaves the opponent with less ability to recover ground. In the endgame even a single pawn advantage may be decisive. Exchanging also benefits the player who is being attacked, the player who controls less space, and the player with the better pawn structure.[citation needed]
+When playing against stronger players, many beginners attempt to constantly exchange pieces "to simplify matters". However, stronger players are often relatively stronger in the endgame, whereas errors are more common during the more complicated middlegame.
+Note that "the exchange" may also specifically mean a rook exchanged for a bishop or knight. The phrase "up the exchange" means that a player has captured a rook in exchange for a bishop or knight—a materially advantageous trade. Conversely, "down the exchange" means having lost a rook but captured a bishop or knight—a materially disadvantageous trade.
+
+Specific pieces[edit]
+Pawns[edit]
+Main articles: Pawn and Pawn structure
+
+An example of visualizing pawn structures
+
+
+
+abcdefgh8877665544332211abcdefgh After 12...Re8 in Tarrasch–Euwe, 1922[5] ...
+
+
+
+abcdefgh8877665544332211abcdefgh ... and its pawn skeleton ("The Rauzer formation")
+
+
+In the endgame, passed pawns, unhindered by enemy pawns from promotion, are strong, especially if advanced or protected by another pawn. A passed pawn on the sixth rank is roughly as strong as a knight or bishop and often decides the game. (Also see isolated pawn, doubled pawns, backward pawn, connected pawns.)
+
+Knights[edit]
+Main article: Knight
+Since knights can easily be chased away by pawn moves, it is often advantageous for knights to be placed in holes in the enemy position as outposts—squares where they cannot be attacked by pawns. Such a knight on the fifth rank is a strong asset. The ideal position for a knight is the opponent's third rank, when it is supported by one or two pawns.[6] A knight at the edge or corner of the board controls fewer squares than one on the board's interior, thus the saying "A knight on the rim is dim!"
+A king and one knight are not sufficient material to checkmate an opposing lone king (see Two knights endgame). A king and two knights can checkmate a lone king but cannot force it.
+
+Bishops[edit]
+Main article: Bishop
+In general, bishops and knights are of roughly equal value. When bishops are blocked in by pawns, as seen in closed positions, knights are typically superior for their ability to hop over pawn chains. In open positions where bishops have good scope, knights are often inferior—outpost knights are a common exception.
+Bishops have superior mobility to knights, but that mobility is restricted to (and thus focused on) colors of a single square. As a result, lacking a bishop weakens one's ability to exert control over and parry threats from the deprived color complex, though there may be compensation in the form of tactical or positional assets, or from possible countermeasures, such as placing one's pawns on the color of the lost bishop. Bishops complement each other well, and a retained bishop pair is often a strength, especially in open positions.
+Fianchettoed bishops can keep a king under them well defended, though if the bishop is traded off, the fianchetto pawn structure is especially vulnerable to infiltration on the squares no longer controlled by the bishop.
+Despite their openness, in endgames, bishops are usually considered equal to knights. Endgames in which the two sides have bishops on opposite colors are frequently drawish, even when one side has one or two more pawns than the other.
+A king and a bishop are not sufficient material to checkmate an opposing lone king, but two bishops and a king can checkmate an opposing lone king easily. A king, bishop, and knight can also force mate; this is considered the most difficult forcible checkmate against a lone king.
+
+Rooks[edit]
+Main article: Rook
+Rooks have more scope of movement on half-open files (ones with no pawns of one's own color). Rooks on the seventh rank can be very powerful as they attack pawns that can only be defended by other pieces, and they can restrict the enemy king to its back rank. A pair of rooks on the player's seventh rank are often a sign of a winning position.
+In middlegames and endgames with a passed pawn, Tarrasch's rule states that rooks, both friend and foe of the pawn, are usually strongest behind the pawn rather than in front of it.
+A king and a rook are sufficient material to checkmate an opposing lone king, although it's a little harder than checkmating with king and queen; thus the rook's distinction as a major piece above the knight and bishop.
+
+Queen[edit]
+Main article: Queen
+Queens are the most powerful pieces. They have great mobility and can make many threats at once. They can act as a rook and as a bishop at the same time. For these reasons, checkmate attacks involving a queen are easier to achieve than those without one. Although powerful, the queen is also easily harassed. Thus, it is generally wise to wait to develop the queen until after the knights and bishops have been developed to prevent the queen from being attacked by minor pieces and losing tempo. When a pawn is promoted, most of the time it is promoted to a queen.
+
+King[edit]
+Main article: King
+During the middlegame, the king is often best protected in a corner behind its pawns. Such a position for either of the players is often achieved by castling by that player. If the rooks and queen leave the first rank (commonly called that player's back rank), however, an enemy rook or queen can checkmate the king by invading the first rank, commonly called a back-rank checkmate. Moving one of the pawns in front of the king (making a luft) can allow it an escape square, but may weaken the king's overall safety otherwise. One must therefore wisely balance between these trade-offs.
+Castling is often thought to help protect the king and often "connects" the player's two rooks together so the two rooks may protect each other. This can reduce a threat of a back-rank skewer in which the king can be skewered with capture of a rook behind it.
+The king can become a strong piece in the endgame. With reduced material, a quick checkmate becomes less of a concern, and moving the king towards the center of the board gives it more opportunities to make threats and actively influence play.
+
+Considerations[edit]
+Chess strategy consists of setting and achieving long-term goals during the game—for example, where to place different pieces—while tactics concentrate on immediate maneuver. These two parts of chess thinking cannot be completely separated, because strategic goals are mostly achieved by the means of tactics, while the tactical opportunities are based on the previous strategy of play.
+Because of different strategic and tactical patterns, a game of chess is usually divided into three distinct phases: the opening, usually the first 10 to 25 moves, when players develop their armies and set up the stage for the coming battle; the middlegame, the developed phase of the game; and the endgame, when most of the pieces are gone and kings start to take an active part in the struggle.
+
+Opening[edit]
+Main article: Chess opening
+A chess opening is the group of initial moves of a game (the "opening moves"). Recognized sequences of opening moves are referred to as openings and have been given names such as the Ruy Lopez or Sicilian Defence. They are catalogued in reference works such as the Encyclopaedia of Chess Openings.
+There are dozens of different openings, varying widely in character from quiet positional play (e.g. the Réti Opening) to very aggressive play (e.g. the Latvian Gambit). In some opening lines, the exact sequence considered best for both sides has been worked out to 30–35 moves or more.[7] Professional players spend years studying openings, and continue doing so throughout their careers, as opening theory continues to evolve.
+The fundamental strategic aims of most openings are similar:[8]
+
+Development: To place (develop) the pieces (particularly bishops and knights) on useful squares where they influence the game.
+Control of the center: Control of the central squares allows pieces to be moved to any part of the board relatively easily, and can also have a cramping effect on the opponent.
+King safety: Correct timing of castling can enhance this.
+Pawn structure: Players strive to avoid the creation of pawn weaknesses such as isolated, doubled or backward pawns, and pawn islands.
+During the opening, some pieces have a recognized optimum square they try to reach. Hence, an optimum deployment could be to push the king and queen pawn two squares, followed by moving the knights so they protect the center pawns and give additional control of the center. One can then deploy the bishops, protected by the knights, to pin the opponent's knights and pawns. An opening may end with  castling, which moves the king to safety, creates a stronger back rank, and puts a rook on a center file.
+Apart from these fundamentals, other strategic plans or tactical sequences may be employed in the opening.
+Most players and theoreticians consider that White, by virtue of the first move, begins the game with a small advantage. Black usually strives to neutralize White's advantage and achieve equality, or to develop dynamic counterplay in an unbalanced position.
+
+Middlegame[edit]
+Main article: Chess middlegame
+The middlegame is the part of the game when most pieces have been developed. Because the opening theory has ended, players have to assess the position to form plans based on the features of the positions, and at the same time take into account the tactical possibilities in the position.[9]
+Typical plans or strategic themes—for example the minority attack, that is the attack of queenside pawns against an opponent who has more pawns on the queenside—are often appropriate just for some pawn structures, resulting from a specific group of openings. The study of openings should therefore be connected with the preparation of plans typical for resulting middlegames.
+The middlegame is also the phase when most combinations occur.[10] Middlegame combinations are often connected with the attack against the opponent's king; some typical patterns have their own names, for example the Boden's Mate or the Lasker–Bauer combination.
+Another important strategical question in the middlegame is whether and how to reduce material and transform into an endgame (i.e. simplify). For example, minor material advantages can generally be transformed into victory only in an endgame, and therefore the stronger side must choose an appropriate way to achieve an ending. Not every reduction of material is good for this purpose; for example, if one side keeps a light-squared bishop and the opponent has a dark-squared one, the transformation into a bishops and pawns ending is usually advantageous for the weaker side only, because an endgame with bishops on opposite colors is likely to be a draw, even with an advantage of one or two pawns.
+
+Endgame[edit]
+Main article: Chess endgame
+
+abcdefgh8877665544332211abcdefgh An example of zugzwang: The side to move has a disadvantage.
+
+The endgame (or end game or ending) is the stage of the game when there are few pieces left on the board. There are three main strategic differences between earlier stages of the game and the endgame:[11]
+
+During the endgame, pawns become more important; endgames often revolve around attempting to promote a pawn by advancing it to the eighth rank.
+The king, which must be protected in the middlegame owing to the threat of checkmate, becomes a strong piece in the endgame and it is often brought to the center of the board where it can protect its own pawns, attack the pawns of opposite color, and hinder movement of the opponent's king.
+Zugzwang, a disadvantage because the player must make a move, is often a factor in endgames and rarely in other stages of the game. For example, in the adjacent diagram, Black on move must play 1...Kb7 and allow white to queen after 2.Kd7, while White on move must allow a draw either after 1.Kc6 stalemate or losing the last pawn by moving anywhere else.
+Endgames can be classified according to the type of pieces remaining on the board. Basic checkmates are positions where one side has only a king and the other side has one or two pieces and can checkmate the opposing king, with the pieces working together with their king. For example, king and pawn endgames involve only kings and pawns on one or both sides and the task of the stronger side is to promote one of the pawns. Other more complicated endings are classified according to the pieces on the board other than kings, e.g. "rook and pawn versus rook endgame".
+
+See also[edit]
+Outline of chess: Chess strategy
+Chess tactics
+Chess terminology
+School of chess
+References[edit]
+
+
+^ Silman, "How to Reassess Your Chess"
+
+^ "Positional advantage - Chess Strategy Online". www.chessstrategyonline.com. Retrieved 3 April 2018.
+
+^ a b Evans (1958), pp. 103–04
+
+^ "Glossary : Initiative". Archived from the original on 2006-05-06. Retrieved 2010-02-20.
+
+^ "Tarrasch vs Euwe on chessgames.com". (Java needed)
+
+^ "The Knight". www.thechessdrum.net. Retrieved 3 April 2018.
+
+^ Collins, Sam (2005). Understanding the Chess Openings. Gambit Publications. ISBN 1-904600-28-X.
+
+^ Tarrasch, Siegbert (1987). The Game of Chess. Courier Dover Publications. ISBN 0-486-25447-X.
+
+^ Harding (2003), p. 32–151
+
+^ "Chess Masterclass: Learn to Play Chess!". Skillshare.com. Retrieved 2020-11-09.
+
+^ Harding (2003), p. 187ff
+
+
+Bibliography
+
+Evans, Larry (1958). New Ideas in Chess. Pitman (1984 Dover edition). ISBN 0-486-28305-4.
+Silman, Jeremy (1993). How to Reassess your Chess (3rd ed.). Siles Press. ISBN 1-890085-00-6.
+Josh Waitzkin (2002). Chessmaster 8000 Classroom
+Further reading[edit]
+James Eade (2001). Chess for Dummies. Gambit. A comprehensive guide for beginners.
+John Nunn (2001). Understanding Chess Move by Move. Gambit. An International Grandmaster explains the thinking behind every single move of many world-class games.
+Silman, Jeremy (1998). The Complete Book of Chess Strategy. Silman-James Press. ISBN 978-1-890085-01-8.
+Jeremy Silman (1999). The Amateur's Mind: Turning Chess Misconceptions into Chess Mastery. Siles Press. ISBN 9781890085025. A chess teacher analyzes and corrects the thinking of advanced beginners.
+Yasser Seirawan (2005). Winning Chess Strategies. Everyman Chess. ISBN 1-85744-385-3.
+External links[edit]
+
+
+
+The Wikibook Chess has a page on the topic of: Strategy
+
+Chess Plans and Strategy Evaluate positions from master chess games, vote for which side has the advantage based on 8 strategic themes, see how your opinion compares to others.
+Chess Strategy, Second Edition and Chess and Checkers: the Way to Mastership, both by Edward Lasker
+The Blue Book of Chess; "Teaching the Rudiments of the Game, and Giving an Analysis of All the Recognized Openings" by Howard Staunton
+vteChessOutline
+Chess theory
+Chess titles
+Grandmaster
+Computer chess
+glossary
+matches
+engines
+software
+Correspondence chess
+FIDE
+Glossary
+Online chess
+Premove
+Internet chess server
+list
+Rating system
+world rankings
+norms
+Variants
+List
+World records
+Equipment
+Chess set
+chessboard
+Dubrovnik chess set
+Staunton chess set
+Chess pieces
+King
+Queen
+Rook
+Bishop
+Knight
+Pawn
+Fairy
+Chess clock
+Chess table
+Score sheets
+History
+Timeline
+Versus de scachis
+Göttingen manuscript
+Charlemagne chessmen
+Lewis chessmen
+Romantic chess
+Hypermodernism
+Soviet chess school
+Top player comparison
+Geography of chess
+Africa
+South Africa
+China
+Europe
+Armenia
+Spain
+India
+Notable games
+List of chess players
+amateurs
+female
+grandmasters
+Women in chess
+Transgender people in chess
+Chess museums
+Bobby Fischer Center
+Gökyay Association Chess Museum
+World Chess Hall of Fame
+Rules
+Castling
+Cheating in chess
+Check
+Checkmate
+Draw
+by agreement
+Fifty-move rule
+Perpetual check
+Stalemate
+Threefold repetition
+En passant
+Pawn promotion
+Time control
+Fast chess
+Touch-move rule
+White and Black
+Terms
+Blunder
+Chess notation
+algebraic
+descriptive
+PGN
+annotation symbols
+symbols in Unicode
+Fianchetto
+Gambit
+Key square
+King walk
+Open file
+Half-open file
+Outpost
+Pawns
+backward
+connected
+doubled
+isolated
+passed
+Swindle
+Tempo
+Transposition
+Trap
+Tactics
+Artificial castling
+Battery
+Alekhine's gun
+Block
+Checkmate patterns
+Combination
+Decoy
+Deflection
+Desperado
+Discovered attack
+Double check
+Fork
+Interference
+Overloading
+Pawn storm
+Pin
+Sacrifice
+Queen sacrifice
+Skewer
+Undermining
+Windmill
+X-ray
+Zwischenzug
+Strategy
+Compensation
+Exchange
+the exchange
+Initiative
+first-move advantage
+Middlegame
+Pawn structure
+Hedgehog
+Isolated Queen's Pawn
+Maróczy Bind
+Minority attack
+Piece values
+Prophylaxis
+School of chess
+OpeningsFlank opening
+Benko Opening
+Bird's Opening
+Dunst Opening
+English Opening
+Grob's Attack
+Larsen's Opening
+Zukertort Opening
+King's Indian Attack
+Réti Opening
+King's Pawn Game
+Alekhine's Defence
+Caro–Kann Defence
+French Defence
+Modern Defence
+Nimzowitsch Defence
+Open Game
+Four Knights Game
+Giuoco Piano
+Italian Game
+King's Gambit
+Petrov's Defence
+Philidor Defence
+Ponziani Opening
+Ruy Lopez
+Semi-Italian Opening
+Scotch Game
+Two Knights Defense
+Vienna Game
+Owen's Defence
+Pirc Defence
+Austrian Attack
+Scandinavian Defense
+Sicilian Defence
+Alapin
+Dragon/Accelerated Dragon
+Najdorf
+Scheveningen
+Queen's Pawn Game
+Budapest Gambit
+Colle System
+Dutch Defence
+English Defence]]
+Indian Defence
+Benoni Defence
+Modern Benoni
+Bogo-Indian Defence
+Catalan Opening
+Grünfeld Defence
+King's Indian Defence
+Nimzo-Indian Defence
+Old Indian Defense
+Queen's Indian Defence
+London System
+Richter–Veresov Attack
+Queen's Gambit
+Accepted
+Declined
+Slav Defence
+Semi-Slav Defence
+Chigorin Defense
+Torre Attack
+Trompowsky Attack
+Other
+List of openings
+theory table
+List of chess gambits
+Irregular
+Bongcloud Attack
+Fool's mate
+Scholar's mate
+Endgames
+Bishop and knight checkmate
+King and pawn vs. king
+Opposite-coloured bishops
+Pawnless endgame
+Queen and pawn vs. queen
+Queen vs. pawn
+Queen vs. rook
+Rook and bishop vs. rook
+Rook and pawn vs. rook
+Lucena position
+Philidor position
+Strategy
+fortress
+opposition
+Tarrasch rule
+triangulation
+Zugzwang
+Study
+Tablebase
+Two knights endgame
+Wrong bishop
+Wrong rook pawn
+Tournaments
+List of strong chess tournaments
+Chess Olympiad
+Women
+World Chess Championship
+List
+Candidates Tournament
+Chess World Cup
+FIDE Grand Prix
+Other world championships
+Women
+Team
+Rapid
+Blitz
+Junior
+Youth
+Senior
+Amateur
+Chess composition
+Solving
+Computer chess championships
+CCC
+CSVN
+North American
+TCEC
+WCCC
+WCSCC
+Art and media
+Caïssa
+Chess aesthetics
+Chess in the arts
+early literature
+film
+novels
+paintings
+poetry
+short stories
+Chess books
+opening books
+endgame literature
+Oxford Companion
+Chess libraries
+Chess newspaper columns
+Chess periodicals
+Related
+Arbiter
+Chess boxing
+Chess club
+Chess composer
+Chess engine
+AlphaZero
+Deep Blue
+Leela Chess Zero
+Stockfish
+Chess problem
+glossary
+joke chess
+Chess prodigy
+Elo rating system
+Simultaneous exhibition
+Tie-breaking in Swiss-system tournaments
+Solving chess
+
+ Chess portal
+Category
+
+Authority control databases: National Germany
+
+
+

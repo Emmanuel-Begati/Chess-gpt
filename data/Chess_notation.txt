@@ -1,0 +1,543 @@
+Methods for describing chess moves and/or positions
+For the evaluation of chess moves, see Chess annotation symbols.
+Chess notation systems are used to record either the moves made or the position of the pieces in a game of chess. Chess notation is used in chess literature, and by players keeping a record of an ongoing game. The earliest systems of notation used lengthy narratives to describe each move; these gradually evolved into more compact notation systems. Algebraic notation is now the accepted international standard, with several variants. Descriptive chess notation was used in English- and Spanish-language literature until the late 20th century, but is now obsolescent. Portable Game Notation (PGN) is a text file format based on English algebraic notation which can be processed by most chess software. Other notation systems include ICCF numeric notation, used for international correspondence chess, and systems for transmission using Morse code over telegraph or radio. The standard system for recording chess positions is Forsyth–Edwards Notation (FEN).
+
+
+Notation systems[edit]
+Correspondence chess card showing algebraic notation and ICCF notation
+In organized competition, both players are required to keep a record of the moves played on a score sheet. If required, score sheets may be used to resolve disputes, for example about whether an illegal move has been made or whether a threefold repetition has occurred. In addition, if the time control requires the players to complete a specified number of moves in a specified time, an accurate count of the moves must be kept.[1] All chess coaches strongly recommend the recording of one's games so that one can look for improvements in one's play.[2]
+
+Algebraic notation is the most widely used method for recording moves. It is based on a system of coordinates (a–h for files, 1–8 for ranks) to uniquely identify each square. In embryonic form it was used by Philip Stamma in the 1737 book Essai sur le jeu des echecs. It was later adopted (in long form) by the influential Handbuch des Schachspiels and became standard in German publications. It is more compact and less prone to error than the English descriptive system. Algebraic notation is the official notation of FIDE; if a player records the game in a different notation system, their scoresheet may not be used as evidence in the event of a dispute.[3][4][5] The U.S. Chess Federation prefers the use of algebraic notation but still permits descriptive notation.[6]
+Long algebraic notation includes the starting file and rank of the piece.
+Short algebraic notation omits the starting file and rank of the piece, unless it is necessary to disambiguate the move.
+Minimal algebraic notation is similar to short algebraic notation but omits the indicators for capture ("x"), en passant capture ("e.p."), check ("+") and checkmate ("#"). It was used by Chess Informant.[7]
+Figurine algebraic notation replaces the letter that stands for a piece by its symbol, e.g., ♞c6  instead of Nc6 or ♖xg4 instead of Rxg4. Pawns are omitted as in standard algebraic notation. This style is widely used in chess literature to allow the moves to be read independent of language. To display or print these symbols on a computer, one or more fonts with good Unicode support must be installed, and the document (web page, word processor document, etc.) must use one of these fonts.[8] For more information see Chess symbols in Unicode.
+Reversible algebraic notation is based on long algebraic notation, but adds an additional letter for the piece that was captured, if any. The move can be reversed by moving the piece to its original square, and restoring the captured piece. For example, Rd2xBd6.[7]
+Concise reversible algebraic notation is similar to reversible algebraic notation, but omits the file or rank if it is not needed to disambiguate the move. For example, Rd2xB6. This notation is recommended by Gene Milener in Play Stronger Chess by Examining Chess 960: Usable Strategies for Fischer Random Chess Discovered.[7]
+Figurine concise reversible algebraic notation is a form of concise reversible algebraic notation with non-Staunton figurines, used by Gene Milener during Chess960 tournaments.[9]
+Descriptive notation was the prevalent notation in English-speaking countries until the late 1970s. In this system, files are named after the piece that is initially on the back rank, and each square has two names depending on whether it is from White's or Black's point of view. This is still used by a dwindling number of mainly older players, and knowledge of descriptive notation is necessary to study older chess books. Similar systems were used in other languages, including Spanish and French.[10]
+ICCF numeric notation. In international correspondence chess the use of algebraic notation may cause confusion, since different languages have different names for the pieces. The standard for transmitting moves in this form of chess is ICCF numeric notation.[11]
+Smith notation is a straightforward chess notation designed to be reversible and represent any move without ambiguity. The notation encodes the source square, destination square, and what piece was captured, if any.[12]
+Coordinate notation is similar to algebraic notation except that no abbreviation or symbol is used to show which piece is moving. It can do this almost without ambiguity because it always includes the square from which the piece moves as well as its destination, but promotions must be disambiguated by including the promoted piece type, such as in parentheses. It has proved hard for humans to write and read, but is used internally by some chess-related computer software.
+The following table lists examples of the same moves in some of the notations which may be used by humans. Each table cell contains White's move followed by Black's move, as they are listed in a single line of written notation.
+
+
+
+Chess notation examples
+
+
+Algebraic
+Figurine algebraic
+Long algebraic
+Reversible algebraic
+Concise reversible
+Smith
+Descriptive
+Coordinate
+ICCF
+
+
+e4 e5
+e4 e5
+e2e4 e7e5
+e2-e4 e7-e5
+e24 e75
+e2e4 e7e5
+P-K4 P-K4
+E2-E4 E7-E5
+5254 5755
+
+
+Nf3 Nc6
+♘f3  ♞c6
+Ng1f3 Nb8c6
+Ng1-f3 Nb8-c6
+Ng1f3 Nb8c6
+g1f3 b8c6
+N-KB3 N-QB3
+G1-F3 B8-C6
+7163 2836
+
+
+Bb5 a6
+♗b5 a6
+Bf1b5 a7a6
+Bf1-b5 a7-a6
+Bf1b5 a76
+f1b5 a7a6
+B-N5 P-QR3
+F1-B5 A7-A6
+6125 1716
+
+
+Bxc6 dxc6
+♗xc6 dxc6
+Bb5xc6 d7xc6
+Bb5xNc6 d7xBc6
+Bb5:Nc6 d7:Bc6
+b5c6n d7c6b
+BxN QPxB
+B5-C6 D7-C6
+2536 4736
+
+
+d3 Bb4+
+d3   ♝b4+
+d2d3 Bf8b4+
+d2-d3 Bf8-b4+
+d23 Bf8b4+
+d2d3 f8b4
+P-Q3 B-N5ch
+D2-D3 F8-B4
+4243 6824
+
+
+Nc3 Nf6
+♘c3  ♞f6
+Nb1c3 Ng8f6
+Nb1-c3 Ng8-f6
+Nb1c3 Ng8f6
+b1c3 g8f6
+N-B3 N-B3
+B1-C3 G8-F6
+2133 7866
+
+
+0-0 Bxc3
+0-0  ♝xc3
+0-0 Bb4xc3
+0-0 Bb4xNc3
+0-0 Bb4:Nc3
+e1g1c b4c3n
+0-0 BxN
+E1-G1 B4-C3
+5171 2433
+
+In all forms of notation, the result is usually indicated at the conclusion of the game by either "1–0", indicating that White won, "0–1" indicating that Black won or "½–½", indicating a draw. Moves that result in checkmate can be marked with "#", "++", "≠", or "‡" or to indicate the end of game and the winner, instead of or in addition to "1–0" or "0–1".
+Annotators commenting on a game frequently use question marks ("?") and exclamation marks ("!") to label a move as bad or praise the move as a good one (see Chess annotation symbols).[13]
+
+Notation systems for computers[edit]
+The following are commonly used for chess-related computer systems (in addition to Coordinate and Smith notation, which are described above):
+
+Portable Game Notation (PGN). This is a text-based file format in which chess moves are recorded with standard English algebraic notation with a small amount of markup to record the players and circumstances of the game. Most chess software is configured to process PGN files.[14]
+Steno-Chess. This is another format suitable for computer processing. It sacrifices the ability to play through games (by a human) for conciseness, which minimises the number of characters required to store a game.[15]
+Forsyth–Edwards Notation (FEN).  A single line format which gives the current positions of pieces on a board, to enable generation of a board in something other than the initial array of pieces.  It also contains other information such as castling rights, move number, and color on move.  It is incorporated into the PGN standard as a Tag Pair in conjunction with the SetUp tag.
+Extended Position Description (EPD). Another format which gives the current positions of a board, with an extended set of structured attribute values using the ASCII character set. It is intended for data and command interchange among chess playing programs. It is also intended for the representation of portable opening library repositories.[16] It is better than FEN for certain chess variants, such as Chess960.
+Notation for telegraph and radio[edit]
+Some special methods of notation were used for transmitting moves by telegraph or radio, usually using Morse Code.  The Uedemann code and Gringmuth notation worked by using a two-letter label for each square and transmitting four letters – two letters for the origin square followed by two letters for the destination square.  Castling is shown as a king move.  Squares are designated from White's side of the board, files from left to right and ranks from nearest to farthest.  The Rutherford code first converted the move into a number and then converted the move number into a composite Latin word.  It could also transmit moves of two games at the same time.
+
+Uedemann code[edit]
+This code was devised by Louis Uedemann (1854–1912).  The method was never actually used, mainly because a transposition of letters can result in a valid but incorrect move.  Many sources incorrectly use this name for the Gringmuth code.
+The files are labeled "A", "E", "I", "O", "O", "I", "E", and "A".  The ranks are labeled "B", "D", "F", "G", "H", "K", "L", and "P". A square on the queenside is designated by its file letter and then its rank letter.  A square on the kingside is designated by its rank letter then its file letter.[17]
+
+Gringmuth notation[edit]
+This method was invented by Dmitry Alexeyevich Gringmuth but it is sometimes incorrectly called the Uedemann Code. It was used as early as 1866. Files were designated with one of two letters, depending on whether it was on White's side or Black's side. These letters were: files 'B', 'C', 'D', 'F', 'G', 'H', 'K', and 'L' for White-side ranks 'A', 'E', 'I', 'O', corresponding to algebraic files 'a', 'b', ... 'h', and ranks 1, 2, 3, 4;  the aligned Black-side ranks were 'M', 'N', 'P', 'R', 'S', 'T', 'W', and 'Z', corresponding to algebraic 'a' ... 'h', used for Gringmuth ranks 'O', 'I', 'E', and 'A' corresponding to algebraic ranks 5, 6, 7, 8. Hence square 'a1' in algebraic notation is Gringmuth 'BA', and its diagonal opposite 'h8' is Gringmuth 'ZA'. A king's pawn opening 'e2e4' in algebraic would be 'GEGO' in Gringmuth, with a mirrored response by black 'e7e5' notated as 'SESO'.[17]
+
+Rutherford code[edit]
+This code was invented in 1880 by Sir William Watson Rutherford (1853–1927).  At the time, the British Post Office did not allow digits or ciphers in telegrams, but they did allow Latin words.  This method also allowed moves for two games to be transmitted at the same time.  In this method, the legal moves in the position were counted using a system until the move being made was reached. This was done for both games.  The move number of the first game was multiplied by 60 and added to the move number of the second game.  Leading zeros were added as necessary to give a four-digit number.  The first two digits would be 00 through 39, which corresponded to a table of 40 Latin roots.  The third digit corresponded to a list of 10 Latin prefixes and the last digit corresponded to a list of 10 Latin suffixes.  The resulting word was transmitted.
+After rules were changed so that ciphers were allowed in telegrams, this system was replaced by the Gringmuth Notation.[17]
+
+Recording positions[edit]
+Positions are usually shown as diagrams (images), using the symbols shown here for the pieces.
+There is also a notation for recording positions in text format, called the Forsyth–Edwards notation (FEN). This is useful for adjourning a game to resume later or for conveying chess problem positions without a diagram. A position can also be recorded by listing the pieces and the squares they reside on, for example: White: Ke1, Rd3, etc.
+Written chess notation recording is often necessary when participating in chess tournaments. In many tournaments players are required to record their games' notation on a score sheet.[18]
+
+Endgame classification[edit]
+There are also systems for classifying types of endgames. See Chess endgame § Endgame classification for more details.
+
+
+History[edit]
+Page from 1841 Chess Player's Chronicle. In modern algebraic notation, this would be written as 1.e4 e5 2.Bc4 Bc5 3.b4 Bxb4 4.f4 d5 5.exd5 Nf6 6.fxe5 Nxd5 7.Nf3 Bg4 8.0-0 0-0 9.c3 Ba5 10.Ba3 Re8 11.Qb3 Bxf3 12.Rxf3 Bb6+ 13.d4 Rxe5 14.Nd2 Nc6 15.Kh1 Na5 16.Qc2 Nxc4 17.Nxc4 Rh5 18.Ne5 Nxc3 19.Nxf7 Qxd4 20.Rg1 c5 21.Rxc3 Bc7 22.h3 b6 23.Rf3 Qd5 24.Bb2 g5 25.Qc3 Qd4 26.Qb3 c4 27.Qb4 Qc5 28.Qc3 Be5 29.Nxe5 1–0 
+The notation for chess moves evolved slowly, as these examples show. The last is in algebraic chess notation; the others show the evolution of descriptive chess notation and use spelling and notation of the period.
+
+1614:  The white king commands his owne knight into the third house before his owne bishop.
+1750:  K. knight to His Bishop's 3d.
+1837:  K.Kt. to B.third sq.
+1848:  K.Kt. to B's 3rd.
+1859:  K. Kt. to B. 3d.
+1874:  K Kt to B3
+1889:  KKt-B3
+1904:  Kt-KB3
+1946:  N-KB3
+Modern:  Nf3[19]
+A text from Shakespeare's time uses complete sentences to describe moves, for example, "Then the black king for his second draught brings forth his queene, and placest her in the third house, in front of his bishop's pawne", which nowadays would be written simply as 2...Qf6.[20] The great 18th-century player Philidor used an almost equally verbose approach in his influential book Analyse du jeu des Échecs, for example, "The king's bishop, at his queen bishop's fourth square."[21]
+Algebraic chess notation was first used by Philipp Stamma (c. 1705–1755) in an almost fully developed form, before the now-obsolete descriptive chess notation evolved. The main difference between Stamma's system and the modern system is that Stamma used "p" for pawn moves and the original file of the piece ("a" through "h") instead of the initial letter of the piece.[22]
+In London in 1747, Philidor convincingly defeated Stamma in a match. Consequently, his writings (which were translated into English) became more influential than Stamma's in the English-speaking chess world; this may have led to the adoption of a descriptive system for writing chess moves, rather than Stamma's coordinate-based approach. However, algebraic notation became popular in Europe following its adoption by the highly influential Handbuch des Schachspiels, and became dominant in Europe during the 20th century. It did not become popular in the English-speaking countries, however, until the 1970s.[23]
+
+See also[edit]
+
+
+
+The Wikibook Chess has a page on the topic of: Notating The Game
+
+Algebraic notation (chess)
+Chess opening theory table
+Chess symbols in Unicode
+References[edit]
+
+
+^ Gijssen, G. "An Arbiter's Notebook". ChessCafé.com. Archived from the original on 2007-11-05.
+
+^ "How to Read and Write Algebraic Chess Notation". The Chess House. Archived from the original on 2007-10-24.  Includes sample hand-written score sheet.
+
+^ "FIDE Handbook: Rules – Appendices". Fédération Internationale des Échecs. Archived from the original on October 3, 2013. Retrieved September 29, 2013.
+
+^ "FIDE Handbook E. Miscellaneous / 01. Laws of Chess / FIDE Laws of Chess taking effect from 1 January 2018 /". Fédération Internationale des Échecs.
+
+^ Schiller, Eric, The Official Rules of Chess, 2003, ISBN 978-1-58042-092-1, p. 25
+
+^ "Rulebook Changes (as of August 2007)". The United States Chess Federation. Archived from the original on 2015-06-10.
+
+^ a b c Jeffreys, Michael. "Not Your Father's Chess". Archived from the original on 22 June 2006. Retrieved 29 September 2013.
+
+^ "Test for Unicode support in Web browsers". Archived from the original on 2008-01-03.
+
+^ Milener, Gene (2005). "Rotatable Icons, and Chess Diagrams for the Blind" (PDF). Archived from the original (PDF) on 1 October 2018.
+
+^ McKim, D.K. "Great Chess Books". Jeremy Silman. Archived from the original on 2007-12-19. Published by an International Master and prolific writer.
+
+^ "ICCF Numeric Chess Notation". ChessNotation.com. Archived from the original on 2017-01-05.
+
+^ "Chess Viewer - Smith Notation". ChessClub.com. Archived from the original on 2016-01-17.
+
+^ "Algebraic and descriptive notations". Exeter Chess Club. Archived from the original on 2007-12-23. See section "Symbols: evaluation and comment codes"
+
+^ Members of the Internet newsgroup rec.games.chess. Edwards, S.J. (ed.). "ICC Help: PGN spec". The Internet Chess Club. Archived from the original on 2004-08-07.
+
+^ Angelini, Éric. "Steno-Chess". www.chessvariants.com. Archived from the original on 10 January 2018. Retrieved 4 May 2018.
+
+^ "Archived copy". Archived from the original on 2007-08-22. Retrieved 2007-06-25.{{cite web}}:  CS1 maint: archived copy as title (link)
+
+^ a b c David Hooper and Kenneth Whyld, 1992, The Oxford Companion to Chess, ISBN 0-19-280049-3
+
+^ "How to Read and Write Chess Notation". Archived from the original on 2017-04-13.
+
+^ 
+McCrary, Robert John (ed.). The Hall-of-Fame History of U.S. Chess. Vol. 1. pp. 14–15.[full citation needed]
+
+^ 
+Saul, Arthur (1614). The famous game of Chesse-play, Truely discouered, and all doubts resolued. London, UK: A.S. Gent. Archived from the original on 2018-05-04. Retrieved 2017-06-29 – via University of Michigan. So that by reading this small Booke thou shalt profit more then[sic] by the playing a thousand Mates. An Exercise full of delight; fit for Princes, or any person of what qualitie soeuer.
+
+^ 
+Philidor, François-André Danican (2005) [1777]. Analyse du jeu des Échecs [Analysis of the Game of Chess] (reprint, translated ed.). Hardinge Simpole. p. 2.
+
+^ 
+Davidson, Henry (1981) [1949]. A Short History of Chess. McKay. pp. 152–53. ISBN 0-679-14550-8.
+
+^ 
+McCrary, R.J. "The History of Chess Notation". Archived from the original on 2008-07-04.
+
+
+External links[edit]
+"Chess Notation" by Edward Winter
+vteChessOutline
+Chess theory
+Chess titles
+Grandmaster
+Computer chess
+glossary
+matches
+engines
+software
+Correspondence chess
+FIDE
+Glossary
+Online chess
+Premove
+Internet chess server
+list
+Rating system
+world rankings
+norms
+Variants
+List
+World records
+Equipment
+Chess set
+chessboard
+Dubrovnik chess set
+Staunton chess set
+Chess pieces
+King
+Queen
+Rook
+Bishop
+Knight
+Pawn
+Fairy
+Chess clock
+Chess table
+Score sheets
+History
+Timeline
+Versus de scachis
+Göttingen manuscript
+Charlemagne chessmen
+Lewis chessmen
+Romantic chess
+Hypermodernism
+Soviet chess school
+Top player comparison
+Geography of chess
+Africa
+South Africa
+China
+Europe
+Armenia
+Spain
+India
+Notable games
+List of chess players
+amateurs
+female
+grandmasters
+Women in chess
+Transgender people in chess
+Chess museums
+Bobby Fischer Center
+Gökyay Association Chess Museum
+World Chess Hall of Fame
+Rules
+Castling
+Cheating in chess
+Check
+Checkmate
+Draw
+by agreement
+Fifty-move rule
+Perpetual check
+Stalemate
+Threefold repetition
+En passant
+Pawn promotion
+Time control
+Fast chess
+Touch-move rule
+White and Black
+Terms
+Blunder
+Chess notation
+algebraic
+descriptive
+PGN
+annotation symbols
+symbols in Unicode
+Fianchetto
+Gambit
+Key square
+King walk
+Open file
+Half-open file
+Outpost
+Pawns
+backward
+connected
+doubled
+isolated
+passed
+Swindle
+Tempo
+Transposition
+Trap
+Tactics
+Artificial castling
+Battery
+Alekhine's gun
+Block
+Checkmate patterns
+Combination
+Decoy
+Deflection
+Desperado
+Discovered attack
+Double check
+Fork
+Interference
+Overloading
+Pawn storm
+Pin
+Sacrifice
+Queen sacrifice
+Skewer
+Undermining
+Windmill
+X-ray
+Zwischenzug
+Strategy
+Compensation
+Exchange
+the exchange
+Initiative
+first-move advantage
+Middlegame
+Pawn structure
+Hedgehog
+Isolated Queen's Pawn
+Maróczy Bind
+Minority attack
+Piece values
+Prophylaxis
+School of chess
+OpeningsFlank opening
+Benko Opening
+Bird's Opening
+Dunst Opening
+English Opening
+Grob's Attack
+Larsen's Opening
+Zukertort Opening
+King's Indian Attack
+Réti Opening
+King's Pawn Game
+Alekhine's Defence
+Caro–Kann Defence
+French Defence
+Modern Defence
+Nimzowitsch Defence
+Open Game
+Four Knights Game
+Giuoco Piano
+Italian Game
+King's Gambit
+Petrov's Defence
+Philidor Defence
+Ponziani Opening
+Ruy Lopez
+Semi-Italian Opening
+Scotch Game
+Two Knights Defense
+Vienna Game
+Owen's Defence
+Pirc Defence
+Austrian Attack
+Scandinavian Defense
+Sicilian Defence
+Alapin
+Dragon/Accelerated Dragon
+Najdorf
+Scheveningen
+Queen's Pawn Game
+Budapest Gambit
+Colle System
+Dutch Defence
+English Defence]]
+Indian Defence
+Benoni Defence
+Modern Benoni
+Bogo-Indian Defence
+Catalan Opening
+Grünfeld Defence
+King's Indian Defence
+Nimzo-Indian Defence
+Old Indian Defense
+Queen's Indian Defence
+London System
+Richter–Veresov Attack
+Queen's Gambit
+Accepted
+Declined
+Slav Defence
+Semi-Slav Defence
+Chigorin Defense
+Torre Attack
+Trompowsky Attack
+Other
+List of openings
+theory table
+List of chess gambits
+Irregular
+Bongcloud Attack
+Fool's mate
+Scholar's mate
+Endgames
+Bishop and knight checkmate
+King and pawn vs. king
+Opposite-coloured bishops
+Pawnless endgame
+Queen and pawn vs. queen
+Queen vs. pawn
+Queen vs. rook
+Rook and bishop vs. rook
+Rook and pawn vs. rook
+Lucena position
+Philidor position
+Strategy
+fortress
+opposition
+Tarrasch rule
+triangulation
+Zugzwang
+Study
+Tablebase
+Two knights endgame
+Wrong bishop
+Wrong rook pawn
+Tournaments
+List of strong chess tournaments
+Chess Olympiad
+Women
+World Chess Championship
+List
+Candidates Tournament
+Chess World Cup
+FIDE Grand Prix
+Other world championships
+Women
+Team
+Rapid
+Blitz
+Junior
+Youth
+Senior
+Amateur
+Chess composition
+Solving
+Computer chess championships
+CCC
+CSVN
+North American
+TCEC
+WCCC
+WCSCC
+Art and media
+Caïssa
+Chess aesthetics
+Chess in the arts
+early literature
+film
+novels
+paintings
+poetry
+short stories
+Chess books
+opening books
+endgame literature
+Oxford Companion
+Chess libraries
+Chess newspaper columns
+Chess periodicals
+Related
+Arbiter
+Chess boxing
+Chess club
+Chess composer
+Chess engine
+AlphaZero
+Deep Blue
+Leela Chess Zero
+Stockfish
+Chess problem
+glossary
+joke chess
+Chess prodigy
+Elo rating system
+Simultaneous exhibition
+Tie-breaking in Swiss-system tournaments
+Solving chess
+
+ Chess portal
+Category
+
+
+
+
